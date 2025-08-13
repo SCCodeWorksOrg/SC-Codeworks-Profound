@@ -1,0 +1,17 @@
+{
+  "screen": { "screen_name": "S6I02S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "S6I02S", "identifier_value": "S6I02S" }, 
+    { "id": "D_5_2_W", "field_type": "output field", "value": "script: value", "left": "27px", "parent_window": "S6I02S", "width": "83px" }, 
+    { "id": "D_6_2_W", "field_type": "output field", "value": "script: value", "left": "22px", "parent_window": "S6I02S", "width": "88px" }, 
+    { "id": "D_7_6_W", "field_type": "output field", "value": "script: value", "top": "147px", "left": "40px", "parent_window": "S6I02S", "width": "50px" }, 
+    { "id": "D_8_2_W", "field_type": "output field", "value": "script: value", "left": "9px", "parent_window": "S6I02S", "width": "101px" }, 
+    { "id": "D_11_7_W", "field_type": "output field", "value": "script: value", "left": "54px", "parent_window": "S6I02S", "width": "56px", "text_align": "right", "visibility": "hidden" }, 
+    { "id": "I_11_13_W", "field_type": "textbox", "value": "script: value", "parent_window": "S6I02S", "visibility": "hidden" }, 
+    { "id": "I_12_13_W", "field_type": "textbox", "value": "script: value", "parent_window": "S6I02S", "visibility": "hidden" }, 
+    { "id": "I_13_13_W", "field_type": "textbox", "value": "script: value", "parent_window": "S6I02S", "visibility": "hidden" }, 
+    { "id": "I_14_13_W", "field_type": "textbox", "value": "script: value", "parent_window": "S6I02S", "visibility": "hidden" }, 
+    { "id": "I_15_13_W", "field_type": "textbox", "value": "script: value", "parent_window": "S6I02S", "visibility": "hidden" }, 
+    { "id": "image-source-custom", "field_type": "image", "value": "script: value", "color": "#000000", "font_family": "\"Open Sans\", sans-serif", "font_size": "14px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 0, 0)", "text_transform": "none", "word_spacing": "0px", "top": "219px", "left": "340px", "z_index": "10", "parent_window": "S6I02S", "newitem": "true", "image_source": "/profoundui/userdata/myfiles/placeholder.jpg", "height": "243px", "width": "411px" }
+  ]
+}

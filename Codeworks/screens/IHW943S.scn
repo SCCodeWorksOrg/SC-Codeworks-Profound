@@ -1,0 +1,11 @@
+{
+  "screen": { "screen_name": "IHW943S" },
+  "items": [
+    { "id": "D_1_11", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "IHW943S" }, 
+    { "id": "D_4_5", "field_type": "output field", "value": "script: value", "top": "73px", "left": "53px", "text_align": "right" }, 
+    { "id": "D_4_34", "field_type": "output field", "value": "script: value", "top": "73px", "left": "343px", "text_align": "right" }, 
+    { "id": "D_4_71", "field_type": "output field", "value": "script: value", "top": "73px", "left": "713px", "text_align": "right" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "top": "97px", "left": "23px", "text_align": "right" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "3", "number_of_columns": "11", "row_height": "24", "header_height": "30", "column_widths": "53,20,100,50,30,40,22,20,20,160,340", "left": "13px", "top": "241px", "height": "72px", "width": "856px" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "screen": { "screen_name": "Select Output Type and Output Form" },
+  "items": [
+    { "id": "D_1_2", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "                      Select Output Type and Output Form" }, 
+    { "id": "I_5_41", "field_type": "textbox", "value": "script: value", "width": "26px" }, 
+    { "id": "I_9_41", "field_type": "textbox", "value": "script: value", "width": "27px" }, 
+    { "id": "I_12_41", "field_type": "textbox", "value": "script: value", "width": "26px" }, 
+    { "id": "I_13_41", "field_type": "textbox", "value": "script: value", "width": "41px" }, 
+    { "id": "I_14_41", "field_type": "textbox", "value": "script: value", "width": "29px" }
+  ]
+}

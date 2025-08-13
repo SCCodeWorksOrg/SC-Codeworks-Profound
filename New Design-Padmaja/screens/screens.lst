@@ -1,0 +1,810 @@
+{
+  "screens": [
+    {
+      "screen": "proper",
+      "identifiers": [
+        { "id": "D_10_2", "value": "Opt Group Proper Name                           Class  ID No.   Group  Require" },
+        { "id": "D_14_57", "value": "5" }
+      ]
+    },
+    {
+      "screen": "WW_Proper_Desc",
+      "identifiers": [
+        { "id": "D_2_26", "value": "Work With Proper Descriptions" }
+      ]
+    },
+    {
+      "screen": "WDSLMainMenu",
+      "identifiers": [
+        { "id": "D_2_31", "value": "WDLS Main Menu" }
+      ]
+    },
+    {
+      "screen": "WDLS CSR Menu",
+      "identifiers": [
+        { "id": "D_5_2", "value": "Choose one of the following Options." }
+      ]
+    },
+    {
+      "screen": "Dock",
+      "identifiers": [
+        { "id": "D_10_18", "value": "Ap  L L" }
+      ]
+    },
+    {
+      "screen": "regions",
+      "identifiers": [
+        { "id": "D_2_32", "value": "Work With Regions" }
+      ]
+    },
+    {
+      "screen": "Wwtaskcodes",
+      "identifiers": [
+        { "id": "D_1_11", "value": "TSW01S" },
+        { "id": "D_2_31", "value": "Work With Task Codes" }
+      ]
+    },
+    {
+      "screen": "problemtracking",
+      "identifiers": [
+        { "id": "D_2_34", "value": "Work With Logs" }
+      ]
+    },
+    {
+      "screen": "Bottom",
+      "identifiers": [
+        { "id": "D_21_67", "value": "       Bottom" }
+      ]
+    },
+    {
+      "screen": "ITU02SP",
+      "identifiers": [
+        { "id": "D_3_4", "value": "ITU02SP" },
+        { "id": "D_3_31", "value": "Maintain Item Pictures" }
+      ]
+    },
+    {
+      "screen": "tallys",
+      "identifiers": [
+        { "id": "D_1_11", "value": "IHW01S" },
+        { "id": "D_8_10", "value": "2=Change          3=Comments        4=Cancel          5=Inquiry" },
+        { "id": "D_9_10", "value": "6=Unload Info     7=Rail Info       9=W/R Inquiry     AC=Appt Contact" }
+      ]
+    },
+    {
+      "screen": "carriers",
+      "identifiers": [
+        { "id": "D_2_32", "value": "Work With Carriers" }
+      ]
+    },
+    {
+      "screen": "AHW02S",
+      "identifiers": [
+        { "id": "D_1_13", "value": "AHW02S" }
+      ]
+    },
+    {
+      "screen": "AJW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "AJW01S" }
+      ]
+    },
+    {
+      "screen": "BFW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "BFW01S" }
+      ]
+    },
+    {
+      "screen": "BLW01R",
+      "identifiers": [
+        { "id": "D_1_12", "value": "BLW01R" }
+      ]
+    },
+    {
+      "screen": "CEW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CEW01S" }
+      ]
+    },
+    {
+      "screen": "CMW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CMW01S" }
+      ]
+    },
+    {
+      "screen": "CPW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CPW01S" }
+      ]
+    },
+    {
+      "screen": "HMI20S",
+      "modified": "1755015234746",
+      "identifiers": [
+        { "id": "D_1_12", "value": "HMI20S" }
+      ]
+    },
+    {
+      "screen": "IDW02S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "IDW02S" },
+        { "id": "D_4_3", "value": "ILW02S" }
+      ]
+    },
+    {
+      "screen": "IDW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "IDW01S" }
+      ]
+    },
+    {
+      "screen": "KHW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "KHW01S" }
+      ]
+    },
+    {
+      "screen": "KDW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "KDW01S" }
+      ]
+    },
+    {
+      "screen": "KNW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "KNW01S" }
+      ]
+    },
+    {
+      "screen": "LBW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "LBW01S" }
+      ]
+    },
+    {
+      "screen": "LMW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "LMW01S" }
+      ]
+    },
+    {
+      "screen": "LTW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "LTW01S" }
+      ]
+    },
+    {
+      "screen": "LUW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "LUW01S" }
+      ]
+    },
+    {
+      "screen": "MAW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "MAW01S" }
+      ]
+    },
+    {
+      "screen": "OBW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "OBW01S" },
+        { "id": "D_9_10", "value": "2=Change          3=Order Comments  4=Delete          5=Bill Synopsis" },
+        { "id": "D_10_10", "value": "7=BoL Inquiry     8=Print Picksht   9=Print BOL       A1=Holiday" }
+      ]
+    },
+    {
+      "screen": "OBW02S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "OBW02S" }
+      ]
+    },
+    {
+      "screen": "OBW03R",
+      "identifiers": [
+        { "id": "D_1_11", "value": "OBW03R" }
+      ]
+    },
+    {
+      "screen": "PCP03S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PCP03S" }
+      ]
+    },
+    {
+      "screen": "PMI11S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PMI11S" }
+      ]
+    },
+    {
+      "screen": "PMW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PMW01S" }
+      ]
+    },
+    {
+      "screen": "PUW02S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PUW02S" }
+      ]
+    },
+    {
+      "screen": "SMW07SP",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SMW07SP" }
+      ]
+    },
+    {
+      "screen": "SNW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SNW01S" }
+      ]
+    },
+    {
+      "screen": "SSW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SSW01S" }
+      ]
+    },
+    {
+      "screen": "STW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "STW01S" }
+      ]
+    },
+    {
+      "screen": "STW10S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "STW10S" }
+      ]
+    },
+    {
+      "screen": "S1W50S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "S1W50S" }
+      ]
+    },
+    {
+      "screen": "CCWRKDIS",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CCWRKDIS" }
+      ]
+    },
+    {
+      "screen": "WBP20S",
+      "identifiers": [
+        { "id": "D_5_3", "value": "WBP20S" }
+      ]
+    },
+    {
+      "screen": "WBW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "WBW01S" }
+      ]
+    },
+    {
+      "screen": "items",
+      "identifiers": [
+        { "id": "D_1_12", "value": "ITW01S" }
+      ]
+    },
+    {
+      "screen": "BHW02S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "BHW02S" }
+      ]
+    },
+    {
+      "screen": "QMW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "QMW01S" }
+      ]
+    },
+    {
+      "screen": "RHW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RHW01S" }
+      ]
+    },
+    {
+      "screen": "RQW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RQW01S" }
+      ]
+    },
+    {
+      "screen": "RQW50S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RQW50S" }
+      ]
+    },
+    {
+      "screen": "SOW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SOW01S" }
+      ]
+    },
+    {
+      "screen": "FCW03S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "FCW03S" }
+      ]
+    },
+    {
+      "screen": "APW01S",
+      "identifiers": [
+        { "id": "D_1_13", "value": "APW01S" }
+      ]
+    },
+    {
+      "screen": "LCW01S",
+      "identifiers": [
+        { "id": "D_1_13", "value": "LCW01S" }
+      ]
+    },
+    {
+      "screen": "LAW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "LAW01S" }
+      ]
+    },
+    {
+      "screen": "RSW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RSW01S" }
+      ]
+    },
+    {
+      "screen": "AJW02S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "AJW02S" }
+      ]
+    },
+    {
+      "screen": "SOW05S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SOW05S" }
+      ]
+    },
+    {
+      "screen": "WOW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "WOW01S" }
+      ]
+    },
+    {
+      "screen": "UMDWUS",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWUS" }
+      ]
+    },
+    {
+      "screen": "UMDWEXT",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWEXT" }
+      ]
+    },
+    {
+      "screen": "UMDIUL",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDIUL" }
+      ]
+    },
+    {
+      "screen": "UCW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "UCW01S" }
+      ]
+    },
+    {
+      "screen": "STI91S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "STI91S" }
+      ]
+    },
+    {
+      "screen": "STI90S",
+      "identifiers": [
+        { "id": "D_1_2", "value": "STI90S" }
+      ]
+    },
+    {
+      "screen": "LBW04S",
+      "identifiers": [
+        { "id": "D_1_3", "value": "LBW04S" }
+      ]
+    },
+    {
+      "screen": "UMDWFN",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWFN" }
+      ]
+    },
+    {
+      "screen": "UMDWMH",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWMH" }
+      ]
+    },
+    {
+      "screen": "UMDWXD",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWXD" }
+      ]
+    },
+    {
+      "screen": "WZW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "WZW01S" }
+      ]
+    },
+    {
+      "screen": "Work With Postal Abbreviations",
+      "identifiers": [
+        { "id": "D_2_26", "value": "Work With Postal Abbreviations" }
+      ]
+    },
+    {
+      "screen": "OBU01S",
+      "identifiers": [
+        { "id": "D_1_14", "value": "OBU01S" }
+      ]
+    },
+    {
+      "screen": "OBP36R",
+      "identifiers": [
+        { "id": "D_1_12", "value": "OBP36R" }
+      ]
+    },
+    {
+      "screen": "IHU01S",
+      "identifiers": [
+        { "id": "D_1_3", "value": " 7/11/25" },
+        { "id": "D_1_13", "value": "IHU01S" },
+        { "id": "D_2_3", "value": " 6:51.03" },
+        { "id": "D_2_71", "value": "PADMAJAP" }
+      ]
+    },
+    {
+      "screen": "EFW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "EFW01S" }
+      ]
+    },
+    {
+      "screen": "ITW02S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "ITW02S" },
+        { "id": "D_4_4", "value": "I1D01S" }
+      ]
+    },
+    {
+      "screen": "BUW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "BUW01S" }
+      ]
+    },
+    {
+      "screen": "COW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "COW01S" }
+      ]
+    },
+    {
+      "screen": "login_background",
+      "identifiers": [
+        { "id": "login_button", "value": "Login" }
+      ]
+    },
+    {
+      "screen": "job queue",
+      "identifiers": [
+        { "id": "D_19_2", "value": "Press Enter to continue." }
+      ]
+    },
+    {
+      "screen": "display ",
+      "identifiers": [
+        { "id": "D_1_16", "value": "            Display Program Messages" }
+      ]
+    },
+    {
+      "screen": "dock design",
+      "identifiers": [
+        { "id": "D_1_12", "value": "XPW01S" }
+      ]
+    },
+    {
+      "screen": "Edit Library List",
+      "identifiers": [
+        { "id": "D_1_32", "value": "Edit Library List" }
+      ]
+    },
+    {
+      "screen": "outbound",
+      "identifiers": [
+        { "id": "D_3_2", "value": "Type choices, press Enter." }
+      ]
+    },
+    {
+      "screen": "IBI02S",
+      "identifiers": [
+        { "id": "D_3_4", "value": "IBI02S" }
+      ]
+    },
+    {
+      "screen": "SFW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SFW01S" }
+      ]
+    },
+    {
+      "screen": "EPW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "EPW01S" }
+      ]
+    },
+    {
+      "screen": "CSW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "CSW01S" }
+      ]
+    },
+    {
+      "screen": "S3W01R",
+      "identifiers": [
+        { "id": "D_1_12", "value": "S3W01R" }
+      ]
+    },
+    {
+      "screen": "NTW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "NTW01S" }
+      ]
+    },
+    {
+      "screen": "TRW01S",
+      "modified": "1755012978883",
+      "identifiers": [
+        { "id": "D_1_12", "value": "TRW01S" }
+      ]
+    },
+    {
+      "screen": "SRW01S",
+      "modified": "1755015406062",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SRW01S" }
+      ]
+    },
+    {
+      "screen": "SAW01S",
+      "modified": "1755015545430",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SAW01S" }
+      ]
+    },
+    {
+      "screen": "UMDWOA",
+      "modified": "1755015845082",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWOA" }
+      ]
+    },
+    {
+      "screen": "SDW01S",
+      "modified": "1755016034378",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SDW01S" }
+      ]
+    },
+    {
+      "screen": "CMW20S",
+      "modified": "1755017247563",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CMW20S" }
+      ]
+    },
+    {
+      "screen": "L1W01S",
+      "modified": "1755018268130",
+      "identifiers": [
+        { "id": "D_1_12", "value": "L1W01S" }
+      ]
+    },
+    {
+      "screen": "IHW943S",
+      "modified": "1755021230925",
+      "identifiers": [
+        { "id": "D_1_11", "value": "IHW943S" }
+      ]
+    },
+    {
+      "screen": "OHW940S",
+      "modified": "1755018710635",
+      "identifiers": [
+        { "id": "D_1_12", "value": "OHW940S" }
+      ]
+    },
+    {
+      "screen": "IFW01S",
+      "modified": "1755019080891",
+      "identifiers": [
+        { "id": "D_1_12", "value": "IFW01S" }
+      ]
+    },
+    {
+      "screen": "VCW01S",
+      "modified": "1755019343060",
+      "identifiers": [
+        { "id": "D_1_12", "value": "VCW01S" }
+      ]
+    },
+    {
+      "screen": "KBW01S",
+      "modified": "1755019674934",
+      "identifiers": [
+        { "id": "D_1_12", "value": "KBW01S" }
+      ]
+    },
+    {
+      "screen": "CIW01S",
+      "modified": "1755020031403",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CIW01S" }
+      ]
+    },
+    {
+      "screen": "EVW01S",
+      "modified": "1755020367610",
+      "identifiers": [
+        { "id": "D_1_12", "value": "EVW01S" }
+      ]
+    },
+    {
+      "screen": "CTW10S",
+      "modified": "1755020680810",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CTW10S" }
+      ]
+    }
+  ],
+  "windows": [
+    {
+      "screen": "window_buttons",
+      "identifiers": [
+        { "id": "D_21_13_W", "value": "Detail Extra" }
+      ]
+    },
+    {
+      "screen": "Unnamed Window 1",
+      "identifiers": [
+        { "id": "D_20_63_W", "value": "      Bottom" },
+        { "id": "D_21_1_W", "value": "Exit" },
+        { "id": "D_21_13_W", "value": "Detail Extra" },
+        { "id": "D_21_30_W", "value": "Line Notes" },
+        { "id": "D_21_45_W", "value": "OrderNotes" },
+        { "id": "D_21_60_W", "value": "Serials" },
+        { "id": "D_22_1_W", "value": "Expand" },
+        { "id": "D_22_13_W", "value": "Cancel" }
+      ]
+    },
+    {
+      "screen": "Exit",
+      "identifiers": [
+        { "id": "D_21_1_W", "value": "Exit" },
+        { "id": "D_21_13_W", "value": "Detail Extra" },
+        { "id": "D_21_30_W", "value": "Line Notes" },
+        { "id": "D_21_45_W", "value": "OrderNotes" },
+        { "id": "D_21_60_W", "value": "Serials" },
+        { "id": "D_22_1_W", "value": "Expand" },
+        { "id": "D_22_13_W", "value": "Cancel" }
+      ]
+    },
+    {
+      "screen": "ITU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ITU01S" }
+      ]
+    },
+    {
+      "screen": "Select Enviroment",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ENI01S" }
+      ]
+    },
+    {
+      "screen": "System comments child",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "CMU02S" }
+      ]
+    },
+    {
+      "screen": "LBW02S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "LBW02S" }
+      ]
+    },
+    {
+      "screen": "SAI02R",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SAI02R" }
+      ]
+    },
+    {
+      "screen": "SDU05R",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SDU05R" }
+      ]
+    },
+    {
+      "screen": "FCI08S",
+      "identifiers": [
+        { "id": "D_1_10_W", "value": "FCI08S" }
+      ]
+    },
+    {
+      "screen": "PTDUTL",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "PTDUTL" }
+      ]
+    },
+    {
+      "screen": "SNU03R",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SNU03R" }
+      ]
+    },
+    {
+      "screen": "ITU02S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ITU02S" }
+      ]
+    },
+    {
+      "screen": "ITU03R",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ITU03R" }
+      ]
+    },
+    {
+      "screen": "ITU08S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ITU08S" }
+      ]
+    },
+    {
+      "screen": "EAU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "EAU01S" }
+      ]
+    },
+    {
+      "screen": "I1I01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "I1I01S" }
+      ]
+    },
+    {
+      "screen": "OMDUAS",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "OMDUAS" }
+      ]
+    },
+    {
+      "screen": "SFU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SFU01S" }
+      ]
+    },
+    {
+      "screen": "TRU01R",
+      "modified": "1755014830058",
+      "identifiers": [
+        { "id": "D_5_4", "value": "TRU01R" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "screen": { "screen_name": "PTDWCL" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "PTDWCL" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "5px" }, 
+    { "id": "D_10_71", "field_type": "output field", "value": "Status" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "5", "row_height": "24", "header_height": "30", "column_widths": "65,60,170,400,101", "left": "13px", "top": "241px", "height": "240px", "width": "797px" }
+  ]
+}

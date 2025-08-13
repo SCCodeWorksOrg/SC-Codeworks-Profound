@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "SZW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "SZW01S" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "9", "number_of_columns": "10", "row_height": "24", "header_height": "30", "column_widths": "53,60,50,30,170,130,112,40,110,70", "left": "13px", "top": "241px", "height": "216px", "width": "826px" }
+  ]
+}

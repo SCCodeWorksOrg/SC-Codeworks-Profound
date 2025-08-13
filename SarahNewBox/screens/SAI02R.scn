@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "SAI02R" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "SAI02R", "identifier_value": "SAI02R" }, 
+    { "id": "D_5_39_W", "field_type": "output field", "value": "script: value", "left": "393px", "parent_window": "SAI02R" }, 
+    { "id": "D_6_40_W", "field_type": "output field", "value": "script: value", "left": "394px", "parent_window": "SAI02R" }
+  ]
+}

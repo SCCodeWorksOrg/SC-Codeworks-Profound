@@ -1,0 +1,24 @@
+{
+  "screen": { "screen_name": "IFW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "IFW01S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "left": "10px", "text_align": "right" }, 
+    { "id": "D_4_20", "field_type": "output field", "value": "script: value", "top": "73px", "left": "190px", "text_align": "right" }, 
+    { "id": "D_5_22", "field_type": "output field", "value": "script: value", "top": "97px", "left": "210px", "text_align": "right" }, 
+    { "id": "D_6_20", "field_type": "output field", "value": "script: value", "top": "121px", "left": "190px", "text_align": "right" }, 
+    { "id": "D_6_63", "field_type": "output field", "value": "script: value", "top": "121px", "left": "620px", "text_align": "right" }, 
+    { "id": "D_10_50", "field_type": "output field", "value": "script: value", "left": "529px", "width": "110px" }, 
+    { "id": "D_11_2", "field_type": "output field", "value": "script: value", "left": "2px" }, 
+    { "id": "D_11_35", "field_type": "output field", "value": "script: value", "left": "343px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "choices": "Change,Delete,Details", "value": "script: value", "top": "269px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "choices": "Change,Delete,Details", "value": "script: value", "top": "295px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "choices": "Change,Delete,Details", "value": "script: value", "top": "323px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "choices": "Change,Delete,Details", "value": "script: value", "top": "351px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "choices": "Change,Delete,Details", "value": "script: value", "top": "380px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "choices": "Change,Delete,Details", "value": "script: value", "top": "408px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "choices": "Change,Delete,Details", "value": "script: value", "top": "436px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "choices": "Change,Delete,Details", "value": "script: value", "top": "463px" }, 
+    { "id": "I_20_3", "field_type": "combo box", "choices": "Change,Delete,Details", "value": "script: value", "top": "491px" }, 
+    { "id": "subfile", "field_type": "grid", "data_columns": "3,6,11,14,35,44,47,50,59,71,74,78", "value": "script: value", "number_of_rows": "9", "number_of_columns": "12", "row_height": "28", "header_height": "30", "column_widths": "52,50,30,210,90,30,30,90,115,33,42,41", "left": "13px", "top": "265px", "height": "252px", "width": "814px" }
+  ]
+}

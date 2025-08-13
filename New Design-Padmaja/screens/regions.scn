@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "regions" },
+  "items": [
+    { "id": "D_2_32", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "Work With Regions" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "3", "number_of_columns": "3", "row_height": "24", "header_height": "30", "column_widths": "54,110,350", "left": "13px", "top": "241px", "height": "72px", "width": "515px" }
+  ]
+}

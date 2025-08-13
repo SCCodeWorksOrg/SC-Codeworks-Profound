@@ -1,0 +1,18 @@
+{
+  "screen": { "screen_name": "UMDIUL" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "UMDIUL" }, 
+    { "id": "D_4_1", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "32px" }, 
+    { "id": "D_4_15", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "42px" }, 
+    { "id": "D_4_34", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "42px" }, 
+    { "id": "D_4_53", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "62px" }, 
+    { "id": "D_9_43", "field_type": "output field", "value": "script: value", "left": "416px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "-3px" }, 
+    { "id": "D_10_6", "field_type": "output field", "value": "script: value", "left": "50px" }, 
+    { "id": "D_10_13", "field_type": "output field", "value": "script: value", "left": "120px" }, 
+    { "id": "D_10_25", "field_type": "output field", "value": "script: value", "left": "238px" }, 
+    { "id": "D_10_43", "field_type": "output field", "value": "script: value", "left": "416px" }, 
+    { "id": "D_10_58", "field_type": "output field", "value": "script: value", "left": "569px" }, 
+    { "id": "D_10_67", "field_type": "output field", "value": "script: value", "left": "659px" }
+  ]
+}

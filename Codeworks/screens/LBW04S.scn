@@ -1,0 +1,23 @@
+{
+  "screen": { "screen_name": "LBW04S" },
+  "items": [
+    { "id": "D_1_3", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "LBW04S" }, 
+    { "id": "D_3_4", "field_type": "output field", "value": "script: value", "top": "54px", "text_align": "right", "width": "42px" }, 
+    { "id": "D_3_25", "field_type": "output field", "value": "script: value", "top": "54px", "text_align": "right", "width": "83px" }, 
+    { "id": "D_3_43", "field_type": "output field", "value": "script: value", "top": "54px", "text_align": "right", "width": "232px" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "78px", "text_align": "right", "width": "62px" }, 
+    { "id": "D_4_20", "field_type": "output field", "value": "script: value", "top": "78px", "text_align": "right", "width": "132px" }, 
+    { "id": "D_4_52", "field_type": "output field", "value": "script: value", "top": "78px", "text_align": "right", "width": "141px" }, 
+    { "id": "D_9_74", "field_type": "output field", "value": "script: value", "left": "744px" }, 
+    { "id": "D_10_3", "field_type": "output field", "value": "script: value", "left": "4px" }, 
+    { "id": "D_10_75", "field_type": "output field", "value": "script: value", "left": "754px" }, 
+    { "id": "subfile", "field_type": "grid", "data_columns": "3,7,18,22,25,35,38,48,56,65,75", "value": "script: value", "number_of_rows": "3", "number_of_columns": "11", "row_height": "24", "header_height": "30", "column_widths": "55,112,59,20,100,30,100,80,90,100,49", "left": "13px", "top": "240px", "height": "72px", "width": "796px" }, 
+    { "id": "I_3_10", "field_type": "textbox", "value": "script: value", "top": "57px" }, 
+    { "id": "I_3_35", "field_type": "textbox", "value": "script: value", "top": "57px" }, 
+    { "id": "I_3_68", "field_type": "textbox", "value": "script: value", "top": "57px" }, 
+    { "id": "I_4_10", "field_type": "textbox", "value": "script: value", "top": "81px" }, 
+    { "id": "I_4_15", "field_type": "textbox", "value": "script: value", "top": "81px" }, 
+    { "id": "I_4_35", "field_type": "textbox", "value": "script: value", "top": "81px" }, 
+    { "id": "I_4_68", "field_type": "textbox", "value": "script: value", "top": "81px" }
+  ]
+}

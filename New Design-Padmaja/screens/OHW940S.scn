@@ -1,0 +1,12 @@
+{
+  "screen": { "screen_name": "OHW940S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "OHW940S" }, 
+    { "id": "D_4_5", "field_type": "output field", "value": "script: value", "top": "73px", "left": "40px", "text_align": "right" }, 
+    { "id": "D_4_34", "field_type": "output field", "value": "script: value", "top": "73px", "left": "330px", "text_align": "right" }, 
+    { "id": "D_4_69", "field_type": "output field", "value": "script: value", "top": "73px", "left": "680px", "text_align": "right" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "color": "#1E487A", "top": "97px", "left": "10px", "text_align": "right" }, 
+    { "id": "D_6_1", "field_type": "output field", "value": "script: value", "color": "#1F7D09", "font_weight": "bold" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "12px" }
+  ]
+}

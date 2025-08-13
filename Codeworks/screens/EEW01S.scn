@@ -1,0 +1,16 @@
+{
+  "screen": { "screen_name": "EEW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "EEW01S" }, 
+    { "id": "D_4_5", "field_type": "output field", "value": "script: value", "top": "73px", "left": "53px", "text_align": "right" }, 
+    { "id": "D_4_24", "field_type": "output field", "value": "script: value", "top": "73px", "left": "243px", "text_align": "right" }, 
+    { "id": "D_4_66", "field_type": "output field", "value": "script: value", "top": "73px", "left": "663px", "text_align": "right" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "top": "97px", "left": "23px", "text_align": "right" }, 
+    { "id": "D_5_28", "field_type": "output field", "value": "script: value", "top": "97px", "left": "283px", "text_align": "right" }, 
+    { "id": "D_5_74", "field_type": "output field", "value": "script: value", "top": "97px", "left": "737px", "text_align": "right", "width": "46px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "5px" }, 
+    { "id": "D_10_27", "field_type": "output field", "value": "Type      Number             Seq" }, 
+    { "id": "D_10_50", "field_type": "output field", "value": "script: value", "left": "481px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "3", "number_of_columns": "8", "row_height": "24", "header_height": "30", "column_widths": "52,50,30,130,58,82,73,324", "left": "13px", "top": "241px", "height": "72px", "width": "800px" }
+  ]
+}

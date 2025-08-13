@@ -1,0 +1,11 @@
+{
+  "screen": { "screen_name": "PTDWRK" },
+  "items": [
+    { "id": "D_1_14", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "PTDWRK" }, 
+    { "id": "D_4_3", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right" }, 
+    { "id": "D_4_21", "field_type": "output field", "value": "script: value", "top": "73px", "left": "195px", "text_align": "right", "width": "95px" }, 
+    { "id": "D_4_39", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right" }, 
+    { "id": "D_9_2", "field_type": "output field", "value": "script: value", "left": "9px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "12", "number_of_columns": "6", "row_height": "24", "header_height": "30", "column_widths": "51,40,40,60,30,581", "left": "13px", "top": "217px", "height": "288px", "width": "803px" }
+  ]
+}

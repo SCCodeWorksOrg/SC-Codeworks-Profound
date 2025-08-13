@@ -1,0 +1,13 @@
+{
+  "screen": { "screen_name": "Unnamed Window 1" },
+  "items": [
+    { "id": "D_20_63_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "Unnamed Window 1", "identifier_value": "      Bottom" }, 
+    { "id": "D_21_1_W", "screen_identifier": "true", "field_type": "button", "value": "script: value", "top": "486px", "left": "7px", "parent_window": "Unnamed Window 1", "width": "57px", "identifier_value": "Exit" }, 
+    { "id": "D_21_13_W", "screen_identifier": "true", "field_type": "button", "value": "script: value", "top": "484px", "left": "76px", "parent_window": "Unnamed Window 1", "width": "116px", "identifier_value": "Detail Extra" }, 
+    { "id": "D_21_30_W", "screen_identifier": "true", "field_type": "button", "value": "script: value", "top": "485px", "left": "207px", "parent_window": "Unnamed Window 1", "identifier_value": "Line Notes" }, 
+    { "id": "D_21_45_W", "screen_identifier": "true", "field_type": "button", "value": "script: value", "top": "482px", "left": "329px", "parent_window": "Unnamed Window 1", "identifier_value": "OrderNotes" }, 
+    { "id": "D_21_60_W", "screen_identifier": "true", "field_type": "button", "value": "script: value", "top": "483px", "left": "452px", "parent_window": "Unnamed Window 1", "identifier_value": "Serials" }, 
+    { "id": "D_22_1_W", "screen_identifier": "true", "field_type": "button", "value": "script: value", "top": "480px", "left": "548px", "parent_window": "Unnamed Window 1", "identifier_value": "Expand" }, 
+    { "id": "D_22_13_W", "screen_identifier": "true", "field_type": "button", "value": "script: value", "top": "481px", "left": "633px", "parent_window": "Unnamed Window 1", "identifier_value": "Cancel" }
+  ]
+}

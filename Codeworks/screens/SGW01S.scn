@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "SGW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "SGW01S" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "6", "row_height": "24", "header_height": "30", "column_widths": "51,110,350,100,104,72", "left": "13px", "top": "241px", "height": "240px", "width": "788px" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "screen": { "screen_name": "SRU20SS" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "SRU20SS", "identifier_value": "SRU20SS" }, 
+    { "id": "D_1_11_W", "field_type": "output field", "value": "script: value", "parent_window": "SRU20SS", "text_align": "center" }, 
+    { "id": "D_3_4_W", "field_type": "output field", "value": "script: value", "top": "49px", "left": "33px", "parent_window": "SRU20SS", "text_align": "right" }, 
+    { "id": "D_5_2_W", "field_type": "output field", "value": "script: value", "top": "97px", "left": "13px", "parent_window": "SRU20SS", "text_align": "right" }, 
+    { "id": "D_6_4_W", "field_type": "output field", "value": "script: value", "top": "121px", "left": "33px", "parent_window": "SRU20SS", "text_align": "right" }, 
+    { "id": "D_7_6_W", "field_type": "output field", "value": "script: value", "top": "145px", "left": "53px", "parent_window": "SRU20SS", "text_align": "right" }, 
+    { "id": "D_8_1_W", "field_type": "output field", "value": "script: value", "top": "169px", "left": "3px", "parent_window": "SRU20SS", "text_align": "right" }, 
+    { "id": "D_10_2_W", "field_type": "output field", "value": "script: value", "top": "217px", "left": "13px", "parent_window": "SRU20SS", "text_align": "right" }, 
+    { "id": "D_12_4_W", "field_type": "output field", "value": "script: value", "top": "265px", "left": "33px", "parent_window": "SRU20SS", "text_align": "right" }, 
+    { "id": "I_3_12_W", "field_type": "textbox", "value": "script: value", "left": "110px", "parent_window": "SRU20SS" }, 
+    { "id": "I_3_17_W", "field_type": "textbox", "value": "script: value", "left": "160px", "parent_window": "SRU20SS" }, 
+    { "id": "I_5_12_W", "field_type": "textbox", "value": "script: value", "left": "110px", "parent_window": "SRU20SS" }, 
+    { "id": "I_6_12_W", "field_type": "textbox", "value": "script: value", "left": "110px", "parent_window": "SRU20SS" }, 
+    { "id": "I_7_12_W", "field_type": "textbox", "value": "script: value", "left": "110px", "parent_window": "SRU20SS" }, 
+    { "id": "I_8_12_W", "field_type": "textbox", "value": "script: value", "left": "110px", "parent_window": "SRU20SS" }, 
+    { "id": "I_9_12_W", "field_type": "textbox", "value": "script: value", "left": "110px", "parent_window": "SRU20SS" }, 
+    { "id": "I_9_23_W", "field_type": "textbox", "value": "script: value", "left": "220px", "parent_window": "SRU20SS" }, 
+    { "id": "I_10_12_W", "field_type": "textbox", "value": "script: value", "left": "110px", "parent_window": "SRU20SS" }, 
+    { "id": "I_12_12_W", "field_type": "textbox", "value": "script: value", "left": "110px", "parent_window": "SRU20SS" }
+  ]
+}

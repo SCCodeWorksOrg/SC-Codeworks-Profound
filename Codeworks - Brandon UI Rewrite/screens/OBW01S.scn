@@ -1,0 +1,31 @@
+{
+  "screen": { "screen_name": "OBW01S" },
+  "items": [
+    { "id": "D_1_11", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "OBW01S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "70px" }, 
+    { "id": "D_4_29", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "92px" }, 
+    { "id": "D_5_3", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right", "width": "62px" }, 
+    { "id": "D_5_31", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right", "width": "69px" }, 
+    { "id": "D_6_2", "field_type": "output field", "value": "script: value", "top": "121px", "text_align": "right", "width": "70px" }, 
+    { "id": "D_7_3", "field_type": "output field", "value": "script: value", "top": "145px", "text_align": "right", "width": "62px" }, 
+    { "id": "D_7_45", "field_type": "output field", "value": "script: value", "top": "146px", "width": "31px", "text_align": "right" }, 
+    { "id": "D_8_42", "field_type": "output field", "value": "script: value", "top": "170px", "text_align": "right", "width": "63px" }, 
+    { "id": "D_12_2", "field_type": "output field", "value": "script: value", "left": "5px" }, 
+    { "id": "arrow7_copy", "field_type": "output field", "value": ">", "css_class": "fkey-arrow", "color": "#999999", "font_family": "consolas", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(153, 153, 153)", "text_transform": "none", "word_spacing": "0px", "left": "-206px", "top": "257px", "z_index": "10", "newitem": "true" }, 
+    { "id": "fkey8", "field_type": "output field", "value": "Help", "css_class": "fkey-link", "color": "#00517A", "font_family": "\"Open Sans\", sans-serif", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 81, 122)", "text_transform": "none", "word_spacing": "0px", "left": "-186px", "top": "259px", "width": "140px", "z_index": "10", "onclick": "var widget = document.getElementById(\"document-list-panel\"); // Replace 'widgetId' with the actual ID of the widget\nif (widget.style.visibility === \"hidden\") {\n  widget.style.visibility = \"visible\";  // Show the widget\n} else {\n  widget.style.visibility = \"hidden\";   // Hide the widget\n}", "newitem": "true" }, 
+    { "id": "document-list-panel", "field_type": "panel", "value": "Help Documents", "left": "-242px", "top": "291px", "width": "244px", "height": "345px", "panel_style": "Simple", "z_index": "21", "visibility": "hidden", "user_defined_data": "orders", "newitem": "true" }, 
+    { "id": "D_4_59", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "61px" }, 
+    { "id": "D_4_72", "field_type": "output field", "value": "script: value", "top": "73px" }, 
+    { "id": "D_5_61", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right", "width": "41px" }, 
+    { "id": "D_6_29", "field_type": "output field", "value": "script: value", "top": "121px", "text_align": "right", "width": "91px" }, 
+    { "id": "D_6_60", "field_type": "output field", "value": "script: value", "top": "121px", "text_align": "right", "width": "53px" }, 
+    { "id": "D_11_9", "field_type": "output field", "value": "script: value", "left": "87px" }, 
+    { "id": "D_11_19", "field_type": "output field", "value": "script: value", "left": "177px" }, 
+    { "id": "D_11_21", "field_type": "output field", "value": "script: value", "top": "246px", "left": "209px" }, 
+    { "id": "D_11_28", "field_type": "output field", "value": "script: value", "left": "277px" }, 
+    { "id": "D_12_6", "field_type": "output field", "value": "script: value", "left": "48px" }, 
+    { "id": "D_12_9", "field_type": "output field", "value": "script: value", "left": "87px" }, 
+    { "id": "D_12_19", "field_type": "output field", "value": "script: value", "left": "178px" }, 
+    { "id": "D_12_28", "field_type": "output field", "value": "script: value", "left": "277px" }
+  ]
+}

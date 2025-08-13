@@ -1,0 +1,31 @@
+{
+  "screen": { "screen_name": "problemtracking" },
+  "items": [
+    { "id": "D_2_34", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "Work With Logs" }, 
+    { "id": "D_7_2", "field_type": "output field", "value": "......................................................................................................" }, 
+    { "id": "D_8_4", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "PTRULG" }, 
+    { "id": "D_10_6", "field_type": "output field", "value": "script: value", "top": "217px", "left": "63px", "text_align": "right" }, 
+    { "id": "D_10_31", "field_type": "output field", "value": "script: value", "top": "217px", "left": "313px", "text_align": "right" }, 
+    { "id": "D_11_11", "field_type": "output field", "value": "script: value", "top": "241px", "left": "113px", "text_align": "right" }, 
+    { "id": "D_11_31", "field_type": "output field", "value": "script: value", "top": "241px", "left": "313px", "text_align": "right" }, 
+    { "id": "D_12_9", "field_type": "output field", "value": "script: value", "top": "265px", "left": "93px", "text_align": "right" }, 
+    { "id": "D_12_32", "field_type": "output field", "value": "script: value", "top": "265px", "left": "323px", "text_align": "right" }, 
+    { "id": "D_13_6", "field_type": "output field", "value": "script: value", "top": "289px", "left": "63px", "text_align": "right" }, 
+    { "id": "D_14_9", "field_type": "output field", "value": "script: value", "top": "313px", "left": "93px", "text_align": "right" }, 
+    { "id": "D_14_33", "field_type": "output field", "value": "script: value", "top": "313px", "left": "333px", "text_align": "right" }, 
+    { "id": "D_15_4", "field_type": "output field", "value": "script: value", "top": "337px", "left": "43px", "text_align": "right" }, 
+    { "id": "D_17_8", "field_type": "output field", "value": "script: value", "top": "385px", "left": "83px", "text_align": "right" }, 
+    { "id": "D_17_23", "field_type": "output field", "value": "script: value", "top": "385px", "left": "233px", "text_align": "right" }, 
+    { "id": "D_21_2", "field_type": "output field", "value": ":....................................................................................................:" }, 
+    { "id": "I_10_23", "field_type": "textbox", "value": "script: value", "top": "220px", "left": "242px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "value": "script: value", "top": "268px", "width": "38px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "value": "script: value", "top": "292px", "width": "38px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "value": "script: value", "top": "316px", "width": "38px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "value": "script: value", "top": "340px", "width": "38px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "value": "script: value", "top": "364px", "width": "38px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "value": "script: value", "top": "388px", "width": "38px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "value": "script: value", "top": "412px", "width": "38px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "value": "script: value", "top": "436px", "width": "38px" }, 
+    { "id": "I_20_3", "field_type": "combo box", "value": "script: value", "top": "460px", "width": "38px" }
+  ]
+}

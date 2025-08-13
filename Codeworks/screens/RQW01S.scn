@@ -1,0 +1,27 @@
+{
+  "screen": { "screen_name": "RQW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "RQW01S" }, 
+    { "id": "D_4_1", "field_type": "output field", "value": "script: value", "top": "73px", "left": "0px", "text_align": "right" }, 
+    { "id": "D_4_24", "field_type": "output field", "value": "script: value", "top": "72px", "text_align": "right", "width": "60px" }, 
+    { "id": "D_4_55", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "38px" }, 
+    { "id": "D_4_70", "field_type": "output field", "value": "script: value", "top": "72px", "left": "692px", "width": "25px" }, 
+    { "id": "D_5_6", "field_type": "output field", "value": "script: value", "top": "97px", "left": "50px", "text_align": "right" }, 
+    { "id": "D_5_23", "field_type": "output field", "value": "script: value", "top": "96px", "text_align": "right", "width": "68px" }, 
+    { "id": "D_5_55", "field_type": "output field", "value": "script: value", "top": "96px", "text_align": "right", "width": "37px" }, 
+    { "id": "D_5_70", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right", "width": "69px" }, 
+    { "id": "D_6_5", "field_type": "output field", "value": "script: value", "top": "121px", "left": "42px", "text_align": "right" }, 
+    { "id": "D_6_22", "field_type": "output field", "value": "script: value", "top": "120px", "text_align": "right", "width": "79px" }, 
+    { "id": "D_6_53", "field_type": "output field", "value": "script: value", "top": "121px", "text_align": "right", "width": "60px" }, 
+    { "id": "D_6_67", "field_type": "output field", "value": "script: value", "top": "121px", "text_align": "right", "width": "98px" }, 
+    { "id": "D_9_5", "field_type": "output field", "value": "script: value", "left": "58px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "8px" }, 
+    { "id": "subfile", "field_type": "grid", "data_columns": "3,6,9,11,21,25,37,51,59,71,76", "value": "script: value", "number_of_rows": "10", "number_of_columns": "11", "row_height": "24", "header_height": "30", "column_widths": "53,33,19,100,40,120,140,80,120,50,75", "left": "13px", "top": "241px", "height": "240px", "width": "831px" }, 
+    { "id": "arrow7_copy", "field_type": "output field", "value": ">", "css_class": "fkey-arrow", "newitem": "true", "color": "#999999", "font_family": "consolas", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(153, 153, 153)", "text_transform": "none", "word_spacing": "0px", "left": "7px", "top": "253px", "height": "17px", "width": "10px", "z_index": "10" }, 
+    { "id": "fkey9", "field_type": "output field", "value": "Help", "css_class": "fkey-link", "newitem": "true", "color": "#00517A", "font_family": "\"Open Sans\", sans-serif", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 81, 122)", "text_transform": "none", "word_spacing": "0px", "left": "8px", "top": "256px", "height": "17px", "width": "140px", "z_index": "10", "onclick": "var widget = document.getElementById(\"document-list-panel\"); // Replace 'widgetId' with the actual ID of the widget\nif (widget.style.visibility === \"hidden\") {\n  widget.style.visibility = \"visible\";  // Show the widget\n} else {\n  widget.style.visibility = \"hidden\";   // Hide the widget\n}" }, 
+    { "id": "document-list-panel", "field_type": "panel", "value": "Help Documents", "newitem": "true", "panel_style": "Simple", "left": "-242px", "top": "276px", "height": "345px", "width": "244px", "z_index": "21", "user_defined_data": "requisitions", "visibility": "hidden" }, 
+    { "id": "D_9_70", "field_type": "output field", "value": "script: value", "top": "199px", "left": "703px" }, 
+    { "id": "D_10_70", "field_type": "output field", "value": "script: value", "left": "703px" }, 
+    { "id": "D_10_76", "field_type": "output field", "value": "script: value", "left": "762px" }
+  ]
+}

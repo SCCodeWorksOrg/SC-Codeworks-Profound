@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "display " },
+  "items": [
+    { "id": "D_1_16", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "            Display Program Messages" }, 
+    { "id": "D_19_2", "field_type": "output field", "value": "script: value", "color": "#1f7d09" }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "LFW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "LFW01S" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "7px", "width": "56px" }, 
+    { "id": "subfile", "field_type": "grid", "data_columns": "3,6,15,26,30,33,42,53,63,74,77", "value": "script: value", "number_of_rows": "2", "number_of_columns": "11", "row_height": "24", "header_height": "30", "column_widths": "53,79,104,53,32,84,112,90,119,29,51", "left": "12px", "top": "241px", "height": "48px", "width": "807px" }
+  ]
+}

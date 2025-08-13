@@ -1,0 +1,9 @@
+{
+  "screen": { "screen_name": "PCP03S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "PCP03S" }, 
+    { "id": "D_6_2", "field_type": "output field", "value": "script: value", "left": "9px" }, 
+    { "id": "D_6_5", "field_type": "output field", "value": "script: value", "left": "39px" }, 
+    { "id": "D_6_45", "field_type": "output field", "value": "script: value", "left": "439px" }
+  ]
+}

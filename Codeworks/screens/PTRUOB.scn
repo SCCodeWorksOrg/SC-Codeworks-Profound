@@ -1,0 +1,13 @@
+{
+  "screen": { "screen_name": "PTRUOB" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "PTRUOB", "identifier_value": "PTRUOB" }, 
+    { "id": "D_3_42_W", "field_type": "output field", "value": "script: value", "left": "414px", "parent_window": "PTRUOB" }, 
+    { "id": "I_4_42_W", "field_type": "textbox", "value": "script: value", "left": "414px", "parent_window": "PTRUOB" }, 
+    { "id": "I_5_42_W", "field_type": "textbox", "value": "script: value", "left": "414px", "parent_window": "PTRUOB" }, 
+    { "id": "I_6_42_W", "field_type": "textbox", "value": "script: value", "left": "414px", "parent_window": "PTRUOB" }, 
+    { "id": "I_7_42_W", "field_type": "textbox", "value": "script: value", "left": "414px", "parent_window": "PTRUOB" }, 
+    { "id": "I_8_42_W", "field_type": "textbox", "value": "script: value", "left": "414px", "parent_window": "PTRUOB" }, 
+    { "id": "I_9_42_W", "field_type": "textbox", "value": "script: value", "left": "414px", "parent_window": "PTRUOB" }
+  ]
+}

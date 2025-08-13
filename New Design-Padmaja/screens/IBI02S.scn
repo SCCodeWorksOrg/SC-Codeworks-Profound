@@ -1,0 +1,24 @@
+{
+  "screen": { "screen_name": "IBI02S" },
+  "items": [
+    { "id": "D_2_2", "field_type": "output field", "value": "......................................................................................................" }, 
+    { "id": "D_3_4", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "IBI02S" }, 
+    { "id": "D_3_58", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_4_56", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_5_9", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_5_55", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_6_9", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_6_54", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_7_6", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_7_57", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_8_7", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_8_47", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_9_5", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_9_46", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_10_5", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_10_46", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_11_8", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_11_60", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_23_2", "field_type": "output field", "value": ":....................................................................................................:" }
+  ]
+}

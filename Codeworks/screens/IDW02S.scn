@@ -1,0 +1,9 @@
+{
+  "screen": { "screen_name": "IDW02S" },
+  "items": [
+    { "id": "D_1_11", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "IDW02S" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "4px", "width": "45px" }, 
+    { "id": "D_10_8", "field_type": "output field", "value": "script: value", "left": "82px" }, 
+    { "id": "subfile", "field_type": "grid", "data_columns": "3,6,8,14,35,66,74", "value": "script: value", "number_of_rows": "6", "number_of_columns": "7", "row_height": "24", "header_height": "30", "column_widths": "52,23,60,210,310,80,71", "left": "13px", "top": "241px", "height": "144px", "width": "807px" }
+  ]
+}

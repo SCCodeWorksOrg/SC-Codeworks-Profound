@@ -1,0 +1,21 @@
+{
+  "screen": { "screen_name": "CTW10S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "CTW10S" }, 
+    { "id": "D_4_1", "field_type": "output field", "value": "script: value", "top": "73px", "left": "0px", "text_align": "right" }, 
+    { "id": "D_4_20", "field_type": "output field", "value": "script: value", "top": "73px", "left": "190px", "text_align": "right" }, 
+    { "id": "D_4_55", "field_type": "output field", "value": "script: value", "top": "73px", "left": "540px", "text_align": "right" }, 
+    { "id": "D_5_58", "field_type": "output field", "value": "script: value", "top": "97px", "left": "570px", "text_align": "right" }, 
+    { "id": "D_9_40", "field_type": "output field", "value": "script: value", "left": "405px", "width": "125px" }, 
+    { "id": "D_9_58", "field_type": "output field", "value": "script: value", "left": "616px", "width": "110px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "0px" }, 
+    { "id": "D_10_40", "field_type": "output field", "value": "Date                  Time", "left": "383px" }, 
+    { "id": "D_10_58", "field_type": "output field", "value": "  Date                 Time" }, 
+    { "id": "D_10_75", "field_type": "output field", "value": "script: value", "left": "782px", "width": "33px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "value": "script: value", "top": "270px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "value": "script: value", "top": "299px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "value": "script: value", "top": "327px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "value": "script: value", "top": "356px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "5", "number_of_columns": "9", "row_height": "28", "header_height": "30", "column_widths": "53,148,51,130,100,100,100,100,34", "left": "13px", "top": "241px", "height": "140px", "width": "817px" }
+  ]
+}

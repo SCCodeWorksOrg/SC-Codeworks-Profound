@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "CEW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "CEW01S" }, 
+    { "id": "D_9_7", "field_type": "output field", "value": "script: value", "left": "67px", "width": "25px" }
+  ]
+}

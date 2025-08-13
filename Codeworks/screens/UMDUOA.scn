@@ -1,0 +1,11 @@
+{
+  "screen": { "screen_name": "UMDUOA" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "UMDUOA", "width": "69px", "identifier_value": "UMDUOA" }, 
+    { "id": "D_1_9_W", "field_type": "output field", "value": "script: value", "top": "8px", "parent_window": "UMDUOA" }, 
+    { "id": "D_3_2_W", "field_type": "output field", "value": "script: value", "top": "51px", "left": "28px", "parent_window": "UMDUOA", "width": "114px" }, 
+    { "id": "D_5_1_W", "field_type": "output field", "value": "script: value", "top": "98px", "left": "29px", "parent_window": "UMDUOA", "width": "110px" }, 
+    { "id": "D_6_4_W", "field_type": "output field", "value": "script: value", "top": "120px", "left": "44px", "parent_window": "UMDUOA", "width": "97px" }, 
+    { "id": "I_3_15_W", "field_type": "textbox", "value": "script: value", "parent_window": "UMDUOA", "width": "41px" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "screen": { "screen_name": "proper" },
+  "items": [
+    { "id": "D_10_2", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "Opt Group Proper Name                           Class  ID No.   Group  Require" }, 
+    { "id": "I_11_3", "field_type": "combo box", "choices": "change, delete", "choice_values": "2,4", "value": "script: value", "left": "13px", "width": "41px", "top": "240px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "left": "14px", "width": "40px" }, 
+    { "id": "D_14_6", "field_type": "output field", "value": "script: value", "color": "#000000" }, 
+    { "id": "D_14_12", "field_type": "output field", "value": "script: value", "color": "#000000", "font_weight": "200" }, 
+    { "id": "D_14_50", "field_type": "output field", "value": "script: value", "color": "#000000", "font_weight": "100" }, 
+    { "id": "D_14_57", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "color": "#000000", "font_weight": "100", "identifier_value": "5" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "4", "number_of_columns": "7", "row_height": "24", "header_height": "30", "column_widths": "49,60,380,70,90,70,60", "left": "14px", "top": "241px", "height": "96px", "width": "780px" }, 
+    { "id": "I_14_3", "field_type": "textbox", "value": "script: value", "left": "17px", "width": "41px" }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "YMU61S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "YMU61S", "identifier_value": "YMU61S" }, 
+    { "id": "D_7_18_W", "field_type": "output field", "value": "script: value", "top": "144px", "left": "163px", "parent_window": "YMU61S", "width": "91px", "text_align": "right" }, 
+    { "id": "D_8_2_W", "field_type": "output field", "value": "script: value", "top": "168px", "left": "24px", "parent_window": "YMU61S", "text_align": "right" }
+  ]
+}

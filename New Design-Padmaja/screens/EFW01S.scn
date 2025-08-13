@@ -1,0 +1,23 @@
+{
+  "screen": { "screen_name": "EFW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "EFW01S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "132px" }, 
+    { "id": "D_9_71", "field_type": "output field", "value": "script: value", "top": "186px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "top": "210px", "left": "4px" }, 
+    { "id": "D_10_6", "field_type": "output field", "value": "script: value", "top": "210px" }, 
+    { "id": "D_10_18", "field_type": "output field", "value": "script: value", "top": "210px" }, 
+    { "id": "D_10_71", "field_type": "output field", "value": "script: value", "top": "210px" }, 
+    { "id": "I_11_3", "field_type": "combo box", "value": "script: value", "top": "233px", "left": "14px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "value": "script: value", "top": "260px", "left": "14px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "value": "script: value", "left": "14px", "top": "288px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "value": "script: value", "left": "14px", "top": "316px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "value": "script: value", "left": "14px", "top": "345px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "value": "script: value", "left": "14px", "top": "373px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "value": "script: value", "left": "14px", "top": "400px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "value": "script: value", "left": "14px", "top": "429px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "value": "script: value", "left": "14px", "top": "457px" }, 
+    { "id": "I_20_3", "field_type": "combo box", "value": "script: value", "left": "14px", "top": "485px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "4", "row_height": "28", "header_height": "30", "column_widths": "55,120,530,110", "left": "12px", "top": "230px", "height": "280px", "width": "816px" }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "screen": { "screen_name": "job queue" },
+  "items": [
+    { "id": "D_19_2", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "color": "#1f7d09", "font_weight": "bold", "identifier_value": "Press Enter to continue." }
+  ]
+}

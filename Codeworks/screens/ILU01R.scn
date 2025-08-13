@@ -1,0 +1,14 @@
+{
+  "screen": { "screen_name": "ILU01R" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "ILU01R", "identifier_value": "ILU01R" }, 
+    { "id": "D_8_1_W", "field_type": "output field", "value": "script: value", "left": "4px", "parent_window": "ILU01R" }, 
+    { "id": "D_8_14_W", "field_type": "output field", "value": "script: value", "left": "134px", "parent_window": "ILU01R" }, 
+    { "id": "D_8_22_W", "field_type": "output field", "value": "script: value", "left": "209px", "parent_window": "ILU01R" }, 
+    { "id": "D_8_30_W", "field_type": "output field", "value": "script: value", "left": "302px", "parent_window": "ILU01R" }, 
+    { "id": "D_8_38_W", "field_type": "output field", "value": "script: value", "left": "374px", "parent_window": "ILU01R" }, 
+    { "id": "D_8_46_W", "field_type": "output field", "value": "script: value", "left": "454px", "parent_window": "ILU01R" }, 
+    { "id": "D_8_54_W", "field_type": "output field", "value": "script: value", "left": "534px", "parent_window": "ILU01R" }, 
+    { "id": "D_8_62_W", "field_type": "output field", "value": "script: value", "left": "614px", "parent_window": "ILU01R" }
+  ]
+}

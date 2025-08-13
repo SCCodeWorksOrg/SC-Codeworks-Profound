@@ -1,0 +1,10 @@
+{
+  "screen": { "screen_name": "UMRUFN" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "UMRUFN", "width": "75px", "identifier_value": "UMRUFN" }, 
+    { "id": "D_1_27_W", "field_type": "output field", "value": "script: value", "parent_window": "UMRUFN", "width": "141px" }, 
+    { "id": "D_3_1_W", "field_type": "output field", "value": "script: value", "top": "51px", "left": "29px", "parent_window": "UMRUFN", "width": "125px" }, 
+    { "id": "D_4_3_W", "field_type": "output field", "value": "script: value", "top": "75px", "left": "53px", "parent_window": "UMRUFN", "width": "99px" }, 
+    { "id": "D_5_6_W", "field_type": "output field", "value": "script: value", "parent_window": "UMRUFN", "width": "92px" }
+  ]
+}

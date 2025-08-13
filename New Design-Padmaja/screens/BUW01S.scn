@@ -1,0 +1,9 @@
+{
+  "screen": { "screen_name": "BUW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "BUW01S" }, 
+    { "id": "document-list-panel", "field_type": "panel", "value": "Help Documents", "newitem": "true", "panel_style": "Simple", "left": "-241px", "top": "218px", "height": "345px", "width": "244px", "z_index": "21", "user_defined_data": "building", "visibility": "hidden" }, 
+    { "id": "arrow7_copy", "field_type": "output field", "value": ">", "css_class": "fkey-arrow", "newitem": "true", "color": "#999999", "font_family": "consolas", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(153, 153, 153)", "text_transform": "none", "word_spacing": "0px", "left": "-1px", "top": "185px", "z_index": "10" }, 
+    { "id": "fkey6", "field_type": "output field", "value": "Help", "css_class": "fkey-link", "newitem": "true", "color": "#00517A", "font_family": "\"Open Sans\", sans-serif", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 81, 122)", "text_transform": "none", "word_spacing": "0px", "left": "30px", "top": "188px", "width": "140px", "z_index": "10", "onclick": "var widget = document.getElementById(\"document-list-panel\"); // Replace 'widgetId' with the actual ID of the widget\nif (widget.style.visibility === \"hidden\") {\n  widget.style.visibility = \"visible\";  // Show the widget\n} else {\n  widget.style.visibility = \"hidden\";   // Hide the widget\n}" }
+  ]
+}

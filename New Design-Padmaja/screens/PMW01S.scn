@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "PMW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "PMW01S" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "5", "number_of_columns": "11", "row_height": "24", "header_height": "30", "column_widths": "54,50,30,50,20,170,120,50,110,110,80", "left": "13px", "top": "217px", "height": "120px", "width": "845px" }
+  ]
+}

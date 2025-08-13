@@ -1,0 +1,21 @@
+{
+  "screen": { "screen_name": "OMDWSVAS" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "OMDWSVAS" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "......................................................................................................" }, 
+    { "id": "D_5_4", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "SVU01SA" }, 
+    { "id": "D_7_4", "field_type": "output field", "value": "script: value", "top": "145px", "left": "43px", "text_align": "right" }, 
+    { "id": "D_8_5", "field_type": "output field", "value": "script: value", "top": "169px", "left": "53px", "text_align": "right" }, 
+    { "id": "D_9_2", "field_type": "output field", "value": "script: value", "left": "20px" }, 
+    { "id": "D_10_7", "field_type": "output field", "value": "script: value", "top": "217px", "left": "73px", "text_align": "right" }, 
+    { "id": "D_11_9", "field_type": "output field", "value": "script: value", "top": "241px", "left": "93px", "text_align": "right" }, 
+    { "id": "D_15_2", "field_type": "output field", "value": ":....................................................................................................:" }, 
+    { "id": "D_4_3", "field_type": "output field", "value": "script: value", "top": "73px", "left": "24px", "width": "59px", "text_align": "right" }, 
+    { "id": "D_4_22", "field_type": "output field", "value": "script: value", "top": "73px", "left": "223px", "text_align": "right" }, 
+    { "id": "D_4_42", "field_type": "output field", "value": "script: value", "top": "73px", "left": "423px", "text_align": "right" }, 
+    { "id": "D_4_52", "field_type": "output field", "value": "script: value", "top": "73px", "left": "523px", "text_align": "right" }, 
+    { "id": "D_9_8", "field_type": "output field", "value": "script: value", "top": "195px", "left": "81px" }, 
+    { "id": "D_9_18", "field_type": "output field", "value": "script: value", "left": "184px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "6", "number_of_columns": "7", "row_height": "24", "header_height": "30", "column_widths": "53,20,100,90,210,310,39", "left": "13px", "top": "217px", "height": "144px", "width": "823px" }
+  ]
+}

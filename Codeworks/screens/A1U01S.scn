@@ -1,0 +1,12 @@
+{
+  "screen": { "screen_name": "A1U01S" },
+  "items": [
+    { "id": "D_3_4", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "A1U01S" }, 
+    { "id": "I_12_10", "field_type": "textbox", "value": "script: value", "top": "338px", "left": "70px", "width": "347px", "visibility": "hidden" }, 
+    { "id": "I_13_10", "field_type": "textbox", "value": "script: value", "top": "362px", "left": "70px", "width": "347px", "visibility": "hidden" }, 
+    { "id": "I_14_10", "field_type": "textbox", "value": "script: value", "top": "386px", "left": "70px", "width": "347px", "visibility": "hidden" }, 
+    { "id": "I_15_10", "field_type": "textbox", "value": "script: value", "top": "410px", "left": "70px", "width": "347px", "visibility": "hidden" }, 
+    { "id": "image-source-custom", "field_type": "image", "value": "script: value", "newitem": "true", "color": "#000000", "font_family": "\"Open Sans\", sans-serif", "font_size": "14px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 0, 0)", "text_transform": "none", "word_spacing": "0px", "image_source": "/profoundui/userdata/myfiles/placeholder.jpg", "left": "430px", "top": "226px", "height": "223px", "width": "338px", "z_index": "21" }, 
+    { "id": "image-upload-custom", "field_type": "file upload", "value": "script: value", "css_class": "pui-file-upload", "newitem": "true", "color": "#000000", "font_family": "\"Open Sans\", sans-serif", "font_size": "14px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 0, 0)", "text_transform": "none", "word_spacing": "0px", "left": "159px", "top": "228px", "height": "55px", "width": "249px", "z_index": "10", "selection_mode": "single", "number_of_files": "1", "size_limit": "10", "target_directory": "/WWW/PROFOUNDUI/HTDOCS/Images", "overwrite_files": "true", "generate_unique_names": "true", "allowed_type": "image/png", "allowed_type_2": "image/jpeg" }
+  ]
+}

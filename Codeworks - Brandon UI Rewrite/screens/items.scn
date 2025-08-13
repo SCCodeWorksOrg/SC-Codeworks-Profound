@@ -1,0 +1,28 @@
+{
+  "screen": { "screen_name": "items" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "ITW01S" }, 
+    { "id": "D_2_21", "field_type": "output field", "value": "script: value" }, 
+    { "id": "D_4_3", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "62px" }, 
+    { "id": "D_4_23", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "91px" }, 
+    { "id": "D_4_66", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "114px" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right", "width": "71px" }, 
+    { "id": "D_5_21", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right", "width": "112px" }, 
+    { "id": "D_5_68", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right", "width": "92px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "2px" }, 
+    { "id": "arrow7_copy", "field_type": "output field", "value": ">", "css_class": "fkey-arrow", "newitem": "true", "color": "#999999", "font_family": "consolas", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(153, 153, 153)", "text_transform": "none", "word_spacing": "0px", "left": "4px", "top": "230px", "height": "17px", "width": "10px", "z_index": "10" }, 
+    { "id": "fkey8", "field_type": "output field", "value": "Help", "css_class": "fkey-link", "newitem": "true", "color": "#00517A", "font_family": "\"Open Sans\", sans-serif", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 81, 122)", "text_transform": "none", "word_spacing": "0px", "left": "8px", "top": "233px", "height": "17px", "width": "140px", "z_index": "10", "onclick": "var widget = document.getElementById(\"document-list-panel\"); // Replace 'widgetId' with the actual ID of the widget\nif (widget.style.visibility === \"hidden\") {\n  widget.style.visibility = \"visible\";  // Show the widget\n} else {\n  widget.style.visibility = \"hidden\";   // Hide the widget\n}" }, 
+    { "id": "document-list-panel", "field_type": "panel", "value": "Help Documents", "newitem": "true", "panel_style": "Simple", "left": "-243px", "top": "256px", "height": "345px", "width": "244px", "z_index": "21", "user_defined_data": "items", "visibility": "hidden" }, 
+    { "id": "I_11_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "width": "42px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "width": "42px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "width": "42px" }, 
+    { "id": "subfile", "field_type": "grid", "data_columns": "3,6,8,53,56,60,73", "value": "script: value", "number_of_rows": "9", "number_of_columns": "7", "row_height": "24", "header_height": "30", "column_widths": "55,20,450,30,40,130,110", "left": "13px", "top": "243px", "height": "216px", "width": "836px", "has_header": "false" }, 
+    { "id": "D_10_52", "field_type": "output field", "value": "script: value", "left": "526px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "width": "42px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "width": "42px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "width": "42px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "width": "42px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "width": "42px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "width": "42px" }
+  ]
+}

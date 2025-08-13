@@ -1,0 +1,10 @@
+{
+  "screen": { "screen_name": "LBW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "LBW01S" }, 
+    { "id": "D_10_32", "field_type": "output field", "value": "script: value", "left": "324px" }, 
+    { "id": "D_10_53", "field_type": "output field", "value": "script: value", "left": "534px" }, 
+    { "id": "D_10_75", "field_type": "output field", "value": "script: value", "left": "746px" }, 
+    { "id": "subfile", "field_type": "grid", "data_columns": "3,6,8,18,20,22,33,39,48,54,58,63,67, 69,75,79", "value": "script: value", "number_of_rows": "10", "number_of_columns": "15", "row_height": "25", "header_height": "30", "column_widths": "53,20,100,23,20,101,61,84,65,51,53,46,52,50,44", "left": "13px", "top": "242px", "height": "250px", "width": "824px" }
+  ]
+}

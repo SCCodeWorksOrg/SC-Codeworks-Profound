@@ -1,0 +1,11 @@
+{
+  "screen": { "screen_name": "SDU21S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "SDU21S", "identifier_value": "SDU21S" }, 
+    { "id": "D_3_10_W", "field_type": "output field", "value": "script: value", "top": "49px", "left": "103px", "parent_window": "SDU21S", "text_align": "right" }, 
+    { "id": "D_3_25_W", "field_type": "output field", "value": "script: value", "left": "240px", "parent_window": "SDU21S", "text_align": "left" }, 
+    { "id": "D_4_1_W", "field_type": "output field", "value": "script: value", "top": "73px", "left": "13px", "parent_window": "SDU21S", "text_align": "right" }, 
+    { "id": "D_4_25_W", "field_type": "output field", "value": "script: value", "left": "240px", "parent_window": "SDU21S", "text_align": "left" }, 
+    { "id": "D_5_6_W", "field_type": "output field", "value": "script: value", "top": "97px", "left": "63px", "parent_window": "SDU21S", "text_align": "right" }
+  ]
+}

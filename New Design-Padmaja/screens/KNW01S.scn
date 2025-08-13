@@ -1,0 +1,10 @@
+{
+  "screen": { "screen_name": "KNW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "KNW01S" }, 
+    { "id": "D_9_5", "field_type": "output field", "value": "script: value", "left": "64px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "5px" }, 
+    { "id": "D_10_76", "field_type": "output field", "value": "script: value", "left": "767px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "2", "number_of_columns": "9", "row_height": "24", "header_height": "30", "column_widths": "55,40,40,210,110,110,120,90,70", "left": "3px", "top": "241px", "height": "48px", "width": "846px" }
+  ]
+}

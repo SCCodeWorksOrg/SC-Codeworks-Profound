@@ -1,0 +1,10 @@
+{
+  "screen": { "screen_name": "PTRWAS" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "PTRWAS" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "left": "10px", "text_align": "right", "width": "80px" }, 
+    { "id": "D_4_23", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right" }, 
+    { "id": "D_4_54", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "6px" }
+  ]
+}

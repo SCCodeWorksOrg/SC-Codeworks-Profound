@@ -1,0 +1,12 @@
+{
+  "screen": { "screen_name": "ITP41S" },
+  "items": [
+    { "id": "D_1_2", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "ITP41S" }, 
+    { "id": "D_1_10", "field_type": "output field", "value": "script: value", "top": "27px" }, 
+    { "id": "D_2_1", "field_type": "output field", "value": "Item:", "color": "#00517A", "top": "54px", "left": "-1px", "width": "51px" }, 
+    { "id": "I_2_6", "field_type": "textbox", "value": "script: value", "top": "58px" }, 
+    { "id": "I_3_1", "field_type": "textbox", "value": "script: value", "top": "82px" }, 
+    { "id": "I_4_1", "field_type": "textbox", "value": "script: value", "top": "106px" }, 
+    { "id": "I_5_1", "field_type": "textbox", "value": "script: value", "top": "130px" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "screen": { "screen_name": "ITU02SP" },
+  "items": [
+    { "id": "D_1_12", "field_type": "output field", "value": "script: value" }, 
+    { "id": "D_3_4", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "ITU02SP" }, 
+    { "id": "D_3_31", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "Maintain Item Pictures" }, 
+    { "id": "image-upload-custom", "field_type": "file upload", "color": "#000000", "font_family": "\"Open Sans\", sans-serif", "font_size": "14px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 0, 0)", "text_transform": "none", "word_spacing": "0px", "top": "261px", "left": "159px", "z_index": "10", "css_class": "pui-file-upload", "width": "249px", "height": "55px", "selection_mode": "single", "size_limit": "10", "number_of_files": "1", "overwrite_files": "true", "value": "script: value", "generate_unique_names": "true", "allowed_type": "image/png", "allowed_type_2": "image/jpeg", "target_directory": "/WWW/PROFOUNDUI/HTDOCS/Images", "newitem": "true" }, 
+    { "id": "fkey0", "field_type": "output field", "value": "script: value", "onclick": "handleFileUpload('image-upload-custom');" }, 
+    { "id": "I_5_17", "field_type": "textbox", "value": "script: value", "read_only": "true" }, 
+    { "id": "I_6_17", "field_type": "textbox", "value": "script: value", "read_only": "true" }, 
+    { "id": "I_12_10", "field_type": "textbox", "value": "script: value", "visibility": "hidden", "width": "467px", "top": "356px", "left": "67px" }, 
+    { "id": "I_13_10", "field_type": "textbox", "value": "script: value", "visibility": "hidden", "width": "465px", "top": "380px", "left": "67px" }, 
+    { "id": "I_14_10", "field_type": "textbox", "value": "script: value", "visibility": "hidden", "width": "463px", "top": "404px", "left": "68px" }, 
+    { "id": "I_15_10", "field_type": "textbox", "value": "script: value", "visibility": "hidden", "width": "464px", "top": "428px", "left": "67px" }, 
+    { "id": "image-source-custom", "field_type": "image", "color": "#000000", "font_family": "\"Open Sans\", sans-serif", "font_size": "14px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 0, 0)", "text_transform": "none", "word_spacing": "0px", "top": "254px", "left": "440px", "z_index": "10", "width": "338px", "height": "223px", "value": "script: value", "image_source": "/profoundui/userdata/myfiles/placeholder.jpg", "newitem": "true" }
+  ]
+}

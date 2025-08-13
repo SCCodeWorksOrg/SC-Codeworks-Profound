@@ -1,0 +1,20 @@
+{
+  "screen": { "screen_name": "WZW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "WZW01S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "82px" }, 
+    { "id": "D_4_20", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "42px" }, 
+    { "id": "D_8_76", "field_type": "output field", "value": "script: value", "left": "728px" }, 
+    { "id": "D_9_2", "field_type": "output field", "value": "script: value", "left": "4px" }, 
+    { "id": "arrow7_copy", "field_type": "output field", "value": ">", "css_class": "fkey-arrow", "color": "#999999", "font_family": "consolas", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(153, 153, 153)", "text_transform": "none", "word_spacing": "0px", "left": "12px", "top": "185px", "z_index": "10", "newitem": "true" }, 
+    { "id": "fkey6", "field_type": "output field", "value": "Help", "css_class": "fkey-link", "color": "#00517A", "font_family": "\"Open Sans\", sans-serif", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 81, 122)", "text_transform": "none", "word_spacing": "0px", "left": "24px", "top": "188px", "width": "140px", "z_index": "10", "onclick": "var widget = document.getElementById(\"document-list-panel\"); // Replace 'widgetId' with the actual ID of the widget\nif (widget.style.visibility === \"hidden\") {\n  widget.style.visibility = \"visible\";  // Show the widget\n} else {\n  widget.style.visibility = \"hidden\";   // Hide the widget\n}", "newitem": "true" }, 
+    { "id": "document-list-panel", "field_type": "panel", "value": "Help Documents", "panel_style": "Simple", "left": "-244px", "top": "213px", "height": "345px", "width": "244px", "z_index": "21", "user_defined_data": "whzone", "visibility": "hidden", "newitem": "true" }, 
+    { "id": "D_9_11", "field_type": "output field", "value": "script: value", "left": "117px" }, 
+    { "id": "D_9_47", "field_type": "output field", "value": "script: value", "left": "480px" }, 
+    { "id": "D_9_53", "field_type": "output field", "value": "script: value", "left": "538px" }, 
+    { "id": "D_9_59", "field_type": "output field", "value": "script: value", "left": "599px" }, 
+    { "id": "D_9_65", "field_type": "output field", "value": "script: value", "left": "647px" }, 
+    { "id": "D_9_75", "field_type": "output field", "value": "script: value", "left": "718px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "9", "row_height": "24", "header_height": "30", "column_widths": "55,60,40,320,60,60,60,60,60", "left": "13px", "top": "217px", "height": "240px", "width": "776px" }
+  ]
+}

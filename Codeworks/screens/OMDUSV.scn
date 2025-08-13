@@ -1,0 +1,22 @@
+{
+  "screen": { "screen_name": "OMDUSV" },
+  "items": [
+    { "id": "D_3_2", "field_type": "output field", "value": "......................................................................................................" }, 
+    { "id": "D_4_4", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "OMDUSV" }, 
+    { "id": "D_6_11", "field_type": "output field", "value": "script: value", "top": "121px", "text_align": "right", "left": "113px" }, 
+    { "id": "D_6_68", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_6_76", "field_type": "output field", "value": "script: value", "width": "42px", "left": "741px" }, 
+    { "id": "D_8_7", "field_type": "output field", "value": "script: value", "top": "169px", "text_align": "right", "left": "73px" }, 
+    { "id": "D_8_40", "field_type": "output field", "value": "script: value", "top": "169px", "text_align": "right", "left": "403px" }, 
+    { "id": "D_8_66", "field_type": "output field", "value": "script: value", "top": "169px", "left": "663px" }, 
+    { "id": "D_9_5", "field_type": "output field", "value": "script: value", "top": "193px", "text_align": "right", "left": "53px" }, 
+    { "id": "D_11_10", "field_type": "output field", "value": "script: value", "top": "241px", "text_align": "right", "left": "103px" }, 
+    { "id": "D_11_40", "field_type": "output field", "value": "script: value", "top": "241px", "text_align": "right", "left": "403px" }, 
+    { "id": "D_12_7", "field_type": "output field", "value": "script: value", "top": "265px", "text_align": "right", "left": "73px" }, 
+    { "id": "D_12_36", "field_type": "output field", "value": "script: value", "top": "265px", "text_align": "right", "left": "363px" }, 
+    { "id": "D_12_60", "field_type": "output field", "value": "script: value", "top": "265px", "left": "603px" }, 
+    { "id": "D_13_13", "field_type": "output field", "value": "script: value", "top": "289px", "left": "107px", "text_align": "right", "width": "66px" }, 
+    { "id": "D_14_8", "field_type": "output field", "value": "script: value", "top": "313px", "text_align": "right", "left": "83px" }, 
+    { "id": "D_19_2", "field_type": "output field", "value": ":....................................................................................................:" }
+  ]
+}

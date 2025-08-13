@@ -1,0 +1,16 @@
+{
+  "screen": { "screen_name": "STW01S" },
+  "items": [
+    { "id": "D_1_11", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "STW01S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "131px" }, 
+    { "id": "D_4_49", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "81px" }, 
+    { "id": "D_4_66", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "110px" }, 
+    { "id": "D_5_4", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right", "width": "110px" }, 
+    { "id": "D_5_49", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right", "width": "80px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "7px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "6", "row_height": "24", "header_height": "30", "column_widths": "55,70,70,310,90,150", "left": "13px", "top": "241px", "height": "240px", "width": "746px" }, 
+    { "id": "arrow7_copy", "field_type": "output field", "value": ">", "css_class": "fkey-arrow", "newitem": "true", "color": "#999999", "font_family": "consolas", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(153, 153, 153)", "text_transform": "none", "word_spacing": "0px", "left": "11px", "top": "232px", "height": "17px", "width": "10px", "z_index": "10" }, 
+    { "id": "fkey8", "field_type": "output field", "value": "Help", "css_class": "fkey-link", "newitem": "true", "color": "#00517A", "font_family": "\"Open Sans\", sans-serif", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 81, 122)", "text_transform": "none", "word_spacing": "0px", "left": "22px", "top": "235px", "height": "17px", "width": "140px", "z_index": "10", "onclick": "var widget = document.getElementById(\"document-list-panel\"); // Replace 'widgetId' with the actual ID of the widget\nif (widget.style.visibility === \"hidden\") {\n  widget.style.visibility = \"visible\";  // Show the widget\n} else {\n  widget.style.visibility = \"hidden\";   // Hide the widget\n}" }, 
+    { "id": "document-list-panel", "field_type": "panel", "value": "Help Documents", "newitem": "true", "panel_style": "Simple", "left": "-242px", "top": "260px", "height": "345px", "width": "244px", "z_index": "21", "user_defined_data": "storers", "visibility": "hidden" }
+  ]
+}

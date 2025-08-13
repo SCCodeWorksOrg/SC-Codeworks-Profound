@@ -1,0 +1,16 @@
+{
+  "screen": { "screen_name": "problemtracking" },
+  "items": [
+    { "id": "D_2_34", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "Work With Logs" }, 
+    { "id": "I_10_23", "field_type": "textbox", "value": "script: value", "top": "220px", "left": "242px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "value": "script: value", "top": "268px", "width": "38px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "value": "script: value", "top": "292px", "width": "38px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "value": "script: value", "top": "316px", "width": "38px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "value": "script: value", "top": "340px", "width": "38px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "value": "script: value", "top": "364px", "width": "38px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "value": "script: value", "top": "388px", "width": "38px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "value": "script: value", "top": "412px", "width": "38px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "value": "script: value", "top": "436px", "width": "38px" }, 
+    { "id": "I_20_3", "field_type": "combo box", "value": "script: value", "top": "460px", "width": "38px" }
+  ]
+}

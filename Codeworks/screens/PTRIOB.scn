@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "PTRIOB" },
+  "items": [
+    { "id": "D_5_2", "field_type": "output field", "value": "......................................................................................................" }, 
+    { "id": "D_6_4", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "PTRIOB" }, 
+    { "id": "D_19_2", "field_type": "output field", "value": ":....................................................................................................:" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "screen": { "screen_name": "LUW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "LUW01S" }, 
+    { "id": "D_10_29", "field_type": "output field", "value": "script: value", "left": "295px" }, 
+    { "id": "D_10_72", "field_type": "output field", "value": "script: value", "left": "731px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "2", "number_of_columns": "5", "row_height": "24", "header_height": "30", "column_widths": "54,110,130,440,70", "left": "13px", "top": "241px", "height": "48px", "width": "805px" }
+  ]
+}

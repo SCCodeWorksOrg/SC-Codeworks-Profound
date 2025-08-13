@@ -1,0 +1,11 @@
+{
+  "screen": { "screen_name": "SOW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "SOW01S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_4_23", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "9px" }, 
+    { "id": "D_10_54", "field_type": "output field", "value": "script: value", "left": "529px" }, 
+    { "id": "D_10_58", "field_type": "output field", "value": "script: value", "left": "577px" }
+  ]
+}

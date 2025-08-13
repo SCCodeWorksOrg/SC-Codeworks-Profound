@@ -1,0 +1,10 @@
+{
+  "screen": { "screen_name": "Opt Sts   Number T Number Typ Ship      Ship     Storer Reference" },
+  "items": [
+    { "id": "D_11_2", "field_type": "output field", "value": "script: value", "top": "622px", "left": "-64px", "visibility": "hidden" }, 
+    { "id": "D_12_2", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "top": "648.333px", "left": "-31px", "visibility": "hidden", "identifier_value": "Opt Sts   Number T Number Typ Ship      Ship     Storer Reference" }, 
+    { "id": "I_21_2", "field_type": "combo box", "choices": "Change,Order Comments,Delete,Bill Synopsis,Pick Inquiry,BoL Inquiry,Print Picksht,Print BOL", "value": "script: value", "visibility": "visible" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "10", "row_height": "24", "header_height": "45", "column_widths": "55,30,100,26,63,30,42,100,90,347", "left": "3px", "top": "244px", "height": "261px", "width": "884px", "has_header": "true", "visibility": "visible", "z_index": "8", "header_background": "#CCCCCC", "header_font_color": "#330099", "header_font_weight": "bold", "column_headings": "OPT,Sts,Order number,OT,Storer number,,Ship Type,Sched ship,Actual ship,Storer Reference Number" }, 
+    { "id": "D_23_2_CF07", "field_type": "button", "value": "script: value", "top": "536px", "left": "171px" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "screen": { "screen_name": "SVU01SD" },
+  "items": [
+    { "id": "D_4_2", "field_type": "output field", "value": "......................................................................................................" }, 
+    { "id": "D_5_4", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "SVU01SD" }, 
+    { "id": "D_7_4", "field_type": "output field", "value": "script: value", "top": "144px", "left": "44px", "text_align": "right" }, 
+    { "id": "D_8_5", "field_type": "output field", "value": "script: value", "top": "168px", "left": "54px", "text_align": "right" }, 
+    { "id": "D_10_7", "field_type": "output field", "value": "script: value", "top": "216px", "left": "74px", "text_align": "right" }, 
+    { "id": "D_11_9", "field_type": "output field", "value": "script: value", "top": "240px", "left": "77px", "text_align": "right", "width": "97px" }, 
+    { "id": "D_15_2", "field_type": "output field", "value": ":....................................................................................................:" }
+  ]
+}

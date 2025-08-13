@@ -1,0 +1,20 @@
+{
+  "screen": { "screen_name": "TSU04R" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "TSU04R", "identifier_value": "TSU04R" }, 
+    { "id": "D_3_5_W", "field_type": "output field", "value": "script: value", "top": "49px", "left": "54px", "parent_window": "TSU04R", "text_align": "right" }, 
+    { "id": "D_3_16_W", "field_type": "output field", "value": "script: value", "parent_window": "TSU04R", "width": "52px", "top": "50px" }, 
+    { "id": "D_3_31_W", "field_type": "output field", "value": "script: value", "top": "49px", "left": "314px", "parent_window": "TSU04R", "text_align": "right" }, 
+    { "id": "D_4_3_W", "field_type": "output field", "value": "script: value", "top": "73px", "left": "34px", "parent_window": "TSU04R", "text_align": "right" }, 
+    { "id": "D_5_5_W", "field_type": "output field", "value": "script: value", "top": "97px", "left": "54px", "parent_window": "TSU04R", "text_align": "right" }, 
+    { "id": "D_6_7_W", "field_type": "output field", "value": "script: value", "top": "121px", "left": "74px", "parent_window": "TSU04R", "text_align": "right" }, 
+    { "id": "D_7_3_W", "field_type": "output field", "value": "script: value", "top": "145px", "left": "34px", "parent_window": "TSU04R", "text_align": "right" }, 
+    { "id": "D_8_8_W", "field_type": "output field", "value": "script: value", "top": "169px", "left": "84px", "parent_window": "TSU04R", "text_align": "right" }, 
+    { "id": "D_9_3_W", "field_type": "output field", "value": "script: value", "top": "193px", "left": "34px", "parent_window": "TSU04R", "text_align": "right" }, 
+    { "id": "D_9_21_W", "field_type": "output field", "value": "script: value", "top": "193px", "left": "215px", "parent_window": "TSU04R", "text_align": "right" }, 
+    { "id": "D_10_1_W", "field_type": "output field", "value": "script: value", "top": "217px", "left": "14px", "parent_window": "TSU04R", "text_align": "right" }, 
+    { "id": "I_3_39_W", "field_type": "textbox", "value": "script: value", "left": "386px", "parent_window": "TSU04R" }, 
+    { "id": "I_3_44_W", "field_type": "textbox", "value": "script: value", "left": "436px", "parent_window": "TSU04R" }, 
+    { "id": "I_9_45_W", "field_type": "textbox", "value": "script: value", "left": "448px", "parent_window": "TSU04R" }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "screen": { "screen_name": "Aged Assets ASSETAGED" },
+  "items": [
+    { "id": "D_1_20", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "          Aged Assets (ASSETAGED)" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "left": "40px", "text_align": "right" }, 
+    { "id": "D_6_2", "field_type": "output field", "value": "script: value", "left": "40px", "text_align": "right" }, 
+    { "id": "D_7_2", "field_type": "output field", "value": "script: value", "left": "40px", "text_align": "right" }, 
+    { "id": "D_8_2", "field_type": "output field", "value": "script: value", "left": "40px", "text_align": "right" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "screen": { "screen_name": "carriers" },
+  "items": [
+    { "id": "D_2_32", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "Work With Carriers" }, 
+    { "id": "I_11_3", "field_type": "combo box", "choices": "Change,BOL Comments,Consolidate,Limits,EDI Documents", "value": "script: value", "top": "244px", "height": "20px", "width": "36px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "choices": "Change,BOL Comments,Consolidate,Limits,EDI Documents", "value": "script: value", "top": "268px", "height": "20px", "width": "36px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "choices": "Change,BOL Comments,Consolidate,Limits,EDI Documents", "value": "script: value", "top": "292px", "height": "20px", "width": "36px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "choices": "Change,BOL Comments,Consolidate,Limits,EDI Documents", "value": "script: value", "top": "316px", "height": "20px", "width": "36px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "choices": "Change,BOL Comments,Consolidate,Limits,EDI Documents", "value": "script: value", "top": "340px", "height": "20px", "width": "36px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "choices": "Change,BOL Comments,Consolidate,Limits,EDI Documents", "value": "script: value", "top": "364px", "height": "20px", "width": "36px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "choices": "Change,BOL Comments,Consolidate,Limits,EDI Documents", "value": "script: value", "top": "388px", "height": "20px", "width": "36px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "choices": "Change,BOL Comments,Consolidate,Limits,EDI Documents", "value": "script: value", "top": "412px", "height": "20px", "width": "36px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "choices": "Change,BOL Comments,Consolidate,Limits,EDI Documents", "value": "script: value", "top": "436px", "height": "20px", "width": "36px" }, 
+    { "id": "I_20_3", "field_type": "combo box", "choices": "Change,BOL Comments,Consolidate,Limits,EDI Documents", "value": "script: value", "top": "460px", "height": "20px", "width": "36px" }, 
+    { "id": "arrow7_copy", "field_type": "output field", "value": ">", "css_class": "fkey-arrow", "newitem": "true", "color": "#999999", "font_family": "consolas", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(153, 153, 153)", "text_transform": "none", "word_spacing": "0px", "left": "-163px", "top": "233px", "height": "17px", "width": "10px", "z_index": "10" }, 
+    { "id": "fkey8", "field_type": "output field", "value": "Help", "css_class": "fkey-link", "newitem": "true", "color": "#00517A", "font_family": "\"Open Sans\", sans-serif", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 81, 122)", "text_transform": "none", "word_spacing": "0px", "left": "-143px", "top": "235px", "height": "17px", "width": "140px", "z_index": "10", "onclick": "var widget = document.getElementById(\"document-list-panel\"); // Replace 'widgetId' with the actual ID of the widget\nif (widget.style.visibility === \"hidden\") {\n  widget.style.visibility = \"visible\";  // Show the widget\n} else {\n  widget.style.visibility = \"hidden\";   // Hide the widget\n}" }, 
+    { "id": "document-list-panel", "field_type": "panel", "value": "Help Documents", "newitem": "true", "panel_style": "Simple", "left": "-242px", "top": "257px", "height": "345px", "width": "244px", "z_index": "21", "user_defined_data": "carriers", "visibility": "hidden" }
+  ]
+}

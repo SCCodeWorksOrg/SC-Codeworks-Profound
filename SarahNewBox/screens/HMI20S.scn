@@ -1,0 +1,19 @@
+{
+  "screen": { "screen_name": "HMI20S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "HMI20S" }, 
+    { "id": "D_9_9", "field_type": "output field", "value": "script: value", "left": "82px" }, 
+    { "id": "D_9_48", "field_type": "output field", "value": "script: value", "left": "483px" }, 
+    { "id": "D_9_56", "field_type": "output field", "value": "script: value", "left": "567px" }, 
+    { "id": "D_9_66", "field_type": "output field", "value": "script: value", "left": "666px" }, 
+    { "id": "D_9_74", "field_type": "output field", "value": "script: value", "left": "754px" }, 
+    { "id": "D_10_6", "field_type": "output field", "value": "script: value", "height": "16px" }, 
+    { "id": "D_10_21", "field_type": "output field", "value": "script: value", "left": "213px" }, 
+    { "id": "D_10_25", "field_type": "output field", "value": "script: value", "left": "251px" }, 
+    { "id": "D_10_46", "field_type": "output field", "value": "script: value", "left": "473px" }, 
+    { "id": "D_10_55", "field_type": "output field", "value": "script: value", "left": "566px" }, 
+    { "id": "D_10_64", "field_type": "output field", "value": "script: value", "left": "661px" }, 
+    { "id": "D_10_74", "field_type": "output field", "value": "script: value", "left": "754px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "8", "number_of_columns": "12", "row_height": "24", "header_height": "30", "column_widths": "59,90,60,40,50,40,130,90,90,90,30,70", "left": "13px", "top": "241px", "height": "192px", "width": "840px" }
+  ]
+}

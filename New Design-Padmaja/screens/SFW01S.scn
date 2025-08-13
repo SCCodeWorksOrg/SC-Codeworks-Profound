@@ -1,0 +1,20 @@
+{
+  "screen": { "screen_name": "SFW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "SFW01S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "left": "10px", "text_align": "right" }, 
+    { "id": "D_4_21", "field_type": "output field", "value": "script: value", "top": "73px", "left": "200px", "text_align": "right" }, 
+    { "id": "D_4_48", "field_type": "output field", "value": "script: value", "top": "73px", "left": "470px", "text_align": "right" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "-4px" }, 
+    { "id": "I_12_2", "field_type": "combo box", "value": "script: value", "top": "270px" }, 
+    { "id": "I_13_2", "field_type": "combo box", "value": "script: value", "top": "298px" }, 
+    { "id": "I_14_2", "field_type": "combo box", "value": "script: value", "top": "327px" }, 
+    { "id": "I_15_2", "field_type": "combo box", "value": "script: value", "top": "355px" }, 
+    { "id": "I_16_2", "field_type": "combo box", "value": "script: value", "top": "383px" }, 
+    { "id": "I_17_2", "field_type": "combo box", "value": "script: value", "top": "411px" }, 
+    { "id": "I_18_2", "field_type": "combo box", "value": "script: value", "top": "439px" }, 
+    { "id": "I_19_2", "field_type": "combo box", "value": "script: value", "top": "467px" }, 
+    { "id": "I_20_2", "field_type": "combo box", "value": "script: value", "top": "495px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "6", "row_height": "28", "header_height": "30", "column_widths": "52,50,30,110,110,490", "left": "3px", "top": "241px", "height": "280px", "width": "843px" }
+  ]
+}

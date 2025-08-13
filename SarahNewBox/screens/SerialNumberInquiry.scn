@@ -1,0 +1,17 @@
+{
+  "screen": { "screen_name": "SerialNumberInquiry" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "SerialNumberInquiry", "identifier_value": "SDI01R" }, 
+    { "id": "D_6_1_W", "field_type": "output field", "value": "script: value", "top": "122px", "left": "22px", "parent_window": "SerialNumberInquiry" }, 
+    { "id": "D_7_1_W", "field_type": "output field", "value": "script: value", "top": "142px", "left": "17px", "parent_window": "SerialNumberInquiry" }, 
+    { "id": "D_7_10_W", "field_type": "output field", "value": "script: value", "top": "142px", "left": "107px", "parent_window": "SerialNumberInquiry" }, 
+    { "id": "D_8_1_W", "field_type": "output field", "value": "script: value", "top": "166px", "left": "17px", "parent_window": "SerialNumberInquiry" }, 
+    { "id": "D_8_10_W", "field_type": "output field", "value": "script: value", "top": "166px", "left": "107px", "parent_window": "SerialNumberInquiry" }, 
+    { "id": "D_9_1_W", "field_type": "output field", "value": "script: value", "top": "190px", "left": "17px", "parent_window": "SerialNumberInquiry" }, 
+    { "id": "D_9_10_W", "field_type": "output field", "value": "script: value", "top": "190px", "left": "107px", "parent_window": "SerialNumberInquiry" }, 
+    { "id": "D_10_1_W", "field_type": "output field", "value": "script: value", "top": "214px", "left": "17px", "parent_window": "SerialNumberInquiry" }, 
+    { "id": "D_10_10_W", "field_type": "output field", "value": "script: value", "top": "214px", "left": "107px", "parent_window": "SerialNumberInquiry" }, 
+    { "id": "D_11_1_W", "field_type": "output field", "value": "script: value", "top": "237px", "left": "17px", "parent_window": "SerialNumberInquiry", "width": "80px" }, 
+    { "id": "D_11_10_W", "field_type": "output field", "value": "script: value", "top": "237px", "left": "107px", "parent_window": "SerialNumberInquiry" }
+  ]
+}

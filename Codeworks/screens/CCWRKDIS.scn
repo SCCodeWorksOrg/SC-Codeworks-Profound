@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "CCWRKDIS" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "CCWRKDIS" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "7px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "5", "row_height": "24", "header_height": "30", "column_widths": "56,410,100,130,150", "left": "13px", "top": "241px", "height": "240px", "width": "847px" }
+  ]
+}

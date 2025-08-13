@@ -1,0 +1,24 @@
+{
+  "screen": { "screen_name": "VCW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "VCW01S" }, 
+    { "id": "D_4_4", "field_type": "output field", "value": "script: value", "top": "73px", "left": "30px", "text_align": "right" }, 
+    { "id": "D_4_26", "field_type": "output field", "value": "script: value", "top": "73px", "left": "250px", "text_align": "right" }, 
+    { "id": "D_4_55", "field_type": "output field", "value": "script: value", "top": "73px", "left": "540px", "text_align": "right" }, 
+    { "id": "D_5_3", "field_type": "output field", "value": "script: value", "top": "97px", "left": "20px", "text_align": "right" }, 
+    { "id": "D_5_21", "field_type": "output field", "value": "script: value", "top": "97px", "left": "200px", "text_align": "right" }, 
+    { "id": "D_5_59", "field_type": "output field", "value": "script: value", "top": "97px", "left": "580px", "text_align": "right" }, 
+    { "id": "D_10_36", "field_type": "output field", "value": "script: value", "left": "385px" }, 
+    { "id": "D_10_67", "field_type": "output field", "value": "script: value", "left": "684px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "value": "script: value", "top": "270px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "value": "script: value", "top": "299px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "value": "script: value", "top": "327px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "value": "script: value", "top": "356px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "value": "script: value", "top": "384px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "value": "script: value", "top": "412px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "value": "script: value", "top": "439px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "value": "script: value", "top": "467px" }, 
+    { "id": "I_20_3", "field_type": "combo box", "value": "script: value", "top": "496px" }, 
+    { "id": "subfile", "field_type": "grid", "data_columns": "3,6,11,14,16,24,37,58,67,78", "value": "script: value", "number_of_rows": "10", "number_of_columns": "10", "row_height": "28", "header_height": "30", "column_widths": "52,50,30,20,102,127,192,110,89,46", "left": "13px", "top": "241px", "height": "280px", "width": "819px" }
+  ]
+}

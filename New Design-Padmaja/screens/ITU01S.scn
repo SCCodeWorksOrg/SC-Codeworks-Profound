@@ -1,0 +1,18 @@
+{
+  "screen": { "screen_name": "ITU01S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "ITU01S", "identifier_value": "ITU01S" }, 
+    { "id": "D_3_3_W", "field_type": "output field", "value": "script: value", "top": "49px", "parent_window": "ITU01S", "text_align": "right", "width": "130px" }, 
+    { "id": "D_4_7_W", "field_type": "output field", "value": "script: value", "top": "73px", "parent_window": "ITU01S", "text_align": "right", "width": "90px" }, 
+    { "id": "D_5_5_W", "field_type": "output field", "value": "script: value", "top": "97px", "parent_window": "ITU01S", "text_align": "right", "width": "110px" }, 
+    { "id": "D_8_3_W", "field_type": "output field", "value": "script: value", "top": "169px", "parent_window": "ITU01S", "text_align": "right", "width": "130px" }, 
+    { "id": "D_9_4_W", "field_type": "output field", "value": "script: value", "top": "193px", "parent_window": "ITU01S", "text_align": "right", "width": "120px" }, 
+    { "id": "D_9_25_W", "field_type": "output field", "value": "script: value", "top": "193px", "left": "247px", "parent_window": "ITU01S", "text_align": "right", "width": "194px" }, 
+    { "id": "D_11_5_W", "field_type": "output field", "value": "script: value", "top": "241px", "parent_window": "ITU01S", "text_align": "right", "width": "110px" }, 
+    { "id": "D_11_29_W", "field_type": "output field", "value": "script: value", "top": "241px", "left": "287px", "parent_window": "ITU01S", "text_align": "right", "width": "154px" }, 
+    { "id": "D_12_7_W", "field_type": "output field", "value": "script: value", "top": "265px", "parent_window": "ITU01S", "text_align": "right", "width": "90px" }, 
+    { "id": "D_14_4_W", "field_type": "output field", "value": "script: value", "top": "313px", "parent_window": "ITU01S", "text_align": "right", "width": "120px" }, 
+    { "id": "D_16_5_W", "field_type": "output field", "value": "script: value", "top": "361px", "parent_window": "ITU01S", "text_align": "right", "width": "110px" }, 
+    { "id": "HtmlContainer1", "field_type": "html container", "color": "#000000", "font_family": "\"Open Sans\", sans-serif", "font_size": "14px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 0, 0)", "text_transform": "none", "word_spacing": "0px", "top": "38px", "left": "295px", "z_index": "10", "parent_window": "ITU01S", "html": "<script src=\"/profoundui/htdocs/profoundui/userdata/js/customFormHandler.js\"></script>", "white_space": "normal", "width": "202px", "height": "20px", "value": "script: value", "newitem": "true" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "screen": { "screen_name": "OMDWAS" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "OMDWAS" }, 
+    { "id": "D_4_1", "field_type": "output field", "value": "script: value", "text_align": "right", "width": "72px" }, 
+    { "id": "D_4_22", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_4_54", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "left": "30px", "text_align": "right", "width": "52px" }, 
+    { "id": "D_5_25", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_5_58", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "5px", "text_align": "left" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "9", "number_of_columns": "5", "row_height": "24", "header_height": "30", "column_widths": "49,110,210,400,70", "left": "13px", "top": "242px", "height": "216px", "width": "840px" }
+  ]
+}

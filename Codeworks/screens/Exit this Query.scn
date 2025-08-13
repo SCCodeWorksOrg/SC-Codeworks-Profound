@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "Exit this Query" },
+  "items": [
+    { "id": "D_1_2", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "                               Exit this Query" }, 
+    { "id": "I_5_29", "field_type": "textbox", "value": "script: value", "top": "101px", "left": "292px", "width": "32px" }, 
+    { "id": "I_7_29", "field_type": "textbox", "value": "script: value", "width": "36px" }
+  ]
+}

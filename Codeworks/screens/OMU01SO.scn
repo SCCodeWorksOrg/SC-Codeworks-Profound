@@ -1,0 +1,9 @@
+{
+  "screen": { "screen_name": "OMU01SO" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "OMU01SO", "identifier_value": "OMU01SO" }, 
+    { "id": "D_6_2_W", "field_type": "output field", "value": "script: value", "top": "121px", "parent_window": "OMU01SO", "text_align": "right" }, 
+    { "id": "D_7_1_W", "field_type": "output field", "value": "script: value", "top": "145px", "parent_window": "OMU01SO", "text_align": "right" }, 
+    { "id": "D_8_3_W", "field_type": "output field", "value": "script: value", "top": "169px", "parent_window": "OMU01SO", "text_align": "right" }
+  ]
+}

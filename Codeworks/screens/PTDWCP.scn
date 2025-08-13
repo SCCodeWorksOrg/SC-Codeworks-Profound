@@ -1,0 +1,10 @@
+{
+  "screen": { "screen_name": "PTDWCP" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "PTDWCP" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right" }, 
+    { "id": "D_4_27", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "8px" }, 
+    { "id": "D_10_75", "field_type": "output field", "value": "Status" }
+  ]
+}

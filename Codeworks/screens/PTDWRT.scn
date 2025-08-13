@@ -1,0 +1,9 @@
+{
+  "screen": { "screen_name": "PTDWRT" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "PTDWRT" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "8px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "6", "row_height": "24", "header_height": "30", "column_widths": "55,100,80,60,140,150", "left": "13px", "top": "241px", "height": "240px", "width": "586px" }
+  ]
+}

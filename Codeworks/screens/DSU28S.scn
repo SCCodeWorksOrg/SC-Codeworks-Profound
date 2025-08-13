@@ -1,0 +1,9 @@
+{
+  "screen": { "screen_name": "DSU28S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "DSU28S", "identifier_value": "DSU28S" }, 
+    { "id": "D_3_8_W", "field_type": "output field", "value": "script: value", "top": "49px", "parent_window": "DSU28S", "text_align": "right" }, 
+    { "id": "D_4_13_W", "field_type": "output field", "value": "script: value", "top": "73px", "parent_window": "DSU28S", "text_align": "right" }, 
+    { "id": "D_5_1_W", "field_type": "output field", "value": "script: value", "top": "97px", "parent_window": "DSU28S", "text_align": "right" }
+  ]
+}

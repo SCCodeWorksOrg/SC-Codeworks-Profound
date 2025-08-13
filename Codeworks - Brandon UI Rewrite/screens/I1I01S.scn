@@ -1,0 +1,17 @@
+{
+  "screen": { "screen_name": "I1I01S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "I1I01S", "identifier_value": "I1I01S" }, 
+    { "id": "D_4_4_W", "field_type": "output field", "value": "script: value", "left": "56px", "parent_window": "I1I01S", "text_align": "right", "top": "74px" }, 
+    { "id": "D_5_2_W", "field_type": "output field", "value": "script: value", "left": "36px", "parent_window": "I1I01S", "text_align": "right", "top": "98px" }, 
+    { "id": "D_6_6_W", "field_type": "output field", "value": "script: value", "left": "39px", "parent_window": "I1I01S", "text_align": "right", "width": "87px", "top": "122px" }, 
+    { "id": "D_7_2_W", "field_type": "output field", "value": "script: value", "left": "24px", "parent_window": "I1I01S", "text_align": "right", "width": "102px", "top": "144px" }, 
+    { "id": "D_9_7_W", "field_type": "output field", "value": "script: value", "left": "35px", "parent_window": "I1I01S", "text_align": "right", "width": "85px", "visibility": "hidden" }, 
+    { "id": "I_9_13_W", "field_type": "textbox", "value": "script: value", "parent_window": "I1I01S", "visibility": "hidden" }, 
+    { "id": "I_10_13_W", "field_type": "textbox", "value": "script: value", "parent_window": "I1I01S", "visibility": "hidden" }, 
+    { "id": "I_11_13_W", "field_type": "textbox", "value": "script: value", "parent_window": "I1I01S", "visibility": "hidden" }, 
+    { "id": "I_12_13_W", "field_type": "textbox", "value": "script: value", "parent_window": "I1I01S", "visibility": "hidden" }, 
+    { "id": "I_13_13_W", "field_type": "textbox", "value": "script: value", "parent_window": "I1I01S", "visibility": "hidden" }, 
+    { "id": "image-source-custom", "field_type": "image", "parent_window": "I1I01S", "left": "278px", "top": "198px", "width": "442px", "z_index": "101", "height": "271px", "value": "script: value", "font_size": "14px", "newitem": "true", "image_source": "/profoundui/userdata/myfiles/placeholder.jpg" }
+  ]
+}

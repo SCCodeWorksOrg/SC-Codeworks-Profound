@@ -1,0 +1,27 @@
+{
+  "screen": { "screen_name": "ITW02S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "ITW02S" }, 
+    { "id": "D_3_2", "field_type": "output field", "value": "......................................................................................................" }, 
+    { "id": "D_4_4", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "I1D01S" }, 
+    { "id": "D_6_11", "field_type": "output field", "value": "script: value", "top": "123px", "left": "106px", "text_align": "right" }, 
+    { "id": "D_6_19", "field_type": "output field", "value": "script: value", "left": "180px" }, 
+    { "id": "D_7_13", "field_type": "output field", "value": "script: value", "top": "147px", "left": "126px", "text_align": "right" }, 
+    { "id": "D_7_19", "field_type": "output field", "value": "script: value", "left": "180px" }, 
+    { "id": "D_8_10", "field_type": "output field", "value": "script: value", "top": "171px", "left": "96px", "text_align": "right" }, 
+    { "id": "D_8_19", "field_type": "output field", "value": "script: value", "left": "180px" }, 
+    { "id": "D_9_9", "field_type": "output field", "value": "script: value", "top": "195px", "left": "86px", "text_align": "right" }, 
+    { "id": "D_9_19", "field_type": "output field", "value": "script: value", "left": "180px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "19px" }, 
+    { "id": "D_10_13", "field_type": "output field", "value": "script: value", "top": "219px", "left": "111px", "text_align": "right", "width": "65px" }, 
+    { "id": "D_10_19", "field_type": "output field", "value": "script: value", "left": "180px" }, 
+    { "id": "D_16_4", "field_type": "output field", "value": "script: value", "top": "384px", "left": "65px" }, 
+    { "id": "D_19_2", "field_type": "output field", "value": ":....................................................................................................:" }, 
+    { "id": "I_11_9", "field_type": "textbox", "value": "script: value", "visibility": "hidden" }, 
+    { "id": "I_12_9", "field_type": "textbox", "value": "script: value", "visibility": "hidden" }, 
+    { "id": "I_13_9", "field_type": "textbox", "value": "script: value", "visibility": "hidden" }, 
+    { "id": "I_14_9", "field_type": "textbox", "value": "script: value", "visibility": "hidden" }, 
+    { "id": "image-source-custom", "field_type": "image", "color": "#000000", "font_family": "\"Open Sans\", sans-serif", "font_size": "14px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 0, 0)", "text_transform": "none", "word_spacing": "0px", "top": "190px", "left": "418px", "z_index": "10", "image_source": "/profoundui/proddata/images/image.png", "width": "356px", "height": "237px", "value": "script: value", "newitem": "true" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "7", "row_height": "24", "header_height": "30", "column_widths": "57,50,30,210,60,110,300", "left": "13px", "top": "241px", "height": "240px", "width": "818px" }
+  ]
+}

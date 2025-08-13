@@ -1,0 +1,16 @@
+{
+  "screen": { "screen_name": "PTDPLG3" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "PTDPLG3", "identifier_value": "PTDPLG3" }, 
+    { "id": "D_3_1_W", "field_type": "output field", "value": "script: value", "top": "48px", "left": "2px", "parent_window": "PTDPLG3", "width": "88px", "text_align": "right" }, 
+    { "id": "D_3_16_W", "field_type": "output field", "value": "script: value", "top": "48px", "left": "152px", "parent_window": "PTDPLG3", "width": "78px", "text_align": "right" }, 
+    { "id": "D_6_14_W", "field_type": "output field", "value": "script: value", "left": "125px", "parent_window": "PTDPLG3", "width": "36px" }, 
+    { "id": "D_7_14_W", "field_type": "output field", "value": "script: value", "left": "125px", "parent_window": "PTDPLG3", "width": "36px" }, 
+    { "id": "D_8_14_W", "field_type": "output field", "value": "script: value", "left": "125px", "parent_window": "PTDPLG3", "width": "36px" }, 
+    { "id": "D_9_14_W", "field_type": "output field", "value": "script: value", "left": "125px", "parent_window": "PTDPLG3", "width": "36px" }, 
+    { "id": "D_10_14_W", "field_type": "output field", "value": "script: value", "left": "125px", "parent_window": "PTDPLG3", "width": "36px" }, 
+    { "id": "D_11_14_W", "field_type": "output field", "value": "script: value", "left": "125px", "parent_window": "PTDPLG3", "width": "36px" }, 
+    { "id": "D_12_14_W", "field_type": "output field", "value": "script: value", "left": "125px", "parent_window": "PTDPLG3", "width": "36px" }, 
+    { "id": "D_13_14_W", "field_type": "output field", "value": "script: value", "left": "125px", "parent_window": "PTDPLG3", "width": "36px" }
+  ]
+}

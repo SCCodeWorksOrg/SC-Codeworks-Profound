@@ -1,0 +1,21 @@
+{
+  "screen": { "screen_name": "SAW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "SAW01S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "74px", "left": "10px", "text_align": "right" }, 
+    { "id": "D_4_51", "field_type": "output field", "value": "script: value", "top": "74px", "left": "500px", "text_align": "right" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "color": "#1E487A", "top": "98px", "left": "10px", "text_align": "right" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "4px" }, 
+    { "id": "I_11_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "top": "243px", "left": "13px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "top": "270px", "left": "13px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "top": "299px", "left": "13px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "top": "327px", "left": "13px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "top": "354px", "left": "13px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "top": "382px", "left": "13px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "top": "411px", "left": "13px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "top": "439px", "left": "13px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "top": "467px", "left": "13px" }, 
+    { "id": "I_20_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "top": "494px", "left": "13px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "9", "row_height": "28", "header_height": "30", "column_widths": "53,310,20,100,60,50,30,150,70", "left": "12px", "top": "240px", "height": "280px", "width": "844px" }
+  ]
+}

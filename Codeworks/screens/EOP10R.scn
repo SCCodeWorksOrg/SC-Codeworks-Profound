@@ -1,0 +1,15 @@
+{
+  "screen": { "screen_name": "EOP10R" },
+  "items": [
+    { "id": "D_2_1", "field_type": "output field", "value": "..........................................................." }, 
+    { "id": "D_3_3", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "EOP10R" }, 
+    { "id": "D_3_11", "field_type": "output field", "value": "script: value", "text_align": "center" }, 
+    { "id": "D_7_3", "field_type": "output field", "value": "Bld      Storer           Description", "left": "22px", "width": "428px" }, 
+    { "id": "D_8_3", "field_type": "output field", "value": "script: value", "left": "22px", "text_align": "left", "width": "38px" }, 
+    { "id": "D_9_3", "field_type": "output field", "value": "script: value", "left": "22px", "text_align": "left", "width": "38px" }, 
+    { "id": "D_10_3", "field_type": "output field", "value": "script: value", "left": "22px", "text_align": "left", "width": "38px" }, 
+    { "id": "D_11_3", "field_type": "output field", "value": "script: value", "left": "22px", "text_align": "left", "width": "38px" }, 
+    { "id": "D_12_3", "field_type": "output field", "value": "script: value", "left": "22px", "text_align": "left", "width": "38px" }, 
+    { "id": "D_16_1", "field_type": "output field", "value": ":.........................................................:" }
+  ]
+}

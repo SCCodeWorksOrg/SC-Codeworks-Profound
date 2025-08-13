@@ -1,0 +1,19 @@
+{
+  "screen": { "screen_name": "WKU01S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "WKU01S", "identifier_value": "WKU01S" }, 
+    { "id": "D_3_2_W", "field_type": "output field", "value": "script: value", "top": "51px", "left": "39px", "parent_window": "WKU01S", "width": "159px" }, 
+    { "id": "D_4_1_W", "field_type": "output field", "value": "script: value", "top": "76px", "left": "45px", "parent_window": "WKU01S", "width": "154px" }, 
+    { "id": "D_5_4_W", "field_type": "output field", "value": "script: value", "top": "98px", "left": "65px", "parent_window": "WKU01S", "width": "134px" }, 
+    { "id": "D_6_12_W", "field_type": "output field", "value": "script: value", "top": "123px", "left": "120px", "parent_window": "WKU01S", "width": "80px" }, 
+    { "id": "D_6_35_W", "field_type": "output field", "value": "script: value", "left": "359px", "parent_window": "WKU01S" }, 
+    { "id": "D_7_7_W", "field_type": "output field", "value": "script: value", "parent_window": "WKU01S", "width": "111px", "top": "146px", "left": "91px" }, 
+    { "id": "I_3_21_W", "field_type": "textbox", "value": "script: value", "top": "53px", "left": "204px", "parent_window": "WKU01S" }, 
+    { "id": "I_3_44_W", "field_type": "textbox", "value": "script: value", "top": "53px", "left": "433px", "parent_window": "WKU01S", "height": "20px", "width": "27px" }, 
+    { "id": "I_4_21_W", "field_type": "textbox", "value": "script: value", "top": "77px", "left": "205px", "parent_window": "WKU01S" }, 
+    { "id": "I_5_21_W", "field_type": "textbox", "value": "script: value", "left": "205px", "parent_window": "WKU01S" }, 
+    { "id": "I_6_21_W", "field_type": "textbox", "value": "script: value", "parent_window": "WKU01S", "width": "25px", "left": "206px" }, 
+    { "id": "I_6_44_W", "field_type": "textbox", "value": "script: value", "top": "126px", "left": "436px", "parent_window": "WKU01S", "width": "25px" }, 
+    { "id": "I_7_21_W", "field_type": "textbox", "value": "script: value", "left": "205px", "parent_window": "WKU01S" }
+  ]
+}

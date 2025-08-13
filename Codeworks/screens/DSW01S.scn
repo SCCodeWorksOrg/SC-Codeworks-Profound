@@ -1,0 +1,10 @@
+{
+  "screen": { "screen_name": "DSW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "DSW01S" }, 
+    { "id": "D_10_22", "field_type": "output field", "value": "script: value", "left": "241px", "width": "26px" }, 
+    { "id": "D_10_54", "field_type": "output field", "value": "script: value", "left": "521px" }, 
+    { "id": "subfile", "field_type": "grid", "data_columns": "2,5,13,18,22,24,26,32,37,46,52,61,73,76,78", "value": "script: value", "number_of_rows": "8", "number_of_columns": "14", "row_height": "24", "header_height": "30", "column_widths": "51,80,50,40,24,22,54,50,78,69,90,110,50,51", "left": "3px", "top": "265px", "height": "192px", "width": "820px" }, 
+    { "id": "D_10_22_copy", "field_type": "output field", "value": "L", "css_class": "A22", "color": "#1E487A", "font_family": "\"Open Sans\", sans-serif", "font_size": "14px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(30, 72, 122)", "text_transform": "none", "word_spacing": "0px", "left": "221px", "top": "222px", "height": "20px", "width": "26px", "z_index": "10", "newitem": "true" }
+  ]
+}

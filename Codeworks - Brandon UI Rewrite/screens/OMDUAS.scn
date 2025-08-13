@@ -1,0 +1,19 @@
+{
+  "screen": { "screen_name": "OMDUAS" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "OMDUAS", "identifier_value": "OMDUAS" }, 
+    { "id": "D_3_4_W", "field_type": "output field", "value": "script: value", "top": "49px", "parent_window": "OMDUAS", "text_align": "right" }, 
+    { "id": "D_5_5_W", "field_type": "output field", "value": "script: value", "top": "97px", "parent_window": "OMDUAS", "text_align": "right" }, 
+    { "id": "D_6_5_W", "field_type": "output field", "value": "script: value", "top": "121px", "parent_window": "OMDUAS", "text_align": "right" }, 
+    { "id": "D_7_4_W", "field_type": "output field", "value": "script: value", "top": "145px", "parent_window": "OMDUAS", "text_align": "right" }, 
+    { "id": "D_8_3_W", "field_type": "output field", "value": "script: value", "top": "169px", "parent_window": "OMDUAS", "text_align": "right" }, 
+    { "id": "D_10_6_W", "field_type": "output field", "value": "script: value", "top": "217px", "parent_window": "OMDUAS", "text_align": "right" }, 
+    { "id": "D_10_30_W", "field_type": "output field", "value": "script: value", "top": "217px", "parent_window": "OMDUAS", "text_align": "right" }, 
+    { "id": "D_11_8_W", "field_type": "output field", "value": "script: value", "top": "241px", "parent_window": "OMDUAS", "text_align": "right" }, 
+    { "id": "D_11_28_W", "field_type": "output field", "value": "script: value", "top": "241px", "parent_window": "OMDUAS", "text_align": "right" }, 
+    { "id": "D_12_1_W", "field_type": "output field", "value": "script: value", "top": "265px", "parent_window": "OMDUAS", "text_align": "right" }, 
+    { "id": "D_13_10_W", "field_type": "output field", "value": "script: value", "top": "289px", "parent_window": "OMDUAS", "text_align": "right" }, 
+    { "id": "D_13_36_W", "field_type": "output field", "value": "script: value", "top": "289px", "parent_window": "OMDUAS", "text_align": "right" }, 
+    { "id": "D_14_37_W", "field_type": "output field", "value": "script: value", "top": "313px", "parent_window": "OMDUAS", "text_align": "right" }
+  ]
+}

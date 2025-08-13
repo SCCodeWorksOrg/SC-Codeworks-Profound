@@ -1,0 +1,22 @@
+{
+  "screen": { "screen_name": "IHW943S" },
+  "items": [
+    { "id": "D_1_11", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "IHW943S" }, 
+    { "id": "D_4_5", "field_type": "output field", "value": "script: value", "top": "73px", "left": "40px", "text_align": "right" }, 
+    { "id": "D_4_34", "field_type": "output field", "value": "script: value", "top": "73px", "left": "330px", "text_align": "right" }, 
+    { "id": "D_4_71", "field_type": "output field", "value": "script: value", "top": "73px", "left": "700px", "text_align": "right" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "color": "#1E487A", "top": "97px", "left": "10px", "text_align": "right" }, 
+    { "id": "D_6_1", "field_type": "output field", "value": "script: value", "color": "#1F7D09", "font_weight": "bold" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "2px" }, 
+    { "id": "I_11_3", "field_type": "combo box", "choices": "Re-Validate,Delete,Review Errors,Inquire", "value": "script: value", "top": "243px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "choices": "Re-Validate,Delete,Review Errors,Inquire", "value": "script: value", "top": "271px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "choices": "Re-Validate,Delete,Review Errors,Inquire", "value": "script: value", "top": "299px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "choices": "Re-Validate,Delete,Review Errors,Inquire", "value": "script: value", "top": "328px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "choices": "Re-Validate,Delete,Review Errors,Inquire", "value": "script: value", "top": "355px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "choices": "Re-Validate,Delete,Review Errors,Inquire", "value": "script: value", "top": "383px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "choices": "Re-Validate,Delete,Review Errors,Inquire", "value": "script: value", "top": "410px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "choices": "Re-Validate,Delete,Review Errors,Inquire", "value": "script: value", "top": "439px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "choices": "Re-Validate,Delete,Review Errors,Inquire", "value": "script: value", "top": "466px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "9", "number_of_columns": "11", "row_height": "28", "header_height": "30", "column_widths": "54,20,100,50,30,40,20,20,20,160,298", "left": "13px", "top": "241px", "height": "252px", "width": "813px" }
+  ]
+}

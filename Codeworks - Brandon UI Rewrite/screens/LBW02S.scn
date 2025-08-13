@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "LBW02S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "LBW02S", "identifier_value": "LBW02S" }, 
+    { "id": "D_10_21_W", "field_type": "output field", "value": "script: value", "parent_window": "LBW02S", "text_align": "center" }, 
+    { "id": "D_10_30_W", "field_type": "output field", "value": "script: value", "parent_window": "LBW02S", "text_align": "center", "width": "48px" }
+  ]
+}

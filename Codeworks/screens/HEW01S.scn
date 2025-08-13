@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "HEW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "HEW01S" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "9", "row_height": "24", "header_height": "30", "column_widths": "51,74,70,130,110,61,40,80,100", "left": "13px", "top": "241px", "height": "240px", "width": "717px" }
+  ]
+}

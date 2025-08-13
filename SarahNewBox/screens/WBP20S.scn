@@ -1,0 +1,13 @@
+{
+  "screen": { "screen_name": "WBP20S" },
+  "items": [
+    { "id": "D_5_3", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "WBP20S" }, 
+    { "id": "D_8_3", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_8_15", "field_type": "output field", "value": "script: value", "left": "156px", "width": "64px" }, 
+    { "id": "D_8_32", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_8_65", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_9_6", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_9_17", "field_type": "output field", "value": "script: value", "left": "160px", "width": "60px" }, 
+    { "id": "D_9_24", "field_type": "output field", "value": "script: value", "text_align": "right" }
+  ]
+}

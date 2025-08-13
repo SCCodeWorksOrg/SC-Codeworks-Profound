@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "EAU01S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "EAU01S", "identifier_value": "EAU01S" }, 
+    { "id": "D_3_11_W", "field_type": "output field", "value": "script: value", "top": "49px", "parent_window": "EAU01S", "text_align": "right", "width": "42px" }, 
+    { "id": "D_4_1_W", "field_type": "output field", "value": "script: value", "top": "73px", "parent_window": "EAU01S", "text_align": "right", "width": "142px" }
+  ]
+}

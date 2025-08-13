@@ -1,0 +1,19 @@
+{
+  "screen": { "screen_name": "PTRWTM" },
+  "items": [
+    { "id": "D_1_2", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "PTRWTM" }, 
+    { "id": "D_3_54", "field_type": "output field", "value": "script: value", "top": "49px", "text_align": "right" }, 
+    { "id": "D_3_71", "field_type": "output field", "value": "script: value", "top": "49px", "text_align": "right" }, 
+    { "id": "D_4_5", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right" }, 
+    { "id": "D_4_20", "field_type": "output field", "value": "script: value", "top": "73px", "left": "189px", "text_align": "right", "width": "51px" }, 
+    { "id": "D_4_36", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right" }, 
+    { "id": "D_4_56", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right" }, 
+    { "id": "D_5_4", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right" }, 
+    { "id": "D_6_1", "field_type": "output field", "value": "script: value", "top": "598px", "left": "42px", "visibility": "hidden" }, 
+    { "id": "D_7_1", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "3px" }, 
+    { "id": "D_10_19", "field_type": "output field", "value": "Log Number", "text_align": "left" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "7", "row_height": "24", "header_height": "30", "column_widths": "53,90,40,40,60,70,448", "left": "13px", "top": "241px", "height": "240px", "width": "802px" }, 
+    { "id": "D_5_4_copy", "field_type": "output field", "value": "Include Logs:", "css_class": "A22", "color": "#1E487A", "font_family": "\"Open Sans\", sans-serif", "font_size": "14px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_align": "right", "text_decoration": "none solid rgb(30, 72, 122)", "text_transform": "none", "word_spacing": "0px", "left": "34px", "top": "121px", "height": "20px", "width": "106px", "z_index": "10", "newitem": "true" }
+  ]
+}

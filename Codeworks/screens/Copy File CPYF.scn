@@ -1,0 +1,17 @@
+{
+  "screen": { "screen_name": "Copy File CPYF" },
+  "items": [
+    { "id": "D_1_20", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "             Copy File (CPYF)" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "left": "30px", "width": "310px" }, 
+    { "id": "D_6_2", "field_type": "output field", "value": "script: value", "left": "30px", "width": "310px" }, 
+    { "id": "D_7_2", "field_type": "output field", "value": "script: value", "left": "30px", "width": "310px" }, 
+    { "id": "D_8_2", "field_type": "output field", "value": "script: value", "left": "30px", "width": "310px" }, 
+    { "id": "D_9_2", "field_type": "output field", "value": "script: value", "left": "30px", "width": "310px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "30px", "width": "310px" }, 
+    { "id": "D_11_2", "field_type": "output field", "value": "script: value", "left": "30px", "width": "310px" }, 
+    { "id": "D_12_2", "field_type": "output field", "value": "script: value", "left": "30px", "width": "310px" }, 
+    { "id": "D_13_2", "field_type": "output field", "value": "script: value", "left": "30px", "width": "310px" }, 
+    { "id": "I_6_39", "field_type": "textbox", "value": "script: value", "top": "125px" }, 
+    { "id": "I_8_39", "field_type": "textbox", "value": "script: value", "top": "173px" }
+  ]
+}

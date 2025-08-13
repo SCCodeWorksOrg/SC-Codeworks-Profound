@@ -1,0 +1,1294 @@
+{
+  "screens": [
+    {
+      "screen": "proper",
+      "identifiers": [
+        { "id": "D_10_2", "value": "Opt Group Proper Name                           Class  ID No.   Group  Require" },
+        { "id": "D_14_57", "value": "5" }
+      ]
+    },
+    {
+      "screen": "WW_Proper_Desc",
+      "identifiers": [
+        { "id": "D_2_26", "value": "Work With Proper Descriptions" }
+      ]
+    },
+    {
+      "screen": "WDSLMainMenu",
+      "identifiers": [
+        { "id": "D_2_31", "value": "WDLS Main Menu" }
+      ]
+    },
+    {
+      "screen": "WDLS CSR Menu",
+      "identifiers": [
+        { "id": "D_19_37", "value": "Command" }
+      ]
+    },
+    {
+      "screen": "Dock",
+      "identifiers": [
+        { "id": "D_10_18", "value": "Ap  L L" }
+      ]
+    },
+    {
+      "screen": "regions",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RGW01S" }
+      ]
+    },
+    {
+      "screen": "Wwtaskcodes",
+      "identifiers": [
+        { "id": "D_1_11", "value": "TSW01S" }
+      ]
+    },
+    {
+      "screen": "problemtracking",
+      "identifiers": [
+        { "id": "D_2_34", "value": "Work With Logs" },
+        { "id": "D_8_4", "value": "PTRULG" }
+      ]
+    },
+    {
+      "screen": "Bottom",
+      "identifiers": [
+        { "id": "D_1_20", "value": "     Extract Asset Listing (EXTASSETS)" },
+        { "id": "D_21_67", "value": "       Bottom" }
+      ]
+    },
+    {
+      "screen": "ITU02SP",
+      "identifiers": [
+        { "id": "D_3_4", "value": "ITU02SP" },
+        { "id": "D_3_31", "value": "Maintain Item Pictures" }
+      ]
+    },
+    {
+      "screen": "carriers",
+      "identifiers": [
+        { "id": "D_2_32", "value": "Work With Carriers" }
+      ]
+    },
+    {
+      "screen": "AHW02S",
+      "identifiers": [
+        { "id": "D_1_13", "value": "AHW02S" }
+      ]
+    },
+    {
+      "screen": "AJW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "AJW01S" }
+      ]
+    },
+    {
+      "screen": "BFW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "BFW01S" }
+      ]
+    },
+    {
+      "screen": "BLW01R",
+      "identifiers": [
+        { "id": "D_1_12", "value": "BLW01R" }
+      ]
+    },
+    {
+      "screen": "CEW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CEW01S" }
+      ]
+    },
+    {
+      "screen": "CMW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CMW01S" }
+      ]
+    },
+    {
+      "screen": "CPW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CPW01S" }
+      ]
+    },
+    {
+      "screen": "HMI20S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "HMI20S" }
+      ]
+    },
+    {
+      "screen": "IDW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "IDW01S" }
+      ]
+    },
+    {
+      "screen": "KHW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "KHW01S" }
+      ]
+    },
+    {
+      "screen": "KDW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "KDW01S" }
+      ]
+    },
+    {
+      "screen": "KNW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "KNW01S" }
+      ]
+    },
+    {
+      "screen": "LBW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "LBW01S" }
+      ]
+    },
+    {
+      "screen": "LMW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "LMW01S" }
+      ]
+    },
+    {
+      "screen": "LTW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "LTW01S" }
+      ]
+    },
+    {
+      "screen": "LUW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "LUW01S" }
+      ]
+    },
+    {
+      "screen": "MAW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "MAW01S" }
+      ]
+    },
+    {
+      "screen": "OBW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "OBW01S" }
+      ]
+    },
+    {
+      "screen": "OBW02S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "OBW02S" }
+      ]
+    },
+    {
+      "screen": "OBW03R",
+      "identifiers": [
+        { "id": "D_1_11", "value": "OBW03R" }
+      ]
+    },
+    {
+      "screen": "PCP03S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PCP03S" }
+      ]
+    },
+    {
+      "screen": "PMI11S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PMI11S" }
+      ]
+    },
+    {
+      "screen": "PMW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PMW01S" }
+      ]
+    },
+    {
+      "screen": "PUW02S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PUW02S" }
+      ]
+    },
+    {
+      "screen": "SMW07SP",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SMW07SP" }
+      ]
+    },
+    {
+      "screen": "SNW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SNW01S" }
+      ]
+    },
+    {
+      "screen": "SSW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SSW01S" }
+      ]
+    },
+    {
+      "screen": "STW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "STW01S" }
+      ]
+    },
+    {
+      "screen": "STW10S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "STW10S" }
+      ]
+    },
+    {
+      "screen": "S1W50S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "S1W50S" }
+      ]
+    },
+    {
+      "screen": "CCWRKDIS",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CCWRKDIS" }
+      ]
+    },
+    {
+      "screen": "WBP20S",
+      "identifiers": [
+        { "id": "D_5_3", "value": "WBP20S" }
+      ]
+    },
+    {
+      "screen": "WBW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "WBW01S" }
+      ]
+    },
+    {
+      "screen": "items",
+      "identifiers": [
+        { "id": "D_1_12", "value": "ITW01S" }
+      ]
+    },
+    {
+      "screen": "BHW02S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "BHW02S" }
+      ]
+    },
+    {
+      "screen": "QMW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "QMW01S" }
+      ]
+    },
+    {
+      "screen": "RHW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RHW01S" }
+      ]
+    },
+    {
+      "screen": "RQW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RQW01S" }
+      ]
+    },
+    {
+      "screen": "RQW50S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RQW50S" }
+      ]
+    },
+    {
+      "screen": "SOW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SOW01S" }
+      ]
+    },
+    {
+      "screen": "FCW03S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "FCW03S" }
+      ]
+    },
+    {
+      "screen": "APW01S",
+      "identifiers": [
+        { "id": "D_1_13", "value": "APW01S" }
+      ]
+    },
+    {
+      "screen": "LCW01S",
+      "identifiers": [
+        { "id": "D_1_13", "value": "LCW01S" }
+      ]
+    },
+    {
+      "screen": "LAW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "LAW01S" }
+      ]
+    },
+    {
+      "screen": "RSW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RSW01S" }
+      ]
+    },
+    {
+      "screen": "AJW02S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "AJW02S" }
+      ]
+    },
+    {
+      "screen": "SOW05S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SOW05S" }
+      ]
+    },
+    {
+      "screen": "WOW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "WOW01S" }
+      ]
+    },
+    {
+      "screen": "UMDWUS",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWUS" }
+      ]
+    },
+    {
+      "screen": "UMDWEXT",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWEXT" }
+      ]
+    },
+    {
+      "screen": "UMDIUL",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDIUL" }
+      ]
+    },
+    {
+      "screen": "UCW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "UCW01S" }
+      ]
+    },
+    {
+      "screen": "TRW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "TRW01S" },
+        { "id": "D_2_30", "value": "Work with Hyperlinks" }
+      ]
+    },
+    {
+      "screen": "STI91S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "STI91S" }
+      ]
+    },
+    {
+      "screen": "STI90S",
+      "identifiers": [
+        { "id": "D_1_2", "value": "STI90S" }
+      ]
+    },
+    {
+      "screen": "LBW04S",
+      "identifiers": [
+        { "id": "D_1_3", "value": "LBW04S" }
+      ]
+    },
+    {
+      "screen": "UMDWFN",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWFN" },
+        { "id": "D_8_4", "value": "UMDDFN" }
+      ]
+    },
+    {
+      "screen": "UMDWMH",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWMH" }
+      ]
+    },
+    {
+      "screen": "UMDWXD",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWXD" }
+      ]
+    },
+    {
+      "screen": "WZW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "WZW01S" }
+      ]
+    },
+    {
+      "screen": "Work With Postal Abbreviations",
+      "identifiers": [
+        { "id": "D_2_26", "value": "Work With Postal Abbreviations" }
+      ]
+    },
+    {
+      "screen": "OBU01S",
+      "identifiers": [
+        { "id": "D_1_14", "value": "OBU01S" }
+      ]
+    },
+    {
+      "screen": "OBP36R",
+      "identifiers": [
+        { "id": "D_1_12", "value": "OBP36R" }
+      ]
+    },
+    {
+      "screen": "EFW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "EFW01S" }
+      ]
+    },
+    {
+      "screen": "ITW02S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "ITW02S" },
+        { "id": "D_4_4", "value": "I1D01S" }
+      ]
+    },
+    {
+      "screen": "BUW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "BUW01S" }
+      ]
+    },
+    {
+      "screen": "COW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "COW01S" }
+      ]
+    },
+    {
+      "screen": "OMDWAS",
+      "identifiers": [
+        { "id": "D_1_12", "value": "OMDWAS" }
+      ]
+    },
+    {
+      "screen": "IDW02S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "IDW02S" }
+      ]
+    },
+    {
+      "screen": "PAW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "PAW01S" }
+      ]
+    },
+    {
+      "screen": "SRW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SRW01S" }
+      ]
+    },
+    {
+      "screen": "S3W01R",
+      "identifiers": [
+        { "id": "D_1_12", "value": "S3W01R" }
+      ]
+    },
+    {
+      "screen": "ATW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "ATW01S" }
+      ]
+    },
+    {
+      "screen": "PNW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PNW01S" }
+      ]
+    },
+    {
+      "screen": "CMW20S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CMW20S" }
+      ]
+    },
+    {
+      "screen": "L1W01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "L1W01S" }
+      ]
+    },
+    {
+      "screen": "SECW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SECW01S" }
+      ]
+    },
+    {
+      "screen": "LFW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "LFW01S" }
+      ]
+    },
+    {
+      "screen": "SGW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SGW01S" }
+      ]
+    },
+    {
+      "screen": "SZW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SZW01S" }
+      ]
+    },
+    {
+      "screen": "OMDUSV",
+      "identifiers": [
+        { "id": "D_4_4", "value": "OMDUSV" }
+      ]
+    },
+    {
+      "screen": "RUW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RUW01S" }
+      ]
+    },
+    {
+      "screen": "HEW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "HEW01S" }
+      ]
+    },
+    {
+      "screen": "DSW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "DSW01S" }
+      ]
+    },
+    {
+      "screen": "DSW31S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "DSW31S" }
+      ]
+    },
+    {
+      "screen": "YMW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "YMW01S" },
+        { "id": "D_4_4", "value": "YMU01S" }
+      ]
+    },
+    {
+      "screen": "YLW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "YLW01S" }
+      ]
+    },
+    {
+      "screen": "YDW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "YDW01S" }
+      ]
+    },
+    {
+      "screen": "AHW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "AHW01S" }
+      ]
+    },
+    {
+      "screen": "EXW10S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "EXW10S" }
+      ]
+    },
+    {
+      "screen": "IHW943S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "IHW943S" }
+      ]
+    },
+    {
+      "screen": "EEW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "EEW01S" }
+      ]
+    },
+    {
+      "screen": "IFW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "IFW01S" }
+      ]
+    },
+    {
+      "screen": "THW500SW",
+      "identifiers": [
+        { "id": "D_1_12", "value": "THW500SW" }
+      ]
+    },
+    {
+      "screen": "UMDIFN",
+      "identifiers": [
+        { "id": "D_8_4", "value": "UMDIFN" }
+      ]
+    },
+    {
+      "screen": "BHW01R",
+      "identifiers": [
+        { "id": "D_1_12", "value": "BHW01R" }
+      ]
+    },
+    {
+      "screen": "EQW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "EQW01S" }
+      ]
+    },
+    {
+      "screen": "EZW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "EZW01S" }
+      ]
+    },
+    {
+      "screen": "HRW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "HRW01S" }
+      ]
+    },
+    {
+      "screen": "QHW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "QHW01S" }
+      ]
+    },
+    {
+      "screen": "OMDWSVAS",
+      "identifiers": [
+        { "id": "D_1_12", "value": "OMDWSVAS" },
+        { "id": "D_5_4", "value": "SVU01SA" }
+      ]
+    },
+    {
+      "screen": "CNU01S",
+      "identifiers": [
+        { "id": "D_4_4", "value": "CNU01S" }
+      ]
+    },
+    {
+      "screen": "SVU01SD",
+      "identifiers": [
+        { "id": "D_5_4", "value": "SVU01SD" }
+      ]
+    },
+    {
+      "screen": "Aged Assets ASSETAGED",
+      "identifiers": [
+        { "id": "D_1_20", "value": "          Aged Assets (ASSETAGED)" }
+      ]
+    },
+    {
+      "screen": "Select Output Type and Output Form",
+      "identifiers": [
+        { "id": "D_1_2", "value": "                      Select Output Type and Output Form" }
+      ]
+    },
+    {
+      "screen": "Define Database File Output",
+      "identifiers": [
+        { "id": "D_1_2", "value": "                         Define Database File Output" }
+      ]
+    },
+    {
+      "screen": "Exit this Query",
+      "identifiers": [
+        { "id": "D_1_2", "value": "                               Exit this Query" }
+      ]
+    },
+    {
+      "screen": "Work with Queries",
+      "identifiers": [
+        { "id": "D_1_2", "value": "                              Work with Queries" }
+      ]
+    },
+    {
+      "screen": "EOP10R",
+      "identifiers": [
+        { "id": "D_3_3", "value": "EOP10R" }
+      ]
+    },
+    {
+      "screen": "Specify Type of Join",
+      "identifiers": [
+        { "id": "D_1_2", "value": "                             Specify Type of Join" }
+      ]
+    },
+    {
+      "screen": "SDW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SDW01S" }
+      ]
+    },
+    {
+      "screen": "Extract User Information SECUSERS",
+      "identifiers": [
+        { "id": "D_1_20", "value": "    Extract User Information (SECUSERS)" }
+      ]
+    },
+    {
+      "screen": "A1U01S",
+      "identifiers": [
+        { "id": "D_3_4", "value": "A1U01S" }
+      ]
+    },
+    {
+      "screen": "PTRIOB",
+      "identifiers": [
+        { "id": "D_6_4", "value": "PTRIOB" }
+      ]
+    },
+    {
+      "screen": "PTPQRK",
+      "identifiers": [
+        { "id": "D_7_5", "value": "PTPQRK" }
+      ]
+    },
+    {
+      "screen": "PTRWAS",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PTRWAS" }
+      ]
+    },
+    {
+      "screen": "PTDWCA",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PTDWCA" }
+      ]
+    },
+    {
+      "screen": "PTDWCL",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PTDWCL" }
+      ]
+    },
+    {
+      "screen": "PTDWCN",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PTDWCN" }
+      ]
+    },
+    {
+      "screen": "PTDWCP",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PTDWCP" }
+      ]
+    },
+    {
+      "screen": "PTDWEV",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PTDWEV" }
+      ]
+    },
+    {
+      "screen": "PTRWLG",
+      "identifiers": [
+        { "id": "D_1_2", "value": "PTRWLG" }
+      ]
+    },
+    {
+      "screen": "PTDWOB",
+      "identifiers": [
+        { "id": "D_1_11", "value": "PTDWOB" }
+      ]
+    },
+    {
+      "screen": "PTDWRK",
+      "identifiers": [
+        { "id": "D_1_14", "value": "PTDWRK" }
+      ]
+    },
+    {
+      "screen": "PTDWRT",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PTDWRT" }
+      ]
+    },
+    {
+      "screen": "PTDWTL",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PTDWTL" }
+      ]
+    },
+    {
+      "screen": "PTRWTM",
+      "identifiers": [
+        { "id": "D_1_2", "value": "PTRWTM" }
+      ]
+    },
+    {
+      "screen": "PTRWTM2",
+      "identifiers": [
+        { "id": "D_1_2", "value": "PTRWTM2" }
+      ]
+    },
+    {
+      "screen": "PTDWUS",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PTDWUS" }
+      ]
+    },
+    {
+      "screen": "XPW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "XPW01S" }
+      ]
+    },
+    {
+      "screen": "SFW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SFW01S" }
+      ]
+    },
+    {
+      "screen": "PFW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "PFW01S" }
+      ]
+    },
+    {
+      "screen": "Copy File CPYF",
+      "identifiers": [
+        { "id": "D_1_20", "value": "             Copy File (CPYF)" }
+      ]
+    },
+    {
+      "screen": "Clear Physical File Member CLRPFM",
+      "identifiers": [
+        { "id": "D_1_20", "value": "    Clear Physical File Member (CLRPFM)" }
+      ]
+    },
+    {
+      "screen": "Historical Item Balance ITMBALHSTM",
+      "identifiers": [
+        { "id": "D_1_20", "value": "   Historical Item Balance (ITMBALHSTM)" }
+      ]
+    },
+    {
+      "screen": "IHU01S",
+      "identifiers": [
+        { "id": "D_1_13", "value": "IHU01S" }
+      ]
+    },
+    {
+      "screen": "ITP41S",
+      "identifiers": [
+        { "id": "D_1_2", "value": "ITP41S" }
+      ]
+    },
+    {
+      "screen": "OHW05S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "OHW05S" }
+      ]
+    },
+    {
+      "screen": "IHW01S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "IHW01S" }
+      ]
+    },
+    {
+      "screen": "S6D02S",
+      "identifiers": [
+        { "id": "D_4_4", "value": "S6D02S" }
+      ]
+    },
+    {
+      "screen": "S6U02S",
+      "modified": "1754426830596",
+      "identifiers": [
+        { "id": "D_3_17", "value": "S6U02S" }
+      ]
+    }
+  ],
+  "windows": [
+    {
+      "screen": "window_buttons",
+      "identifiers": [
+        { "id": "D_21_13_W", "value": "Detail Extra" }
+      ]
+    },
+    {
+      "screen": "Unnamed Window 1",
+      "identifiers": [
+        { "id": "D_20_63_W", "value": "      Bottom" },
+        { "id": "D_21_1_W", "value": "Exit" },
+        { "id": "D_21_13_W", "value": "Detail Extra" },
+        { "id": "D_21_30_W", "value": "Line Notes" },
+        { "id": "D_21_45_W", "value": "OrderNotes" },
+        { "id": "D_21_60_W", "value": "Serials" },
+        { "id": "D_22_1_W", "value": "Expand" },
+        { "id": "D_22_13_W", "value": "Cancel" }
+      ]
+    },
+    {
+      "screen": "Exit",
+      "identifiers": [
+        { "id": "D_21_1_W", "value": "Exit" },
+        { "id": "D_21_13_W", "value": "Detail Extra" },
+        { "id": "D_21_30_W", "value": "Line Notes" },
+        { "id": "D_21_45_W", "value": "OrderNotes" },
+        { "id": "D_21_60_W", "value": "Serials" },
+        { "id": "D_22_1_W", "value": "Expand" },
+        { "id": "D_22_13_W", "value": "Cancel" }
+      ]
+    },
+    {
+      "screen": "ITU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ITU01S" }
+      ]
+    },
+    {
+      "screen": "Select Enviroment",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ENI01S" }
+      ]
+    },
+    {
+      "screen": "System comments child",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "CMU02S" }
+      ]
+    },
+    {
+      "screen": "LBW02S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "LBW02S" }
+      ]
+    },
+    {
+      "screen": "SAI02R",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SAI02R" }
+      ]
+    },
+    {
+      "screen": "SDU05R",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SDU05R" }
+      ]
+    },
+    {
+      "screen": "FCI08S",
+      "identifiers": [
+        { "id": "D_1_10_W", "value": "FCI08S" }
+      ]
+    },
+    {
+      "screen": "PTDUTL",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "PTDUTL" }
+      ]
+    },
+    {
+      "screen": "SNU03R",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SNU03R" }
+      ]
+    },
+    {
+      "screen": "ITU02S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ITU02S" }
+      ]
+    },
+    {
+      "screen": "ITU03R",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ITU03R" }
+      ]
+    },
+    {
+      "screen": "ITU08S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ITU08S" }
+      ]
+    },
+    {
+      "screen": "EAU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "EAU01S" }
+      ]
+    },
+    {
+      "screen": "I1I01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "I1I01S" }
+      ]
+    },
+    {
+      "screen": "OMDUAS",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "OMDUAS" }
+      ]
+    },
+    {
+      "screen": "MAU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "MAU01S" }
+      ]
+    },
+    {
+      "screen": "MQP70S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "MQP70S" }
+      ]
+    },
+    {
+      "screen": "ILU01R",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ILU01R" }
+      ]
+    },
+    {
+      "screen": "SECI01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SECI01S" }
+      ]
+    },
+    {
+      "screen": "SGU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SGU01S" }
+      ]
+    },
+    {
+      "screen": "SZU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SZU01S" }
+      ]
+    },
+    {
+      "screen": "S3U01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "S3U01S" }
+      ]
+    },
+    {
+      "screen": "OMU01SO",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "OMU01SO" }
+      ]
+    },
+    {
+      "screen": "HEU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "HEU01S" }
+      ]
+    },
+    {
+      "screen": "YMU61S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "YMU61S" }
+      ]
+    },
+    {
+      "screen": "PEU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "PEU01S" }
+      ]
+    },
+    {
+      "screen": "EXU10S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "EXU10S" }
+      ]
+    },
+    {
+      "screen": "IFU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "IFU01S" }
+      ]
+    },
+    {
+      "screen": "IGU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "IGU01S" }
+      ]
+    },
+    {
+      "screen": "UMDUMH",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "UMDUMH" }
+      ]
+    },
+    {
+      "screen": "UMDUMD",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "UMDUMD" }
+      ]
+    },
+    {
+      "screen": "UMDUOA",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "UMDUOA" }
+      ]
+    },
+    {
+      "screen": "UMRUFN",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "UMRUFN" }
+      ]
+    },
+    {
+      "screen": "WKU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "WKU01S" }
+      ]
+    },
+    {
+      "screen": "BKP10S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "BKP10S" }
+      ]
+    },
+    {
+      "screen": "EQU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "EQU01S" }
+      ]
+    },
+    {
+      "screen": "EQU02S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "EQU02S" }
+      ]
+    },
+    {
+      "screen": "HRU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "HRU01S" }
+      ]
+    },
+    {
+      "screen": "EZU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "EZU01S" }
+      ]
+    },
+    {
+      "screen": "Equipment Maintenance Questions",
+      "identifiers": [
+        { "id": "D_1_2_W", "value": "Equipment Maintenance Questions" },
+        { "id": "D_2_2_W", "value": "Bldg:" },
+        { "id": "D_2_12_W", "value": "Equip#:" },
+        { "id": "D_3_1_W", "value": "Meter:" }
+      ]
+    },
+    {
+      "screen": "EWU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "EWU01S" }
+      ]
+    },
+    {
+      "screen": "SDU21S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SDU21S" }
+      ]
+    },
+    {
+      "screen": "SRU03S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SRU03S" }
+      ]
+    },
+    {
+      "screen": "SRU20SS",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SRU20SS" }
+      ]
+    },
+    {
+      "screen": "TSU04R",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "TSU04R" }
+      ]
+    },
+    {
+      "screen": "TSU02S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "TSU02S" }
+      ]
+    },
+    {
+      "screen": "RQI01R",
+      "identifiers": [
+        { "id": "D_1_10_W", "value": "RQI01R" }
+      ]
+    },
+    {
+      "screen": "PTDPLG3",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "PTDPLG3" }
+      ]
+    },
+    {
+      "screen": "PTRUOB",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "PTRUOB" }
+      ]
+    },
+    {
+      "screen": "SFU01S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SFU01S" }
+      ]
+    },
+    {
+      "screen": "PFW01S2",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "PFW01S2" }
+      ]
+    },
+    {
+      "screen": "BKP22S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "BKP22S" }
+      ]
+    },
+    {
+      "screen": "DSU28S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "DSU28S" }
+      ]
+    },
+    {
+      "screen": "S6I02S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "S6I02S" }
+      ]
+    },
+    {
+      "screen": "SDI01R",
+      "modified": "1754919186002",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SDI01R" },
+        { "id": "D_1_23_W", "value": "Serial Number Inquiry" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "outbound" },
+  "items": [
+    { "id": "D_3_2", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "color": "#003399", "top": "67px", "left": "23px", "font_weight": "bold", "identifier_value": "Type choices, press Enter." }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "color": "#003399" }
+  ]
+}

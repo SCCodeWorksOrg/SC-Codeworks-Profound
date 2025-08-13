@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "STI91S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "STI91S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "color": "#1F7D09", "text_decoration": "none", "css_class": "A3A" }, 
+    { "id": "D_14_2", "field_type": "output field", "value": "script: value", "text_decoration": "none" }
+  ]
+}

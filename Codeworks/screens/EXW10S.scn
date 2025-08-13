@@ -1,0 +1,18 @@
+{
+  "screen": { "screen_name": "EXW10S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "EXW10S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "72px", "left": "24px", "text_align": "right" }, 
+    { "id": "D_4_27", "field_type": "output field", "value": "script: value", "top": "72px", "left": "274px", "text_align": "right" }, 
+    { "id": "D_4_50", "field_type": "output field", "value": "script: value", "top": "72px", "left": "504px", "text_align": "right" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "7px" }, 
+    { "id": "D_10_22", "field_type": "output field", "value": "script: value", "left": "235px" }, 
+    { "id": "D_10_27", "field_type": "output field", "value": "script: value", "left": "285px" }, 
+    { "id": "D_10_33", "field_type": "output field", "value": "script: value", "left": "341px" }, 
+    { "id": "D_10_38", "field_type": "output field", "value": "script: value", "left": "389px" }, 
+    { "id": "D_10_44", "field_type": "output field", "value": "script: value", "left": "440px" }, 
+    { "id": "D_10_48", "field_type": "output field", "value": "script: value", "left": "485px" }, 
+    { "id": "D_10_79", "field_type": "output field", "value": "script: value", "left": "795px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "11", "row_height": "24", "header_height": "30", "column_widths": "52,50,30,100,50,40,60,50,40,310,70", "left": "13px", "top": "241px", "height": "240px", "width": "853px" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "screen": { "screen_name": "SFU01S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "SFU01S", "identifier_value": "SFU01S" }, 
+    { "id": "D_3_5_W", "field_type": "output field", "value": "script: value", "top": "49px", "parent_window": "SFU01S", "text_align": "right" }, 
+    { "id": "D_4_1_W", "field_type": "output field", "value": "script: value", "top": "73px", "parent_window": "SFU01S", "text_align": "right" }, 
+    { "id": "D_5_5_W", "field_type": "output field", "value": "script: value", "top": "97px", "parent_window": "SFU01S", "text_align": "right" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "screen": { "screen_name": "PTDUTL" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "PTDUTL", "identifier_value": "PTDUTL" }, 
+    { "id": "D_1_38_W", "field_type": "output field", "value": "script: value", "left": "373px", "parent_window": "PTDUTL", "text_align": "right" }, 
+    { "id": "D_2_41_W", "field_type": "output field", "value": "script: value", "left": "403px", "parent_window": "PTDUTL", "text_align": "right" }, 
+    { "id": "D_3_1_W", "field_type": "output field", "value": "script: value", "top": "49px", "left": "2px", "parent_window": "PTDUTL", "text_align": "right" }, 
+    { "id": "D_3_43_W", "field_type": "output field", "value": "script: value", "top": "49px", "left": "423px", "parent_window": "PTDUTL", "text_align": "right" }, 
+    { "id": "D_4_1_W", "field_type": "output field", "value": "script: value", "top": "73px", "left": "2px", "parent_window": "PTDUTL", "text_align": "right" }, 
+    { "id": "D_4_46_W", "field_type": "output field", "value": "script: value", "top": "73px", "left": "453px", "parent_window": "PTDUTL", "text_align": "right" }, 
+    { "id": "D_5_3_W", "field_type": "output field", "value": "script: value", "top": "97px", "left": "22px", "parent_window": "PTDUTL", "text_align": "right" }, 
+    { "id": "D_5_42_W", "field_type": "output field", "value": "script: value", "top": "97px", "left": "413px", "parent_window": "PTDUTL", "text_align": "right" }, 
+    { "id": "D_13_35_W", "field_type": "output field", "value": "script: value", "left": "346px", "parent_window": "PTDUTL", "text_align": "right" }, 
+    { "id": "D_14_36_W", "field_type": "output field", "value": "script: value", "left": "356px", "parent_window": "PTDUTL", "text_align": "right" }, 
+    { "id": "D_15_32_W", "field_type": "output field", "value": "script: value", "left": "316px", "parent_window": "PTDUTL", "text_align": "right" }, 
+    { "id": "D_16_1_CF09_W", "field_type": "button", "value": "script: value", "left": "249px", "parent_window": "PTDUTL" }
+  ]
+}

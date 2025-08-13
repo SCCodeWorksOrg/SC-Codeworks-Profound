@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "BHW02S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "BHW02S" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "3", "number_of_columns": "5", "row_height": "24", "header_height": "30", "column_widths": "57,110,90,510,70", "left": "13px", "top": "241px", "height": "72px", "width": "838px" }
+  ]
+}

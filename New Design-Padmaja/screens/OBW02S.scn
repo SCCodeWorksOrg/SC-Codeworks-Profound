@@ -1,0 +1,9 @@
+{
+  "screen": { "screen_name": "OBW02S" },
+  "items": [
+    { "id": "D_1_11", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "OBW02S" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "8px" }, 
+    { "id": "D_10_7", "field_type": "output field", "value": "script: value", "left": "68px" }, 
+    { "id": "D_10_15", "field_type": "output field", "value": "script: value", "left": "136px" }
+  ]
+}

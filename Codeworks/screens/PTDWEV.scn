@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "PTDWEV" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "PTDWEV" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "12", "number_of_columns": "5", "row_height": "24", "header_height": "30", "column_widths": "51,90,60,110,530", "left": "13px", "top": "193px", "height": "288px", "width": "842px" }
+  ]
+}

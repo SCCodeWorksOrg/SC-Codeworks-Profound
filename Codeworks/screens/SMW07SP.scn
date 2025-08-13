@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "SMW07SP" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "SMW07SP" }, 
+    { "id": "D_9_2", "field_type": "output field", "value": "script: value", "top": "197px", "left": "371px", "width": "347px", "text_align": "left" }
+  ]
+}

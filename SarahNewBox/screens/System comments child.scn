@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "System comments child" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "System comments child", "identifier_value": "CMU02S" }, 
+    { "id": "D_3_54_W", "field_type": "output field", "value": "script: value", "top": "76px", "left": "26px", "parent_window": "System comments child", "width": "34px" }, 
+    { "id": "D_3_59_W", "field_type": "output field", "value": "script: value", "top": "76px", "left": "80px", "parent_window": "System comments child", "width": "35px" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "screen": { "screen_name": "LAW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "LAW01S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "62px" }, 
+    { "id": "D_4_23", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "42px" }, 
+    { "id": "D_4_55", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "82px" }, 
+    { "id": "D_5_17", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right", "width": "101px" }, 
+    { "id": "D_5_31", "field_type": "output field", "value": "script: value", "top": "97px" }, 
+    { "id": "D_8_73", "field_type": "output field", "value": "script: value", "left": "759px" }, 
+    { "id": "D_9_2", "field_type": "output field", "value": "script: value", "left": "6px" }, 
+    { "id": "D_9_73", "field_type": "output field", "value": "script: value", "left": "759px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "9", "number_of_columns": "5", "row_height": "24", "header_height": "30", "column_widths": "56,360,170,170,100", "left": "13px", "top": "217px", "height": "216px", "width": "857px" }
+  ]
+}

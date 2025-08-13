@@ -1,0 +1,18 @@
+{
+  "screen": { "screen_name": "dock design" },
+  "items": [
+    { "id": "D_1_26", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": " Codeworks Enterprise Test Env" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "color": "#1E487A" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "8", "number_of_columns": "10", "row_height": "24", "header_height": "30", "column_widths": "45,50,30,160,130,110,80,90,80,70", "left": "11px", "top": "261px", "height": "192px", "width": "846px", "odd_row_background": "#e8e8e8", "even_row_background": "#f0f0f0", "hover_font_color": "#000099  ", "hover_background": "#c4e4f9 " }, 
+    { "id": "I_11_3", "field_type": "combo box", "value": "script: value", "width": "37px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "value": "script: value", "width": "37px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "value": "script: value", "width": "37px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "value": "script: value", "width": "37px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "value": "script: value", "width": "37px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "value": "script: value", "width": "37px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "value": "script: value", "width": "37px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "value": "script: value", "width": "37px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "value": "script: value", "width": "37px" }, 
+    { "id": "I_20_3", "field_type": "combo box", "value": "script: value", "width": "37px" }
+  ]
+}

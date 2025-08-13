@@ -1,0 +1,9 @@
+{
+  "screen": { "screen_name": "SDI01R" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "SDI01R", "identifier_value": "SDI01R" }, 
+    { "id": "D_1_23_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "SDI01R", "identifier_value": "Serial Number Inquiry" }, 
+    { "id": "D_11_1_W", "field_type": "output field", "value": "script: value", "top": "242px", "left": "-401px", "z_index": "10", "parent_window": "SDI01R" }, 
+    { "id": "D_11_10_W", "field_type": "output field", "value": "script: value", "top": "250px", "parent_window": "SDI01R" }
+  ]
+}

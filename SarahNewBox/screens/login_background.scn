@@ -1,0 +1,6 @@
+{
+  "screen": { "screen_name": "login_background" },
+  "items": [
+    { "id": "login_button", "screen_identifier": "true", "field_type": "button", "value": "script: value", "identifier_value": "Login" }
+  ]
+}

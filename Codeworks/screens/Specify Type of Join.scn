@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "Specify Type of Join" },
+  "items": [
+    { "id": "D_1_2", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "                             Specify Type of Join" }, 
+    { "id": "I_5_35", "field_type": "textbox", "value": "script: value", "width": "31px" }
+  ]
+}

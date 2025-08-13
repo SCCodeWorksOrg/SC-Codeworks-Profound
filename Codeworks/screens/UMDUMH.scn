@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "UMDUMH" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "UMDUMH", "width": "76px", "identifier_value": "UMDUMH" }, 
+    { "id": "D_4_3_W", "field_type": "output field", "value": "script: value", "top": "71px", "left": "55px", "parent_window": "UMDUMH", "width": "96px" }
+  ]
+}

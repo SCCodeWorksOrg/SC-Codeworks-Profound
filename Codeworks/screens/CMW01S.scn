@@ -1,0 +1,12 @@
+{
+  "screen": { "screen_name": "CMW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "CMW01S" }, 
+    { "id": "D_9_6", "field_type": "output field", "value": "script: value", "left": "62px" }, 
+    { "id": "D_9_9", "field_type": "output field", "value": "script: value", "left": "92px" }, 
+    { "id": "D_9_19", "field_type": "output field", "value": "script: value", "left": "187px" }, 
+    { "id": "D_9_22", "field_type": "output field", "value": "script: value", "left": "222px" }, 
+    { "id": "D_9_26", "field_type": "output field", "value": "script: value", "left": "262px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "6", "row_height": "24", "header_height": "30", "column_widths": "55,30,100,30,40,590", "left": "13px", "top": "217px", "height": "240px", "width": "846px" }
+  ]
+}

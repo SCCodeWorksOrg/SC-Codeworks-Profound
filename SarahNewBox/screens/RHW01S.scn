@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "RHW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "RHW01S" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "4px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "3", "number_of_columns": "8", "row_height": "24", "header_height": "30", "column_widths": "55,20,50,30,60,110,310,70", "left": "13px", "top": "241px", "height": "72px", "width": "706px" }
+  ]
+}

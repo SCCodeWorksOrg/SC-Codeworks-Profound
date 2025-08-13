@@ -1,0 +1,12 @@
+{
+  "screen": { "screen_name": "MQP70S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "MQP70S", "identifier_value": "MQP70S" }, 
+    { "id": "D_3_1_W", "field_type": "output field", "value": "script: value", "parent_window": "MQP70S", "text_align": "right" }, 
+    { "id": "D_4_4_W", "field_type": "output field", "value": "script: value", "parent_window": "MQP70S", "text_align": "right" }, 
+    { "id": "D_8_2_W", "field_type": "output field", "value": "script: value", "parent_window": "MQP70S", "text_align": "right" }, 
+    { "id": "D_9_2_W", "field_type": "output field", "value": "script: value", "parent_window": "MQP70S", "text_align": "right" }, 
+    { "id": "D_11_2_W", "field_type": "output field", "value": "script: value", "parent_window": "MQP70S", "text_align": "right" }, 
+    { "id": "D_12_2_W", "field_type": "output field", "value": "script: value", "parent_window": "MQP70S", "text_align": "right" }
+  ]
+}

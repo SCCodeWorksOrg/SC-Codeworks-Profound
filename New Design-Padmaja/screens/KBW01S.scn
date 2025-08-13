@@ -1,0 +1,25 @@
+{
+  "screen": { "screen_name": "KBW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "KBW01S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "left": "10px", "text_align": "right" }, 
+    { "id": "D_4_27", "field_type": "output field", "value": "script: value", "top": "73px", "left": "260px", "text_align": "right" }, 
+    { "id": "D_5_7", "field_type": "output field", "value": "script: value", "top": "97px", "left": "60px", "text_align": "right" }, 
+    { "id": "D_5_31", "field_type": "output field", "value": "script: value", "top": "97px", "left": "300px", "text_align": "right" }, 
+    { "id": "D_9_45", "field_type": "output field", "value": "script: value", "left": "432px" }, 
+    { "id": "D_9_58", "field_type": "output field", "value": "script: value", "left": "612px", "width": "175px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "0px" }, 
+    { "id": "D_10_45", "field_type": "output field", "value": "script: value", "left": "432px" }, 
+    { "id": "D_10_58", "field_type": "output field", "value": "script: value", "left": "612px", "width": "175px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "value": "script: value", "top": "271px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "value": "script: value", "top": "299px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "value": "script: value", "top": "328px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "value": "script: value", "top": "356px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "value": "script: value", "top": "384px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "value": "script: value", "top": "412px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "value": "script: value", "top": "440px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "value": "script: value", "top": "468px" }, 
+    { "id": "I_20_3", "field_type": "combo box", "value": "script: value", "top": "495px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "7", "row_height": "28", "header_height": "30", "column_widths": "52,80,50,50,190,190,190", "left": "13px", "top": "241px", "height": "280px", "width": "803px" }
+  ]
+}

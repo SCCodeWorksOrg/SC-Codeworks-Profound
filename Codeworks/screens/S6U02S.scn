@@ -1,0 +1,20 @@
+{
+  "screen": { "screen_name": "S6U02S" },
+  "items": [
+    { "id": "D_2_2", "field_type": "output field", "value": ":....................................................................................................:" }, 
+    { "id": "D_3_17", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "S6U02S" }, 
+    { "id": "D_3_31", "field_type": "output field", "value": "script: value", "width": "176px" }, 
+    { "id": "D_6_6", "field_type": "output field", "value": "script: value", "left": "66px", "width": "84px" }, 
+    { "id": "D_7_6", "field_type": "output field", "value": "script: value", "left": "61px", "width": "89px" }, 
+    { "id": "D_8_10", "field_type": "output field", "value": "script: value", "left": "79px", "width": "71px" }, 
+    { "id": "D_9_6", "field_type": "output field", "value": "script: value", "left": "47px", "width": "103px" }, 
+    { "id": "D_21_2", "field_type": "output field", "value": ":....................................................................................................:" }, 
+    { "id": "image-upload-custom", "field_type": "file upload", "value": "script: value", "color": "#000000", "font_family": "\"Open Sans\", sans-serif", "font_size": "14px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 0, 0)", "text_transform": "none", "word_spacing": "0px", "top": "259px", "left": "168px", "z_index": "10", "css_class": "pui-file-upload", "width": "249px", "height": "55px", "selection_mode": "single", "size_limit": "10", "number_of_files": "1", "overwrite_files": "true", "target_directory": "/WWW/PROFOUNDUI/HTDOCS/Images", "generate_unique_names": "true", "allowed_type": "image/jpeg", "allowed_type_2": "image/png", "newitem": "true", "allowed_type_3": "application/pdf" }, 
+    { "id": "I_12_10", "field_type": "textbox", "value": "script: value", "top": "356px", "left": "67px", "width": "467px", "visibility": "hidden" }, 
+    { "id": "I_13_10", "field_type": "textbox", "value": "script: value", "top": "380px", "left": "67px", "width": "466px", "visibility": "hidden" }, 
+    { "id": "I_14_10", "field_type": "textbox", "value": "script: value", "top": "404px", "left": "67px", "visibility": "hidden", "width": "466px" }, 
+    { "id": "I_15_10", "field_type": "textbox", "value": "script: value", "top": "428px", "left": "67px", "width": "467px", "visibility": "hidden" }, 
+    { "id": "image-source-custom", "field_type": "image", "value": "script: value", "color": "#000000", "font_family": "\"Open Sans\", sans-serif", "font_size": "14px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 0, 0)", "text_transform": "none", "word_spacing": "0px", "top": "254px", "left": "440px", "z_index": "10", "image_source": "/profoundui/userdata/myfiles/placeholder.jpg", "height": "223px", "width": "338px", "newitem": "true" }, 
+    { "id": "D_7_30", "field_type": "output field", "value": "script: value", "top": "144px", "left": "320px", "width": "83px" }
+  ]
+}

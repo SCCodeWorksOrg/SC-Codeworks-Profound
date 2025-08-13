@@ -1,0 +1,18 @@
+{
+  "screen": { "screen_name": "EXU10S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "EXU10S", "identifier_value": "EXU10S" }, 
+    { "id": "D_3_17_W", "field_type": "output field", "value": "script: value", "top": "49px", "left": "173px", "parent_window": "EXU10S", "text_align": "right" }, 
+    { "id": "D_4_10_W", "field_type": "output field", "value": "script: value", "top": "73px", "left": "103px", "parent_window": "EXU10S", "text_align": "right" }, 
+    { "id": "D_5_1_W", "field_type": "output field", "value": "script: value", "top": "97px", "left": "13px", "parent_window": "EXU10S", "text_align": "right" }, 
+    { "id": "D_5_28_W", "field_type": "output field", "value": "script: value", "top": "97px", "left": "283px", "parent_window": "EXU10S", "text_align": "right" }, 
+    { "id": "D_7_10_W", "field_type": "output field", "value": "script: value", "top": "145px", "left": "103px", "parent_window": "EXU10S", "text_align": "right" }, 
+    { "id": "D_7_31_W", "field_type": "output field", "value": "script: value", "top": "145px", "left": "313px", "parent_window": "EXU10S", "text_align": "right" }, 
+    { "id": "D_8_1_W", "field_type": "output field", "value": "script: value", "top": "169px", "left": "13px", "parent_window": "EXU10S", "text_align": "right" }, 
+    { "id": "D_8_26_W", "field_type": "output field", "value": "script: value", "top": "169px", "left": "263px", "parent_window": "EXU10S", "text_align": "right" }, 
+    { "id": "D_9_7_W", "field_type": "output field", "value": "script: value", "top": "193px", "left": "73px", "parent_window": "EXU10S", "text_align": "right" }, 
+    { "id": "D_10_2_W", "field_type": "output field", "value": "script: value", "top": "217px", "left": "23px", "parent_window": "EXU10S", "text_align": "right" }, 
+    { "id": "D_10_23_W", "field_type": "output field", "value": "script: value", "top": "217px", "left": "233px", "parent_window": "EXU10S", "text_align": "right" }, 
+    { "id": "D_10_36_W", "field_type": "output field", "value": "script: value", "top": "217px", "left": "363px", "parent_window": "EXU10S", "text_align": "right" }
+  ]
+}

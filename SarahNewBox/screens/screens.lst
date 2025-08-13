@@ -1,0 +1,719 @@
+{
+  "screens": [
+    {
+      "screen": "proper",
+      "identifiers": [
+        { "id": "D_10_2", "value": "Opt Group Proper Name                           Class  ID No.   Group  Require" },
+        { "id": "D_14_57", "value": "5" }
+      ]
+    },
+    {
+      "screen": "WW_Proper_Desc",
+      "identifiers": [
+        { "id": "D_2_26", "value": "Work With Proper Descriptions" }
+      ]
+    },
+    {
+      "screen": "WDSLMainMenu",
+      "identifiers": [
+        { "id": "D_2_31", "value": "WDLS Main Menu" }
+      ]
+    },
+    {
+      "screen": "WDLS CSR Menu",
+      "modified": "1752492321970",
+      "identifiers": [
+        { "id": "D_5_2", "value": "Choose one of the following Options." }
+      ]
+    },
+    {
+      "screen": "Dock",
+      "identifiers": [
+        { "id": "D_10_18", "value": "Ap  L L" }
+      ]
+    },
+    {
+      "screen": "regions",
+      "identifiers": [
+        { "id": "D_2_32", "value": "Work With Regions" }
+      ]
+    },
+    {
+      "screen": "Wwtaskcodes",
+      "identifiers": [
+        { "id": "D_1_11", "value": "TSW01S" },
+        { "id": "D_2_31", "value": "Work With Task Codes" }
+      ]
+    },
+    {
+      "screen": "problemtracking",
+      "identifiers": [
+        { "id": "D_2_34", "value": "Work With Logs" }
+      ]
+    },
+    {
+      "screen": "Bottom",
+      "modified": "1752229533332",
+      "identifiers": [
+        { "id": "D_21_67", "value": "       Bottom" }
+      ]
+    },
+    {
+      "screen": "ITU02SP",
+      "modified": "1727796239615",
+      "identifiers": [
+        { "id": "D_3_4", "value": "ITU02SP" },
+        { "id": "D_3_31", "value": "Maintain Item Pictures" }
+      ]
+    },
+    {
+      "screen": "tallys",
+      "modified": "1752499116816",
+      "identifiers": [
+        { "id": "D_1_11", "value": "IHW01S" },
+        { "id": "D_1_26", "value": "Codeworks Enterprise Test Env" },
+        { "id": "D_8_10", "value": "2=Change          3=Comments        4=Cancel          5=Inquiry" },
+        { "id": "D_9_10", "value": "6=Unload Info     7=Rail Info       9=W/R Inquiry     AC=Appt Contact" }
+      ]
+    },
+    {
+      "screen": "carriers",
+      "modified": "1729820077330",
+      "identifiers": [
+        { "id": "D_2_32", "value": "Work With Carriers" }
+      ]
+    },
+    {
+      "screen": "AHW02S",
+      "identifiers": [
+        { "id": "D_1_13", "value": "AHW02S" }
+      ]
+    },
+    {
+      "screen": "AJW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "AJW01S" }
+      ]
+    },
+    {
+      "screen": "BFW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "BFW01S" }
+      ]
+    },
+    {
+      "screen": "BLW01R",
+      "identifiers": [
+        { "id": "D_1_12", "value": "BLW01R" }
+      ]
+    },
+    {
+      "screen": "CEW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CEW01S" }
+      ]
+    },
+    {
+      "screen": "CMW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CMW01S" }
+      ]
+    },
+    {
+      "screen": "CPW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CPW01S" }
+      ]
+    },
+    {
+      "screen": "HMI20S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "HMI20S" }
+      ]
+    },
+    {
+      "screen": "IDW02S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "IDW02S" },
+        { "id": "D_4_3", "value": "ILW02S" }
+      ]
+    },
+    {
+      "screen": "IDW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "IDW01S" }
+      ]
+    },
+    {
+      "screen": "KHW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "KHW01S" }
+      ]
+    },
+    {
+      "screen": "KDW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "KDW01S" }
+      ]
+    },
+    {
+      "screen": "KNW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "KNW01S" }
+      ]
+    },
+    {
+      "screen": "LBW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "LBW01S" }
+      ]
+    },
+    {
+      "screen": "LMW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "LMW01S" }
+      ]
+    },
+    {
+      "screen": "LTW01S",
+      "modified": "1727281260233",
+      "identifiers": [
+        { "id": "D_1_11", "value": "LTW01S" }
+      ]
+    },
+    {
+      "screen": "LUW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "LUW01S" }
+      ]
+    },
+    {
+      "screen": "MAW01S",
+      "modified": "1729819880021",
+      "identifiers": [
+        { "id": "D_1_12", "value": "MAW01S" }
+      ]
+    },
+    {
+      "screen": "OBW01S",
+      "modified": "1752855774628",
+      "identifiers": [
+        { "id": "D_1_11", "value": "OBW01S" },
+        { "id": "D_9_10", "value": "2=Change          3=Order Comments  4=Delete          5=Bill Synopsis" },
+        { "id": "D_10_10", "value": "7=BoL Inquiry     8=Print Picksht   9=Print BOL       A1=Holiday" }
+      ]
+    },
+    {
+      "screen": "OBW02S",
+      "identifiers": [
+        { "id": "D_1_11", "value": "OBW02S" }
+      ]
+    },
+    {
+      "screen": "OBW03R",
+      "identifiers": [
+        { "id": "D_1_11", "value": "OBW03R" }
+      ]
+    },
+    {
+      "screen": "PCP03S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PCP03S" }
+      ]
+    },
+    {
+      "screen": "PMI11S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PMI11S" }
+      ]
+    },
+    {
+      "screen": "PMW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PMW01S" }
+      ]
+    },
+    {
+      "screen": "PUW02S",
+      "modified": "1727281951308",
+      "identifiers": [
+        { "id": "D_1_12", "value": "PUW02S" }
+      ]
+    },
+    {
+      "screen": "SMW07SP",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SMW07SP" }
+      ]
+    },
+    {
+      "screen": "SNW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SNW01S" }
+      ]
+    },
+    {
+      "screen": "SSW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SSW01S" }
+      ]
+    },
+    {
+      "screen": "STW01S",
+      "modified": "1752835993903",
+      "identifiers": [
+        { "id": "D_1_11", "value": "STW01S" }
+      ]
+    },
+    {
+      "screen": "STW10S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "STW10S" }
+      ]
+    },
+    {
+      "screen": "S1W50S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "S1W50S" }
+      ]
+    },
+    {
+      "screen": "CCWRKDIS",
+      "identifiers": [
+        { "id": "D_1_12", "value": "CCWRKDIS" }
+      ]
+    },
+    {
+      "screen": "WBP20S",
+      "identifiers": [
+        { "id": "D_5_3", "value": "WBP20S" }
+      ]
+    },
+    {
+      "screen": "WBW01S",
+      "identifiers": [
+        { "id": "D_1_12", "value": "WBW01S" }
+      ]
+    },
+    {
+      "screen": "items",
+      "modified": "1752837988322",
+      "identifiers": [
+        { "id": "D_1_12", "value": "ITW01S" }
+      ]
+    },
+    {
+      "screen": "BHW02S",
+      "modified": "1727281365494",
+      "identifiers": [
+        { "id": "D_1_12", "value": "BHW02S" }
+      ]
+    },
+    {
+      "screen": "QMW01S",
+      "modified": "1727355111478",
+      "identifiers": [
+        { "id": "D_1_12", "value": "QMW01S" }
+      ]
+    },
+    {
+      "screen": "RHW01S",
+      "modified": "1727355188847",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RHW01S" }
+      ]
+    },
+    {
+      "screen": "RQW01S",
+      "modified": "1727355626504",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RQW01S" }
+      ]
+    },
+    {
+      "screen": "RQW50S",
+      "modified": "1727356274223",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RQW50S" }
+      ]
+    },
+    {
+      "screen": "SOW01S",
+      "modified": "1727383800954",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SOW01S" }
+      ]
+    },
+    {
+      "screen": "FCW03S",
+      "modified": "1727359220462",
+      "identifiers": [
+        { "id": "D_1_11", "value": "FCW03S" }
+      ]
+    },
+    {
+      "screen": "APW01S",
+      "modified": "1727359374168",
+      "identifiers": [
+        { "id": "D_1_13", "value": "APW01S" }
+      ]
+    },
+    {
+      "screen": "LCW01S",
+      "modified": "1727360384043",
+      "identifiers": [
+        { "id": "D_1_13", "value": "LCW01S" }
+      ]
+    },
+    {
+      "screen": "LAW01S",
+      "modified": "1727360628290",
+      "identifiers": [
+        { "id": "D_1_12", "value": "LAW01S" }
+      ]
+    },
+    {
+      "screen": "RSW01S",
+      "modified": "1727361002786",
+      "identifiers": [
+        { "id": "D_1_12", "value": "RSW01S" }
+      ]
+    },
+    {
+      "screen": "AJW02S",
+      "modified": "1727361157991",
+      "identifiers": [
+        { "id": "D_1_12", "value": "AJW02S" }
+      ]
+    },
+    {
+      "screen": "SOW05S",
+      "modified": "1727362587641",
+      "identifiers": [
+        { "id": "D_1_12", "value": "SOW05S" }
+      ]
+    },
+    {
+      "screen": "WOW01S",
+      "modified": "1729607272666",
+      "identifiers": [
+        { "id": "D_1_12", "value": "WOW01S" }
+      ]
+    },
+    {
+      "screen": "UMDWUS",
+      "modified": "1727380028323",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWUS" }
+      ]
+    },
+    {
+      "screen": "UMDWEXT",
+      "modified": "1727380272202",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWEXT" }
+      ]
+    },
+    {
+      "screen": "UMDIUL",
+      "modified": "1727380959819",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDIUL" }
+      ]
+    },
+    {
+      "screen": "UCW01S",
+      "modified": "1727381601105",
+      "identifiers": [
+        { "id": "D_1_11", "value": "UCW01S" }
+      ]
+    },
+    {
+      "screen": "TRW01S",
+      "modified": "1727796607513",
+      "identifiers": [
+        { "id": "D_1_12", "value": "TRW01S" },
+        { "id": "D_2_30", "value": "Work with Hyperlinks" }
+      ]
+    },
+    {
+      "screen": "STI91S",
+      "modified": "1727383495705",
+      "identifiers": [
+        { "id": "D_1_12", "value": "STI91S" }
+      ]
+    },
+    {
+      "screen": "STI90S",
+      "modified": "1727383622403",
+      "identifiers": [
+        { "id": "D_1_2", "value": "STI90S" }
+      ]
+    },
+    {
+      "screen": "LBW04S",
+      "modified": "1727442809754",
+      "identifiers": [
+        { "id": "D_1_3", "value": "LBW04S" }
+      ]
+    },
+    {
+      "screen": "UMDWFN",
+      "modified": "1727444655558",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWFN" }
+      ]
+    },
+    {
+      "screen": "UMDWMH",
+      "modified": "1727445020294",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWMH" }
+      ]
+    },
+    {
+      "screen": "UMDWXD",
+      "modified": "1727459489723",
+      "identifiers": [
+        { "id": "D_1_12", "value": "UMDWXD" }
+      ]
+    },
+    {
+      "screen": "WZW01S",
+      "modified": "1729819796008",
+      "identifiers": [
+        { "id": "D_1_12", "value": "WZW01S" }
+      ]
+    },
+    {
+      "screen": "Work With Postal Abbreviations",
+      "modified": "1727462277272",
+      "identifiers": [
+        { "id": "D_2_26", "value": "Work With Postal Abbreviations" }
+      ]
+    },
+    {
+      "screen": "OBU01S",
+      "modified": "1727462638378",
+      "identifiers": [
+        { "id": "D_1_14", "value": "OBU01S" }
+      ]
+    },
+    {
+      "screen": "OBP36R",
+      "modified": "1727463812655",
+      "identifiers": [
+        { "id": "D_1_12", "value": "OBP36R" }
+      ]
+    },
+    {
+      "screen": "IHU01S",
+      "modified": "1752231176221",
+      "identifiers": [
+        { "id": "D_1_3", "value": " 7/11/25" },
+        { "id": "D_1_13", "value": "IHU01S" },
+        { "id": "D_2_3", "value": " 6:51.03" },
+        { "id": "D_2_71", "value": "PADMAJAP" }
+      ]
+    },
+    {
+      "screen": "EFW01S",
+      "modified": "1727724569929",
+      "identifiers": [
+        { "id": "D_1_12", "value": "EFW01S" }
+      ]
+    },
+    {
+      "screen": "ITW02S",
+      "modified": "1728478829722",
+      "identifiers": [
+        { "id": "D_1_12", "value": "ITW02S" },
+        { "id": "D_4_4", "value": "I1D01S" }
+      ]
+    },
+    {
+      "screen": "BUW01S",
+      "modified": "1729819453409",
+      "identifiers": [
+        { "id": "D_1_12", "value": "BUW01S" }
+      ]
+    },
+    {
+      "screen": "COW01S",
+      "modified": "1729820175360",
+      "identifiers": [
+        { "id": "D_1_11", "value": "COW01S" }
+      ]
+    },
+    {
+      "screen": "login_background",
+      "modified": "1750833663014",
+      "identifiers": [
+        { "id": "login_button", "value": "Login" }
+      ]
+    },
+    {
+      "screen": "job queue",
+      "modified": "1752225196984",
+      "identifiers": [
+        { "id": "D_19_2", "value": "Press Enter to continue." }
+      ]
+    },
+    {
+      "screen": "display ",
+      "modified": "1752225396898",
+      "identifiers": [
+        { "id": "D_1_16", "value": "            Display Program Messages" }
+      ]
+    },
+    {
+      "screen": "dock design",
+      "modified": "1752484849142",
+      "identifiers": [
+        { "id": "D_1_26", "value": " Codeworks Enterprise Test Env" }
+      ]
+    }
+  ],
+  "windows": [
+    {
+      "screen": "window_buttons",
+      "identifiers": [
+        { "id": "D_21_13_W", "value": "Detail Extra" }
+      ]
+    },
+    {
+      "screen": "Unnamed Window 1",
+      "identifiers": [
+        { "id": "D_20_63_W", "value": "      Bottom" },
+        { "id": "D_21_1_W", "value": "Exit" },
+        { "id": "D_21_13_W", "value": "Detail Extra" },
+        { "id": "D_21_30_W", "value": "Line Notes" },
+        { "id": "D_21_45_W", "value": "OrderNotes" },
+        { "id": "D_21_60_W", "value": "Serials" },
+        { "id": "D_22_1_W", "value": "Expand" },
+        { "id": "D_22_13_W", "value": "Cancel" }
+      ]
+    },
+    {
+      "screen": "Exit",
+      "identifiers": [
+        { "id": "D_21_1_W", "value": "Exit" },
+        { "id": "D_21_13_W", "value": "Detail Extra" },
+        { "id": "D_21_30_W", "value": "Line Notes" },
+        { "id": "D_21_45_W", "value": "OrderNotes" },
+        { "id": "D_21_60_W", "value": "Serials" },
+        { "id": "D_22_1_W", "value": "Expand" },
+        { "id": "D_22_13_W", "value": "Cancel" }
+      ]
+    },
+    {
+      "screen": "ITU01S",
+      "modified": "1727723901397",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ITU01S" }
+      ]
+    },
+    {
+      "screen": "Select Enviroment",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ENI01S" }
+      ]
+    },
+    {
+      "screen": "System comments child",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "CMU02S" }
+      ]
+    },
+    {
+      "screen": "LBW02S",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "LBW02S" }
+      ]
+    },
+    {
+      "screen": "SAI02R",
+      "modified": "1727356629006",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SAI02R" }
+      ]
+    },
+    {
+      "screen": "SDU05R",
+      "modified": "1727357398623",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SDU05R" }
+      ]
+    },
+    {
+      "screen": "FCI08S",
+      "modified": "1727462793084",
+      "identifiers": [
+        { "id": "D_1_10_W", "value": "FCI08S" }
+      ]
+    },
+    {
+      "screen": "PTDUTL",
+      "modified": "1727715066445",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "PTDUTL" }
+      ]
+    },
+    {
+      "screen": "SNU03R",
+      "modified": "1727723111513",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SNU03R" }
+      ]
+    },
+    {
+      "screen": "ITU02S",
+      "modified": "1727723998911",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ITU02S" }
+      ]
+    },
+    {
+      "screen": "ITU03R",
+      "modified": "1727724082224",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ITU03R" }
+      ]
+    },
+    {
+      "screen": "ITU08S",
+      "modified": "1727724174181",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "ITU08S" }
+      ]
+    },
+    {
+      "screen": "EAU01S",
+      "modified": "1727724492323",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "EAU01S" }
+      ]
+    },
+    {
+      "screen": "I1I01S",
+      "modified": "1728698996796",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "I1I01S" }
+      ]
+    },
+    {
+      "screen": "OMDUAS",
+      "modified": "1730309596556",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "OMDUAS" }
+      ]
+    },
+    {
+      "screen": "SerialNumberInquiry",
+      "modified": "1754922267164",
+      "identifiers": [
+        { "id": "D_1_1_W", "value": "SDI01R" }
+      ]
+    }
+  ]
+}

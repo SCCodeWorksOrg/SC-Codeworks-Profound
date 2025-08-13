@@ -1,0 +1,18 @@
+{
+  "screen": { "screen_name": "EQU02S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "EQU02S", "identifier_value": "EQU02S" }, 
+    { "id": "D_3_8_W", "field_type": "output field", "value": "script: value", "top": "49px", "left": "83px", "parent_window": "EQU02S", "text_align": "right" }, 
+    { "id": "D_4_3_W", "field_type": "output field", "value": "script: value", "top": "73px", "left": "33px", "parent_window": "EQU02S", "text_align": "right" }, 
+    { "id": "D_5_3_W", "field_type": "output field", "value": "script: value", "top": "97px", "left": "33px", "parent_window": "EQU02S", "text_align": "right" }, 
+    { "id": "D_6_1_W", "field_type": "output field", "value": "script: value", "top": "121px", "left": "13px", "parent_window": "EQU02S", "text_align": "right" }, 
+    { "id": "D_7_3_W", "field_type": "output field", "value": "script: value", "top": "145px", "left": "33px", "parent_window": "EQU02S", "text_align": "right" }, 
+    { "id": "D_8_3_W", "field_type": "output field", "value": "script: value", "top": "169px", "left": "33px", "parent_window": "EQU02S", "text_align": "right" }, 
+    { "id": "D_9_3_W", "field_type": "output field", "value": "script: value", "top": "193px", "left": "33px", "parent_window": "EQU02S", "text_align": "right" }, 
+    { "id": "D_10_2_W", "field_type": "output field", "value": "script: value", "top": "217px", "left": "23px", "parent_window": "EQU02S", "text_align": "right" }, 
+    { "id": "D_11_2_W", "field_type": "output field", "value": "script: value", "top": "241px", "left": "23px", "parent_window": "EQU02S", "text_align": "right" }, 
+    { "id": "D_12_5_W", "field_type": "output field", "value": "script: value", "top": "265px", "left": "53px", "parent_window": "EQU02S", "text_align": "right" }, 
+    { "id": "D_13_5_W", "field_type": "output field", "value": "script: value", "top": "289px", "left": "53px", "parent_window": "EQU02S", "text_align": "right" }, 
+    { "id": "D_14_11_W", "field_type": "output field", "value": "script: value", "top": "313px", "left": "113px", "parent_window": "EQU02S", "text_align": "right" }
+  ]
+}

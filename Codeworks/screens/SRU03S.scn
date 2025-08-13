@@ -1,0 +1,17 @@
+{
+  "screen": { "screen_name": "SRU03S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "SRU03S", "identifier_value": "SRU03S" }, 
+    { "id": "D_3_1_W", "field_type": "output field", "value": "script: value", "top": "49px", "left": "13px", "parent_window": "SRU03S", "text_align": "right" }, 
+    { "id": "D_4_4_W", "field_type": "output field", "value": "script: value", "top": "73px", "left": "43px", "parent_window": "SRU03S", "text_align": "right" }, 
+    { "id": "D_4_27_W", "field_type": "output field", "value": "script: value", "top": "73px", "left": "273px", "parent_window": "SRU03S", "text_align": "right" }, 
+    { "id": "D_5_6_W", "field_type": "output field", "value": "script: value", "top": "97px", "left": "63px", "parent_window": "SRU03S", "text_align": "right" }, 
+    { "id": "D_6_2_W", "field_type": "output field", "value": "script: value", "top": "121px", "left": "23px", "parent_window": "SRU03S", "text_align": "right" }, 
+    { "id": "D_8_2_W", "field_type": "output field", "value": "script: value", "top": "169px", "left": "23px", "parent_window": "SRU03S", "text_align": "right" }, 
+    { "id": "D_8_23_W", "field_type": "output field", "value": "script: value", "top": "169px", "left": "233px", "parent_window": "SRU03S", "text_align": "right" }, 
+    { "id": "D_9_1_W", "field_type": "output field", "value": "script: value", "top": "193px", "left": "13px", "parent_window": "SRU03S", "text_align": "right" }, 
+    { "id": "D_9_21_W", "field_type": "output field", "value": "script: value", "top": "193px", "left": "213px", "parent_window": "SRU03S", "text_align": "right" }, 
+    { "id": "D_10_2_W", "field_type": "output field", "value": "script: value", "top": "217px", "left": "23px", "parent_window": "SRU03S", "text_align": "right" }, 
+    { "id": "D_10_23_W", "field_type": "output field", "value": "script: value", "top": "217px", "left": "233px", "parent_window": "SRU03S", "text_align": "right" }
+  ]
+}

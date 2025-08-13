@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "PMI11S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "PMI11S" }, 
+    { "id": "D_9_2", "field_type": "output field", "value": "script: value", "text_align": "right" }
+  ]
+}

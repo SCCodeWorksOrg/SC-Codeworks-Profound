@@ -1,0 +1,10 @@
+{
+  "screen": { "screen_name": "S3W01R" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "S3W01R" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "10", "row_height": "24", "header_height": "30", "column_widths": "53,50,30,160,130,110,80,90,80,70", "left": "13px", "top": "241px", "height": "240px", "width": "854px" }, 
+    { "id": "arrow7_copy", "field_type": "output field", "value": ">", "css_class": "fkey-arrow", "color": "#999999", "font_family": "consolas", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(153, 153, 153)", "text_transform": "none", "word_spacing": "0px", "left": "7px", "top": "205px", "height": "17px", "width": "10px", "z_index": "10", "newitem": "true" }, 
+    { "id": "fkey7", "field_type": "output field", "value": "Help", "css_class": "fkey-link", "color": "#00517A", "font_family": "\"Open Sans\", sans-serif", "font_size": "15px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 81, 122)", "text_transform": "none", "word_spacing": "0px", "left": "8px", "top": "208px", "height": "17px", "width": "140px", "z_index": "10", "onclick": "var widget = document.getElementById(\"document-list-panel\"); // Replace 'widgetId' with the actual ID of the widget\nif (widget.style.visibility === \"hidden\") {\n  widget.style.visibility = \"visible\";  // Show the widget\n} else {\n  widget.style.visibility = \"hidden\";   // Hide the widget\n}", "newitem": "true" }, 
+    { "id": "document-list-panel", "field_type": "panel", "value": "Help Documents", "panel_style": "Simple", "left": "-242px", "top": "231px", "height": "345px", "width": "244px", "z_index": "21", "user_defined_data": "supply-pool-definitions", "visibility": "hidden", "newitem": "true" }
+  ]
+}

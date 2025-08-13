@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "UMDUMD" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "UMDUMD", "width": "77px", "identifier_value": "UMDUMD" }, 
+    { "id": "D_4_2_W", "field_type": "output field", "value": "script: value", "top": "75px", "left": "37px", "parent_window": "UMDUMD", "width": "174px" }, 
+    { "id": "D_5_4_W", "field_type": "output field", "value": "script: value", "top": "98px", "left": "61px", "parent_window": "UMDUMD", "width": "149px" }
+  ]
+}

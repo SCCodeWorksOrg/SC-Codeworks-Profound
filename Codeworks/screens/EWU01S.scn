@@ -1,0 +1,13 @@
+{
+  "screen": { "screen_name": "EWU01S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "EWU01S", "identifier_value": "EWU01S" }, 
+    { "id": "D_3_7_W", "field_type": "output field", "value": "script: value", "top": "49px", "left": "73px", "parent_window": "EWU01S", "text_align": "right" }, 
+    { "id": "D_4_6_W", "field_type": "output field", "value": "script: value", "top": "73px", "left": "63px", "parent_window": "EWU01S", "text_align": "right" }, 
+    { "id": "D_5_1_W", "field_type": "output field", "value": "script: value", "top": "97px", "left": "13px", "parent_window": "EWU01S", "text_align": "right" }, 
+    { "id": "D_6_7_W", "field_type": "output field", "value": "script: value", "top": "121px", "left": "73px", "parent_window": "EWU01S", "text_align": "right" }, 
+    { "id": "D_7_4_W", "field_type": "output field", "value": "script: value", "top": "145px", "left": "43px", "parent_window": "EWU01S", "text_align": "right" }, 
+    { "id": "I_4_23_W", "field_type": "textbox", "value": "script: value", "parent_window": "EWU01S", "width": "44px" }, 
+    { "id": "I_7_26_W", "field_type": "textbox", "value": "script: value", "parent_window": "EWU01S", "height": "19px" }
+  ]
+}

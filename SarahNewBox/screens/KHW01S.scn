@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "KHW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "KHW01S" }, 
+    { "id": "D_9_2", "field_type": "output field", "value": "script: value", "left": "288px", "width": "362px" }, 
+    { "id": "D_10_74", "field_type": "output field", "value": "script: value", "left": "748px" }
+  ]
+}

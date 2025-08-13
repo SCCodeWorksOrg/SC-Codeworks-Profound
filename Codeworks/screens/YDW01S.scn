@@ -1,0 +1,9 @@
+{
+  "screen": { "screen_name": "YDW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "YDW01S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "72px", "left": "24px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "8px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "5", "number_of_columns": "4", "row_height": "24", "header_height": "30", "column_widths": "50,170,320,100", "left": "13px", "top": "241px", "height": "120px", "width": "641px" }
+  ]
+}

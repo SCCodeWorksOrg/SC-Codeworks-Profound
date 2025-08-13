@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "Bottom" },
+  "items": [
+    { "id": "D_3_2", "field_type": "output field", "value": "script: value", "color": "#003399", "top": "66px", "left": "25px", "font_weight": "bold" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "color": "#003CB3" }, 
+    { "id": "D_21_67", "screen_identifier": "true", "field_type": "output field", "visibility": "visible", "value": "script: value", "identifier_value": "       Bottom" }
+  ]
+}

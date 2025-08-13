@@ -1,0 +1,18 @@
+{
+  "screen": { "screen_name": "Dock" },
+  "items": [
+    { "id": "D_10_18", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "top": "209px", "left": "48px", "visibility": "hidden", "identifier_value": "Ap  L L" }, 
+    { "id": "D_10_54", "field_type": "output field", "value": "script: value", "visibility": "hidden" }, 
+    { "id": "D_11_1", "field_type": "output field", "value": "Opt   Appt#       I/O        Ty      T P      SCAC         Bldg        App Date    Time              Batch          Door                            Pri           Sts", "top": "229px", "left": "3px", "visibility": "hidden" }, 
+    { "id": "I_12_2", "field_type": "combo box", "value": "script: value", "choices": "Change,Comments,Delete,Inquire,Assgn Time/Loc,Driver In,Cancel", "visibility": "visible", "left": "5px", "top": "291px", "width": "34px" }, 
+    { "id": "I_13_2", "field_type": "combo box", "value": "script: value", "choices": "Change,Comments,Delete,Inquire,Assgn Time/Loc,Driver In,Cancel", "left": "6px", "top": "315px", "width": "34px" }, 
+    { "id": "I_14_2", "field_type": "combo box", "value": "script: value", "choices": "Change,Comments,Delete,Inquire,Assgn Time/Loc,Driver In,Cancel", "left": "6px", "top": "339px", "width": "34px" }, 
+    { "id": "I_15_2", "field_type": "combo box", "value": "script: value", "choices": "Change,Comments,Delete,Inquire,Assgn Time/Loc,Driver In,Cancel", "left": "6px", "top": "363px", "width": "34px" }, 
+    { "id": "I_16_2", "field_type": "combo box", "value": "script: value", "choices": "Change,Comments,Delete,Inquire,Assgn Time/Loc,Driver In,Cancel", "left": "6px", "top": "387px", "width": "34px" }, 
+    { "id": "I_17_2", "field_type": "combo box", "value": "script: value", "choices": "Change,Comments,Delete,Inquire,Assgn Time/Loc,Driver In,Cancel", "left": "6px", "top": "411px", "width": "34px" }, 
+    { "id": "I_18_2", "field_type": "combo box", "value": "script: value", "choices": "Change,Comments,Delete,Inquire,Assgn Time/Loc,Driver In,Cancel", "left": "6px", "top": "435px", "width": "34px" }, 
+    { "id": "I_19_2", "field_type": "combo box", "value": "script: value", "choices": "Change,Comments,Delete,Inquire,Assgn Time/Loc,Driver In,Cancel", "left": "6px", "top": "459px", "width": "34px" }, 
+    { "id": "D_20_68", "field_type": "output field", "value": "script: value", "top": "523px", "left": "722px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "9", "number_of_columns": "13", "row_height": "24", "header_height": "40", "column_widths": "45,80,50,40,40,60,50,90,60,90,120,50,70", "left": "3px", "top": "249px", "height": "232px", "width": "846px", "has_header": "true", "header_background": "#cccccc", "header_font_color": "#003366", "column_headings": "Opt,Appt#, I/O,AP Ty,  T P, SCAC, Bldg, App Date,   Time, Batch,Load/  Door,Pri, Sts" }
+  ]
+}

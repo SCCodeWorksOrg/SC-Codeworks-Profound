@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "Edit Library List" },
+  "items": [
+    { "id": "D_1_32", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "Edit Library List" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "color": "#1E487A" }
+  ]
+}

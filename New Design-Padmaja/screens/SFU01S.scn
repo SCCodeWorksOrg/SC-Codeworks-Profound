@@ -1,0 +1,12 @@
+{
+  "screen": { "screen_name": "SFU01S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "SFU01S", "identifier_value": "SFU01S" }, 
+    { "id": "D_3_5_W", "field_type": "output field", "value": "script: value", "top": "49px", "left": "40px", "parent_window": "SFU01S", "text_align": "right" }, 
+    { "id": "D_4_1_W", "field_type": "output field", "value": "script: value", "top": "77px", "left": "0px", "parent_window": "SFU01S", "text_align": "right" }, 
+    { "id": "D_5_5_W", "field_type": "output field", "value": "script: value", "top": "105px", "left": "40px", "parent_window": "SFU01S", "text_align": "right" }, 
+    { "id": "I_3_18_W", "field_type": "textbox", "value": "script: value", "left": "196px", "parent_window": "SFU01S" }, 
+    { "id": "I_4_13_W", "field_type": "textbox", "value": "script: value", "top": "80px", "parent_window": "SFU01S" }, 
+    { "id": "I_5_13_W", "field_type": "textbox", "value": "script: value", "top": "108px", "parent_window": "SFU01S" }
+  ]
+}

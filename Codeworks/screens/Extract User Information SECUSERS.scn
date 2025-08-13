@@ -1,0 +1,15 @@
+{
+  "screen": { "screen_name": "Extract User Information SECUSERS" },
+  "items": [
+    { "id": "D_1_20", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "    Extract User Information (SECUSERS)" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "top": "97px", "left": "30px", "text_align": "right" }, 
+    { "id": "D_6_2", "field_type": "output field", "value": "script: value", "top": "121px", "left": "30px", "text_align": "right" }, 
+    { "id": "D_7_7", "field_type": "output field", "value": "script: value", "top": "145px", "left": "80px", "text_align": "right" }, 
+    { "id": "D_8_2", "field_type": "output field", "value": "script: value", "top": "169px", "left": "30px", "text_align": "right" }, 
+    { "id": "D_9_2", "field_type": "output field", "value": "script: value", "top": "193px", "left": "30px", "text_align": "right" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "top": "217px", "left": "30px", "text_align": "right" }, 
+    { "id": "D_11_7", "field_type": "output field", "value": "script: value", "top": "241px", "left": "80px", "text_align": "right" }, 
+    { "id": "D_12_2", "field_type": "output field", "value": "script: value", "top": "265px", "left": "30px", "text_align": "right" }, 
+    { "id": "D_13_2", "field_type": "output field", "value": "script: value", "top": "289px", "left": "30px", "text_align": "right" }
+  ]
+}

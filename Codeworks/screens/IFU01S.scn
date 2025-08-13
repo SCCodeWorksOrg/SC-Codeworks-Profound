@@ -1,0 +1,20 @@
+{
+  "screen": { "screen_name": "IFU01S" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "IFU01S", "identifier_value": "IFU01S" }, 
+    { "id": "D_3_8_W", "field_type": "output field", "value": "script: value", "top": "49px", "left": "83px", "parent_window": "IFU01S", "text_align": "right" }, 
+    { "id": "D_3_26_W", "field_type": "output field", "value": "script: value", "top": "49px", "left": "263px", "parent_window": "IFU01S", "text_align": "right" }, 
+    { "id": "D_4_1_W", "field_type": "output field", "value": "script: value", "top": "73px", "left": "13px", "parent_window": "IFU01S", "text_align": "right" }, 
+    { "id": "D_7_1_W", "field_type": "output field", "value": "script: value", "top": "145px", "left": "13px", "parent_window": "IFU01S", "text_align": "right" }, 
+    { "id": "D_7_38_W", "field_type": "output field", "value": "script: value", "top": "145px", "left": "383px", "parent_window": "IFU01S", "text_align": "right" }, 
+    { "id": "D_8_3_W", "field_type": "output field", "value": "script: value", "top": "169px", "left": "33px", "parent_window": "IFU01S", "text_align": "right" }, 
+    { "id": "D_8_30_W", "field_type": "output field", "value": "script: value", "top": "169px", "left": "303px", "parent_window": "IFU01S", "text_align": "right" }, 
+    { "id": "D_9_1_W", "field_type": "output field", "value": "script: value", "top": "193px", "left": "13px", "parent_window": "IFU01S", "text_align": "right" }, 
+    { "id": "D_9_33_W", "field_type": "output field", "value": "script: value", "top": "193px", "left": "333px", "parent_window": "IFU01S", "text_align": "right" }, 
+    { "id": "D_10_1_W", "field_type": "output field", "value": "script: value", "top": "217px", "left": "13px", "parent_window": "IFU01S", "text_align": "right" }, 
+    { "id": "D_10_31_W", "field_type": "output field", "value": "script: value", "top": "217px", "left": "313px", "parent_window": "IFU01S", "text_align": "right" }, 
+    { "id": "D_11_5_W", "field_type": "output field", "value": "script: value", "top": "241px", "left": "53px", "parent_window": "IFU01S", "text_align": "right" }, 
+    { "id": "D_12_7_W", "field_type": "output field", "value": "script: value", "top": "265px", "left": "73px", "parent_window": "IFU01S", "text_align": "right" }, 
+    { "id": "D_13_8_W", "field_type": "output field", "value": "script: value", "top": "289px", "left": "83px", "parent_window": "IFU01S", "text_align": "right" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "screen": { "screen_name": "SECW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "SECW01S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "left": "23px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "9px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "6", "row_height": "24", "header_height": "30", "column_widths": "54,130,130,140,210,170", "left": "13px", "top": "241px", "height": "240px", "width": "835px" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "screen": { "screen_name": "S3W01R" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "S3W01R" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "left": "10px", "text_align": "right" }, 
+    { "id": "D_4_30", "field_type": "output field", "value": "script: value", "top": "73px", "left": "290px", "text_align": "right" }, 
+    { "id": "D_4_56", "field_type": "output field", "value": "script: value", "top": "73px", "left": "550px", "text_align": "right" }, 
+    { "id": "D_5_59", "field_type": "output field", "value": "script: value", "top": "97px", "left": "580px", "text_align": "right" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "6px" }, 
+    { "id": "I_11_3", "field_type": "combo box", "value": "script: value", "top": "243px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "value": "script: value", "top": "271px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "value": "script: value", "top": "300px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "value": "script: value", "top": "327px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "value": "script: value", "top": "355px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "value": "script: value", "top": "383px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "value": "script: value", "top": "411px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "value": "script: value", "top": "439px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "value": "script: value", "top": "468px" }, 
+    { "id": "I_20_3", "field_type": "combo box", "value": "script: value", "top": "496px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "10", "row_height": "28", "header_height": "30", "column_widths": "57,50,30,160,130,110,78,87,79,37", "left": "13px", "top": "241px", "height": "280px", "width": "819px" }
+  ]
+}

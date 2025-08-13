@@ -1,0 +1,13 @@
+{
+  "screen": { "screen_name": "RQW50S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "RQW50S" }, 
+    { "id": "D_9_8", "field_type": "output field", "value": "script: value", "left": "98px", "width": "136px" }, 
+    { "id": "D_9_46", "field_type": "output field", "value": "script: value", "left": "463px" }, 
+    { "id": "D_9_57", "field_type": "output field", "value": "script: value", "left": "612px", "width": "135px" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "15px" }, 
+    { "id": "D_10_46", "field_type": "output field", "value": "script: value", "left": "463px" }, 
+    { "id": "D_11_8", "field_type": "output field", "value": "script: value", "text_align": "left", "width": "73px" }, 
+    { "id": "D_11_17", "field_type": "output field", "value": "script: value", "left": "179px", "width": "71px" }
+  ]
+}

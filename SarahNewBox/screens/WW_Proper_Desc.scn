@@ -1,0 +1,26 @@
+{
+  "screen": { "screen_name": "WW_Proper_Desc" },
+  "items": [
+    { "id": "D_2_26", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "Work With Proper Descriptions" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "17px", "width": "788px" }, 
+    { "id": "I_11_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "width": "43px", "left": "18px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "width": "43px", "left": "18px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "width": "43px", "left": "18px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "width": "43px", "left": "18px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "choices": "Change,Delete", "value": "script: value", "left": "16px", "width": "43px" }, 
+    { "id": "D_16_6", "field_type": "output field", "value": "script: value", "color": "#000000", "top": "363px", "font_weight": "normal" }, 
+    { "id": "D_16_12", "field_type": "output field", "value": "script: value", "color": "#000000", "font_weight": "normal" }, 
+    { "id": "D_16_50", "field_type": "output field", "value": "script: value", "color": "#000000", "font_weight": "normal" }, 
+    { "id": "D_16_57", "field_type": "output field", "value": "script: value", "color": "#000000", "font_weight": "normal" }, 
+    { "id": "D_16_73", "field_type": "output field", "value": "script: value", "color": "#000000", "font_weight": "normal" }, 
+    { "id": "D_16_75", "field_type": "output field", "value": "script: value", "color": "#000000", "font_weight": "normal" }, 
+    { "id": "D_16_77", "field_type": "output field", "value": "script: value", "color": "#000000", "font_weight": "normal" }, 
+    { "id": "D_21_68", "field_type": "output field", "value": "script: value", "top": "509px", "left": "647px", "visibility": "hidden" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "8", "row_height": "24", "header_height": "30", "column_widths": "45,60,380,70,90,70,60,75", "left": "16px", "top": "241px", "height": "240px", "width": "851px", "font_weight": "normal", "odd_row_font_color": "#000000" }, 
+    { "id": "I_16_3", "field_type": "combo box", "value": "script: value", "left": "14px", "width": "40px" }, 
+    { "id": "D_15_6", "field_type": "output field", "value": "script: value", "color": "#000000", "left": "68px", "font_weight": "normal", "width": "37px" }, 
+    { "id": "D_15_12", "field_type": "output field", "value": "script: value", "color": "#000000", "css_class": "A22", "font_weight": "normal" }, 
+    { "id": "D_15_50", "field_type": "output field", "value": "script: value", "color": "#000000", "font_weight": "normal" }, 
+    { "id": "D_15_57", "field_type": "output field", "value": "script: value", "color": "#000000", "font_weight": "normal" }
+  ]
+}

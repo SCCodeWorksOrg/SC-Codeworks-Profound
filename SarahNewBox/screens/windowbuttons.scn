@@ -1,0 +1,12 @@
+{
+  "screen": { "screen_name": "windowbuttons" },
+  "items": [
+    { "id": "D_21_1_W", "field_type": "button", "value": "script: value", "top": "480px", "left": "7px", "parent_window": "windowbuttons", "text_align": "center", "width": "54px" }, 
+    { "id": "D_21_13_W", "field_type": "button", "value": "script: value", "top": "478px", "left": "74px", "parent_window": "windowbuttons" }, 
+    { "id": "D_21_30_W", "field_type": "button", "value": "script: value", "top": "479px", "left": "215px", "parent_window": "windowbuttons" }, 
+    { "id": "D_21_45_W", "field_type": "button", "value": "script: value", "top": "477px", "left": "341px", "parent_window": "windowbuttons" }, 
+    { "id": "D_21_60_W", "field_type": "button", "value": "script: value", "top": "477px", "left": "464px", "parent_window": "windowbuttons" }, 
+    { "id": "D_22_1_W", "screen_identifier": "true", "field_type": "button", "value": "script: value", "top": "475px", "left": "568px", "parent_window": "windowbuttons", "identifier_value": "Expand" }, 
+    { "id": "D_22_13_W", "field_type": "button", "value": "script: value", "top": "473px", "left": "665px", "parent_window": "windowbuttons" }
+  ]
+}

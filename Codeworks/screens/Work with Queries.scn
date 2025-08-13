@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "Work with Queries" },
+  "items": [
+    { "id": "D_1_2", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "                              Work with Queries" }, 
+    { "id": "I_5_26", "field_type": "textbox", "value": "script: value", "width": "38px" }
+  ]
+}

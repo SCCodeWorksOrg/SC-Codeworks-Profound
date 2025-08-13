@@ -1,0 +1,30 @@
+{
+  "screen": { "screen_name": "STI90S" },
+  "items": [
+    { "id": "D_1_2", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "STI90S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_4_47", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "132px" }, 
+    { "id": "D_5_48", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right", "width": "122px" }, 
+    { "id": "D_6_2", "field_type": "output field", "value": "script: value", "css_class": "A3A" }, 
+    { "id": "D_6_40", "field_type": "output field", "value": "script: value", "css_class": "A3A" }, 
+    { "id": "D_7_3", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_7_46", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_8_2", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_8_42", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_9_2", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_10_46", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_11_4", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_11_42", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_12_3", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_13_49", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_14_6", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_14_45", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_15_5", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_17_51", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_18_3", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_18_56", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_19_8", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_19_55", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_20_7", "field_type": "output field", "value": "script: value", "text_align": "right" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "screen": { "screen_name": "window_buttons" },
+  "items": [
+    { "id": "D_21_1_W", "field_type": "button", "value": "script: value", "top": "471px", "left": "16px", "parent_window": "window_buttons" }, 
+    { "id": "D_21_13_W", "screen_identifier": "true", "field_type": "button", "value": "script: value", "top": "472px", "left": "76px", "parent_window": "window_buttons", "identifier_value": "Detail Extra" }, 
+    { "id": "D_21_30_W", "field_type": "button", "value": "script: value", "top": "470px", "left": "219px", "parent_window": "window_buttons" }, 
+    { "id": "D_21_45_W", "field_type": "button", "value": "script: value", "top": "473px", "left": "343px", "parent_window": "window_buttons" }, 
+    { "id": "D_21_60_W", "field_type": "button", "value": "script: value", "top": "470px", "left": "466px", "parent_window": "window_buttons" }, 
+    { "id": "D_22_1_W", "field_type": "button", "value": "script: value", "top": "470px", "left": "570px", "parent_window": "window_buttons" }, 
+    { "id": "D_22_13_W", "field_type": "button", "value": "script: value", "top": "471px", "left": "668px", "parent_window": "window_buttons" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "screen": { "screen_name": "RSW01S" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "RSW01S" }, 
+    { "id": "D_4_5", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "83px" }, 
+    { "id": "D_4_30", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "42px" }, 
+    { "id": "D_4_59", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "61px" }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right", "width": "112px" }, 
+    { "id": "D_5_26", "field_type": "output field", "value": "script: value", "top": "97px", "text_align": "right", "width": "82px" }
+  ]
+}

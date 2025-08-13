@@ -1,0 +1,10 @@
+{
+  "screen": { "screen_name": "Work With Postal Abbreviations" },
+  "items": [
+    { "id": "D_2_26", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "Work With Postal Abbreviations" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "72px" }, 
+    { "id": "D_4_16", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "41px" }, 
+    { "id": "D_4_35", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "122px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "5", "row_height": "24", "header_height": "30", "column_widths": "55,80,110,110,450", "left": "13px", "top": "241px", "height": "240px", "width": "806px" }
+  ]
+}

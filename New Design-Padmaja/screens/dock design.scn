@@ -1,0 +1,24 @@
+{
+  "screen": { "screen_name": "dock design" },
+  "items": [
+    { "id": "D_1_12", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "XPW01S" }, 
+    { "id": "D_1_26", "field_type": "output field", "value": "script: value" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "top": "73px", "left": "10px", "text_align": "right" }, 
+    { "id": "D_4_28", "field_type": "output field", "value": "script: value", "top": "73px", "left": "270px", "text_align": "right" }, 
+    { "id": "D_4_47", "field_type": "output field", "value": "script: value", "top": "73px", "left": "460px", "text_align": "right" }, 
+    { "id": "D_5_52", "field_type": "output field", "value": "script: value", "top": "97px", "left": "510px", "text_align": "right" }, 
+    { "id": "D_10_2", "field_type": "output field", "value": "script: value", "left": "1px" }, 
+    { "id": "I_11_3", "field_type": "combo box", "choices": "Change,Delete,Description,Exit Choices", "value": "script: value", "width": "37px", "left": "12px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "choices": "Change,Delete,Description,Exit Choices", "value": "script: value", "width": "37px", "left": "12px", "top": "273px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "choices": "Change,Delete,Description,Exit Choices", "value": "script: value", "width": "37px", "left": "12px", "top": "301px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "choices": "Change,Delete,Description,Exit Choices", "value": "script: value", "width": "37px", "left": "12px", "top": "329px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "choices": "Change,Delete,Description,Exit Choices", "value": "script: value", "width": "37px", "left": "12px", "top": "357px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "choices": "Change,Delete,Description,Exit Choices", "value": "script: value", "width": "37px", "left": "12px", "top": "385px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "choices": "Change,Delete,Description,Exit Choices", "value": "script: value", "width": "37px", "left": "12px", "top": "413px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "choices": "Change,Delete,Description,Exit Choices", "value": "script: value", "width": "37px", "left": "12px", "top": "441px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "choices": "Change,Delete,Description,Exit Choices", "value": "script: value", "width": "37px", "left": "12px", "top": "469px" }, 
+    { "id": "I_20_3", "field_type": "combo box", "choices": "Change,Delete,Description,Exit Choices", "value": "script: value", "width": "37px", "left": "12px", "top": "497px" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "number_of_rows": "10", "number_of_columns": "3", "row_height": "28", "header_height": "30", "column_widths": "45,118,654", "left": "11px", "top": "243px", "height": "280px", "width": "818px", "odd_row_background": "#e8e8e8", "even_row_background": "#f0f0f0", "hover_font_color": "#000099  ", "hover_background": "#c4e4f9 " }, 
+    { "id": "D_5_2", "field_type": "output field", "value": "script: value", "color": "#1E487A" }
+  ]
+}

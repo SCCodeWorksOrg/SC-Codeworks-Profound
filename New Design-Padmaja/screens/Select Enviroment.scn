@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "Select Enviroment", "create_combo_boxes": "true" },
+  "items": [
+    { "id": "D_1_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "Select Enviroment", "identifier_value": "ENI01S" }, 
+    { "id": "D_1_23_W", "field_type": "output field", "value": "script: value", "top": "12px", "left": "206px", "parent_window": "Select Enviroment" }
+  ]
+}

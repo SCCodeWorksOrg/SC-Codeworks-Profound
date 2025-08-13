@@ -1,0 +1,8 @@
+{
+  "screen": { "screen_name": "Define Database File Output" },
+  "items": [
+    { "id": "D_1_2", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "                         Define Database File Output" }, 
+    { "id": "I_10_29", "field_type": "textbox", "value": "script: value", "width": "32px" }, 
+    { "id": "I_20_29", "field_type": "textbox", "value": "script: value", "width": "34px" }
+  ]
+}

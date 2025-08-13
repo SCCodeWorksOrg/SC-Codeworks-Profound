@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "Clear Physical File Member CLRPFM" },
+  "items": [
+    { "id": "D_1_20", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "    Clear Physical File Member (CLRPFM)" }, 
+    { "id": "I_6_39", "field_type": "textbox", "value": "script: value", "top": "125px" }
+  ]
+}

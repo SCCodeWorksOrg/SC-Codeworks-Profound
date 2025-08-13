@@ -1,0 +1,20 @@
+{
+  "screen": { "screen_name": "UCW01S" },
+  "items": [
+    { "id": "D_1_11", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "UCW01S" }, 
+    { "id": "D_4_2", "field_type": "output field", "value": "script: value", "text_align": "right" }, 
+    { "id": "D_4_10", "field_type": "output field", "value": "script: value", "left": "103px" }, 
+    { "id": "D_4_57", "field_type": "output field", "value": "script: value", "top": "73px", "text_align": "right", "width": "92px" }, 
+    { "id": "D_9_36", "field_type": "output field", "value": "script: value", "left": "348px" }, 
+    { "id": "D_9_47", "field_type": "output field", "value": "script: value", "left": "459px" }, 
+    { "id": "D_9_58", "field_type": "output field", "value": "script: value", "left": "569px" }, 
+    { "id": "D_9_69", "field_type": "output field", "value": "script: value", "left": "679px" }, 
+    { "id": "D_10_3", "field_type": "output field", "value": "script: value", "left": "6px" }, 
+    { "id": "D_10_7", "field_type": "output field", "value": "script: value", "left": "59px" }, 
+    { "id": "D_10_20", "field_type": "output field", "value": "script: value", "left": "188px" }, 
+    { "id": "D_10_36", "field_type": "output field", "value": "script: value", "left": "348px" }, 
+    { "id": "D_10_47", "field_type": "output field", "value": "script: value", "left": "459px" }, 
+    { "id": "D_10_58", "field_type": "output field", "value": "script: value", "left": "569px" }, 
+    { "id": "D_10_69", "field_type": "output field", "value": "script: value", "left": "679px" }
+  ]
+}

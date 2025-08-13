@@ -1,0 +1,15 @@
+{
+  "screen": { "screen_name": "Equipment Maintenance Questions" },
+  "items": [
+    { "id": "D_1_2_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "parent_window": "Equipment Maintenance Questions", "identifier_value": "Equipment Maintenance Questions" }, 
+    { "id": "D_2_2_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "top": "25px", "left": "13px", "parent_window": "Equipment Maintenance Questions", "width": "60px", "text_align": "right", "identifier_value": "Bldg:" }, 
+    { "id": "D_2_8_W", "field_type": "output field", "value": "script: value", "parent_window": "Equipment Maintenance Questions", "width": "50px" }, 
+    { "id": "D_2_12_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "top": "25px", "left": "123px", "parent_window": "Equipment Maintenance Questions", "text_align": "right", "identifier_value": "Equip#:" }, 
+    { "id": "D_3_1_W", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "top": "49px", "left": "13px", "parent_window": "Equipment Maintenance Questions", "text_align": "right", "identifier_value": "Meter:" }, 
+    { "id": "subfile", "field_type": "grid", "value": "script: value", "parent_window": "Equipment Maintenance Questions", "number_of_rows": "4", "number_of_columns": "2", "row_height": "24", "header_height": "30", "column_widths": "30,312", "left": "6px", "top": "97px", "height": "96px", "width": "343px" }, 
+    { "id": "I_5_2_W", "field_type": "textbox", "value": "script: value", "left": "11px", "parent_window": "Equipment Maintenance Questions" }, 
+    { "id": "I_6_2_W", "field_type": "textbox", "value": "script: value", "left": "11px", "parent_window": "Equipment Maintenance Questions" }, 
+    { "id": "I_7_2_W", "field_type": "textbox", "value": "script: value", "left": "11px", "parent_window": "Equipment Maintenance Questions" }, 
+    { "id": "I_8_2_W", "field_type": "textbox", "value": "script: value", "left": "11px", "parent_window": "Equipment Maintenance Questions" }
+  ]
+}
