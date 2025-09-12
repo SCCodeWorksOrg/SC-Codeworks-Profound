@@ -645,241 +645,484 @@ pui.onload = function() {
 ////////////////////////////////////////////////////////////////////////////////////////
 /*  START OF IMAGE UPLOAD CODE */
 ////////////////////////////////////////////////////////////////////////////////////////
+
+
 var customImageUploadElementId = 'image-upload-custom';
 var customImageSourceElementId = 'image-source-custom';
 var originalEnterButtonOnClick = null;
 var hasImageLoaded = false;
 var hasFileSelected = false;
 
-// Gets the file name and path from the text box on the UI
+// Get the file name and path from the UI
 function getFileNameAndPath() {
-    // Get the values of the four text boxes
-    var text1 = text2 = text3 = text4 = '';
-    if (document.getElementById('I_12_10')) {
-      text1 = document.getElementById('I_12_10').value.trim();
-      text2 = document.getElementById('I_13_10').value.trim();
-      text3 = document.getElementById('I_14_10').value.trim();
-      text4 = document.getElementById('I_15_10').value.trim();
-    }
-    else if (document.getElementById('I_11_9')) {
-      text1 = document.getElementById('I_11_9').value.trim();
-      text2 = document.getElementById('I_12_9').value.trim();
-      text3 = document.getElementById('I_13_9').value.trim();
-      text4 = document.getElementById('I_14_9').value.trim();
-    }
-    else if (document.getElementById('I_9_13_W1')) {
-      text1 = document.getElementById('I_9_13_W1').value.trim();
-      text2 = document.getElementById('I_10_13_W1').value.trim();
-      text3 = document.getElementById('I_11_13_W1').value.trim();
-      text4 = document.getElementById('I_12_13_W1').value.trim();
-    }
-    
+  var text1 = '', text2 = '', text3 = '', text4 = '';
 
-    // Combine the texts and trim any excess spaces between them
-    return (text1 + text2 + text3 + text4).replace(/\s+/g, ' ').trim();
+  if (document.getElementById('I_12_10')) {
+    text1 = document.getElementById('I_12_10').value.trim();
+    text2 = document.getElementById('I_13_10').value.trim();
+    text3 = document.getElementById('I_14_10').value.trim();
+    text4 = document.getElementById('I_15_10').value.trim();
+  } else if (document.getElementById('I_11_9')) {
+    text1 = document.getElementById('I_11_9').value.trim();
+    text2 = document.getElementById('I_12_9').value.trim();
+    text3 = document.getElementById('I_13_9').value.trim();
+    text4 = document.getElementById('I_14_9').value.trim();
+  } else if (document.getElementById('I_9_13_W1')) {
+    text1 = document.getElementById('I_9_13_W1').value.trim();
+    text2 = document.getElementById('I_10_13_W1').value.trim();
+    text3 = document.getElementById('I_11_13_W1').value.trim();
+    text4 = document.getElementById('I_12_13_W1').value.trim();
+  }
+
+  return (text1 + text2 + text3 + text4).replace(/\s+/g, ' ').trim();
 }
-
-// Resets the image source to the server location
+// Function to reset the image/pdf preview and state
 function resetImageSource() {
-  // Get the image element 
-  var imgElem = document.getElementById(customImageSourceElementId);
-  if (imgElem) {
-    var combinedText = getFileNameAndPath();
-    // The relative path we need to remove from the string
-    var locationStrToRemove = "/www/profoundui/htdocs";
-
-    // Check if the combined text starts with the unwanted string and remove it if present
-    if (combinedText.startsWith(locationStrToRemove)) {
-        combinedText = combinedText.substring(locationStrToRemove.length).trim();
-    }
-    
-    // Generate a unique timestamp
-    var timestamp = new Date().getTime();
-    // Set the image src to the URL from the text
-    imgElem.src = combinedText + "?t=" + timestamp;
-    
-    hasFileSelected = false;
-    
-    imgElem.addEventListener('load', function() {
-      hasImageLoaded = true;
-    });
-
-    imgElem.addEventListener('error', function() {
-      hasImageLoaded = false;
-    });
-  }
-}
-
-// Overrides the File Upload Widget if it has the custom ID to handle image uploading workflow
-function overrideFileUploadWidget() {
-  // Get the file upload input
-  var fileUpload = document.getElementById(customImageUploadElementId);
-  if (fileUpload) {
-    // call function to intercept button events to submit form
-    overrideEnterButtonClick();
-    
-    // add an event listener for when the user selects a file
-    fileUpload.addEventListener('change', function() {
-      // get file name and path
-      var combinedText = getFileNameAndPath();
-    
-      // parse out the image name (everything after the last '/')
-      var lastSlashIndex = combinedText.lastIndexOf('/');
-      var imageName = combinedText.substring(lastSlashIndex + 1); // Extract the image name
-      var imagePath = combinedText.substring(0, lastSlashIndex);
-      
-      applyProperty(customImageUploadElementId, "target directory", imagePath);
-      applyProperty(customImageUploadElementId, "rename to", imageName);
-      
-      // add listener after every change since it gets wiped
-      var fileInput = document.querySelector(`#${customImageUploadElementId} input[type="file"]`);
-      fileInput.removeEventListener('change', handleFileChange);
-      fileInput.addEventListener('change', handleFileChange);
-      
-      // add listener for the remove button
-      var removeButton = document.querySelector(`#${customImageUploadElementId} a.remove`); // Target the remove button
-      if (removeButton) {
-        removeButton.removeEventListener('click', resetImageSource);
-        removeButton.addEventListener('click', resetImageSource);
-      }
-    
-      // hide the upload button
-      var uploadButton = document.querySelector(`#${customImageUploadElementId} a.upload`); // Target the upload button
-      if (uploadButton)
-        uploadButton.style.display = 'none';
-    });
-    
-    // add initial listener for file upload
-    var fileInput = document.querySelector(`#${customImageUploadElementId} input[type="file"]`);
-    fileInput.removeEventListener('change', handleFileChange);
-    fileInput.addEventListener('change', handleFileChange);
-    
-    // add listener for the clear button
-    var clearButton = document.querySelector(`#${customImageUploadElementId} a.clear`); // Target the clear button
-    clearButton.removeEventListener('click', resetImageSource);
-    clearButton.addEventListener('click', resetImageSource);
-  }
-  else {
-    restoreEnterButtonClick();
-  }
-}
-
-// Listener to capture when the enter key is pressed
-document.addEventListener('keydown', function(event) {
-  if (event.key === 'Enter') {
-    var fileUpload = document.getElementById(customImageUploadElementId);
-    
-    if (fileUpload)
-      handleFileUpload(customImageUploadElementId);
-  }
-});
-
-// Function to swap the click event on the specific page
-function overrideEnterButtonClick() {
-  var enterButton = document.querySelector('.tablet-button#enterBtn');
-  
-  // Store the original click handler if it's not already stored
-  if (!originalEnterButtonOnClick && enterButton) {
-    originalEnterButtonOnClick = enterButton.onclick;
-
-    // Override the click handler
-    enterButton.onclick = function(event) {
-      handleFileUpload(customImageUploadElementId);
-    };
-  }
-}
-
-// Restores the Enter button click if not on a page with image uploading
-function restoreEnterButtonClick() {
-  var enterButton = document.querySelector('.tablet-button#enterBtn');
-
-  // Restore the original event handler
-  if (originalEnterButtonOnClick) {
-    enterButton.onclick = originalEnterButtonOnClick;
-    originalEnterButtonOnClick = null; // Clear the reference
-  }
-}
-
-// File upload handling logic
-function handleFileUpload(elementId, callback) {
-  var fileInput = document.querySelector(`#${elementId} input[type="file"]`);
-
-  if (fileInput && !hasImageLoaded) {
-    alert("Please select an image to upload");
-    return;
-  }
-
-  var uploadButton = document.querySelector(`#${elementId} a.upload`);
-  if (uploadButton && hasFileSelected) {
-    // Set up to intercept the next request, so we can submit the form after the image uploads
-    interceptNextHttpRequest().then((xhr) => {
-      Tab.pressKey('Enter', event); // Continue with the ProfoundUI Enter action
-    });
-    
-    // Upload the image
-    uploadButton.click();
-  }
-  else
-    Tab.pressKey('Enter', event); // Continue with the ProfoundUI Enter action
-}
-
-// Updates the Image source if a file is selected or removed
-function handleFileChange() {
-  // update the image widget
   var imageWidget = document.getElementById(customImageSourceElementId);
-  var fileInput = this;
+
   if (imageWidget) {
+    // Reset preview depending on file type
+    imageWidget.src = ''; // Clear the src for images
+
+    // Optionally set back to default placeholder
+    imageWidget.alt = "No file selected";
+  }
+
+  // Reset flags
+  hasFileSelected = false;
+  hasImageLoaded = false;
+
+  // Clear the file input value
+  var fileInput = document.querySelector(`#${customImageUploadElementId} input[type="file"]`);
+  if (fileInput) {
+    fileInput.value = '';
+  }
+}
+
+// Reset the file display (image or PDF)
+function resetFileDisplay() {
+  var fileWidget = document.getElementById(customImageSourceElementId);
+  if (fileWidget) {
+    if (fileWidget.tagName.toLowerCase() === 'img' || fileWidget.tagName.toLowerCase() === 'iframe') {
+      fileWidget.src = '';
+    }
+  }
+  var fileInput = document.querySelector(`#${customImageUploadElementId} input[type="file"]`);
+  if (fileInput) fileInput.value = '';
+  hasFileSelected = false;
+  hasImageLoaded = false;
+}
+
+function handleFileChange() {
+  var fileInput = this;
+  var previewWidget = document.getElementById(customImageSourceElementId);
+
+  if (previewWidget) {
     if (fileInput.files && fileInput.files.length > 0) {
-      var selectedFile = fileInput.files[0]; // Get the selected file
-      var imageURL = URL.createObjectURL(selectedFile);
-      
-      // Set the src attribute of the image widget to the new file URL
-      imageWidget.src = imageURL;
-      
-      // Set has file selected flag to false
+      var selectedFile = fileInput.files[0];
+      var fileType = selectedFile.type;
+      var fileURL = URL.createObjectURL(selectedFile);
+
+      let previewHTML = "";
+
+      if (fileType.startsWith("image/")) {
+        // Image preview
+        previewHTML = `
+          <div style="display:flex; justify-content:flex-end; width:100%;">
+            <img id="${customImageSourceElementId}" 
+                 src="${fileURL}" 
+                 style="width:200px; height:200px; object-fit:contain;position:absolute; top:250px;; right:0; border:1px solid #ccc;" />
+          </div>`;
+      } 
+      else if (fileType === "application/pdf") {
+        // PDF preview
+        previewHTML = `
+          <div style="display:flex; justify-content:flex-end; width:100%;">
+            <iframe id="${customImageSourceElementId}" 
+                    src="${fileURL}" 
+                    style="width:200px; height:200px; border:1px solid #ccc; position:absolute; top:250px; right:0;" 
+                    frameborder="0"></iframe>
+          </div>`;
+      }
+
+      previewWidget.outerHTML = previewHTML;
       hasFileSelected = true;
 
-      // Revoke the object URL after the image has loaded to free up memory
-      imageWidget.onload = function() {
-        URL.revokeObjectURL(imageURL); // Clean up once the image is loaded
-      };
-
-      // Clear the file input's value to allow re-selection of the same file
-      fileInput.value = '';
-    }
+      // Clear input so same file can be reselected
+      fileInput.value = "";
+    } 
     else {
       resetImageSource();
     }
   }
 }
 
-// Intercepts an HTTP request
+
+
+// Reset placeholder
+function resetImageSource() {
+  var previewWidget = document.getElementById(customImageSourceElementId);
+
+  if (previewWidget) {
+    previewWidget.outerHTML = `
+      <div style="display:flex; justify-content:flex-end; width:100%;">
+        <div id="${customImageSourceElementId}" 
+             style="width:200px; height:200px; 
+                    display:flex; align-items:center; justify-content:center; 
+                    border:1px dashed #aaa; color:#666;
+                    width:200px; height:200px;  
+                    position:absolute; top:250px; right:10;">
+          No file selected
+        </div>
+      </div>`;
+  }
+
+  hasFileSelected = false;
+  hasImageLoaded = false;
+
+  var fileInput = document.querySelector(`#${customImageUploadElementId} input[type="file"]`);
+  if (fileInput) {
+    fileInput.value = "";
+  }
+}
+
+// Handle file upload click
+function handleFileUpload(elementId) {
+  var fileInput = document.querySelector(`#${elementId} input[type="file"]`);
+
+  if (!fileInput || !hasFileSelected) {
+    alert('Please select a file to upload');
+    return;
+  }
+
+  var uploadButton = document.querySelector(`#${elementId} a.upload`);
+  if (uploadButton) {
+    interceptNextHttpRequest().then(() => {
+      Tab.pressKey('Enter');
+    });
+    uploadButton.click();
+  } else {
+    Tab.pressKey('Enter');
+  }
+}
+
+// Intercept next HTTP request (ProfoundUI)
 function interceptNextHttpRequest() {
   return new Promise((resolve) => {
     const originalOpen = XMLHttpRequest.prototype.open;
     const originalSend = XMLHttpRequest.prototype.send;
 
-    // Override open and send methods
-    XMLHttpRequest.prototype.open = function(method, url, async, user, password) {
-      this._url = url; // Save the URL for later
+    XMLHttpRequest.prototype.open = function() {
       originalOpen.apply(this, arguments);
     };
-
-    XMLHttpRequest.prototype.send = function(body) {
-      // Intercept the 'load' event to detect when the request finishes
+    XMLHttpRequest.prototype.send = function() {
       this.addEventListener('load', function() {
-        // Restore the original XMLHttpRequest methods
         XMLHttpRequest.prototype.open = originalOpen;
         XMLHttpRequest.prototype.send = originalSend;
-
-        // Resolve the promise after the request is finished
         resolve(this);
       });
-
       originalSend.apply(this, arguments);
     };
   });
 }
+
+// Override Enter button click
+function overrideEnterButtonClick() {
+  var enterButton = document.querySelector('.tablet-button#enterBtn');
+  if (!enterButton || originalEnterButtonOnClick) return;
+
+  originalEnterButtonOnClick = enterButton.onclick;
+  enterButton.onclick = function() {
+    handleFileUpload(customImageUploadElementId);
+  };
+}
+
+// Restore Enter button click
+function restoreEnterButtonClick() {
+  var enterButton = document.querySelector('.tablet-button#enterBtn');
+  if (enterButton && originalEnterButtonOnClick) {
+    enterButton.onclick = originalEnterButtonOnClick;
+    originalEnterButtonOnClick = null;
+  }
+}
+
+// Override the file upload widget
+function overrideFileUploadWidget() {
+  var fileUpload = document.getElementById(customImageUploadElementId);
+  if (!fileUpload) return;
+
+  overrideEnterButtonClick();
+
+  var fileInput = fileUpload.querySelector('input[type="file"]');
+  fileInput.removeEventListener('change', handleFileChange);
+  fileInput.addEventListener('change', handleFileChange);
+
+  // Handle remove button
+  var removeButton = fileUpload.querySelector('a.remove');
+  if (removeButton) {
+    removeButton.removeEventListener('click', resetFileDisplay);
+    removeButton.addEventListener('click', resetFileDisplay);
+  }
+
+  // Handle clear button
+  var clearButton = fileUpload.querySelector('a.clear');
+  if (clearButton) {
+    clearButton.removeEventListener('click', resetFileDisplay);
+    clearButton.addEventListener('click', resetFileDisplay);
+  }
+
+  // Hide upload button
+  var uploadButton = fileUpload.querySelector('a.upload');
+  if (uploadButton) uploadButton.style.display = 'none';
+}
+
+// Listen for Enter key globally
+document.addEventListener('keydown', function(event) {
+  if (event.key === 'Enter') {
+    var fileUpload = document.getElementById(customImageUploadElementId);
+    if (fileUpload) handleFileUpload(customImageUploadElementId);
+  }
+});
+
+
+
+
+
+// var customImageUploadElementId = 'image-upload-custom';
+// var customImageSourceElementId = 'image-source-custom';
+// var originalEnterButtonOnClick = null;
+// var hasImageLoaded = false;
+// var hasFileSelected = false;
+
+// // Gets the file name and path from the text box on the UI
+// function getFileNameAndPath() {
+//     // Get the values of the four text boxes
+//     var text1 = text2 = text3 = text4 = '';
+//     if (document.getElementById('I_12_10')) {
+//       text1 = document.getElementById('I_12_10').value.trim();
+//       text2 = document.getElementById('I_13_10').value.trim();
+//       text3 = document.getElementById('I_14_10').value.trim();
+//       text4 = document.getElementById('I_15_10').value.trim();
+//     }
+//     else if (document.getElementById('I_11_9')) {
+//       text1 = document.getElementById('I_11_9').value.trim();
+//       text2 = document.getElementById('I_12_9').value.trim();
+//       text3 = document.getElementById('I_13_9').value.trim();
+//       text4 = document.getElementById('I_14_9').value.trim();
+//     }
+//     else if (document.getElementById('I_9_13_W1')) {
+//       text1 = document.getElementById('I_9_13_W1').value.trim();
+//       text2 = document.getElementById('I_10_13_W1').value.trim();
+//       text3 = document.getElementById('I_11_13_W1').value.trim();
+//       text4 = document.getElementById('I_12_13_W1').value.trim();
+//     }
+    
+
+//     // Combine the texts and trim any excess spaces between them
+//     return (text1 + text2 + text3 + text4).replace(/\s+/g, ' ').trim();
+// }
+
+// // Resets the image source to the server location
+// function resetImageSource() {
+//   // Get the image element 
+//   var imgElem = document.getElementById(customImageSourceElementId);
+//   if (imgElem) {
+//     var combinedText = getFileNameAndPath();
+//     // The relative path we need to remove from the string
+//     var locationStrToRemove = "/www/profoundui/htdocs";
+
+//     // Check if the combined text starts with the unwanted string and remove it if present
+//     if (combinedText.startsWith(locationStrToRemove)) {
+//         combinedText = combinedText.substring(locationStrToRemove.length).trim();
+//     }
+    
+//     // Generate a unique timestamp
+//     var timestamp = new Date().getTime();
+//     // Set the image src to the URL from the text
+//     imgElem.src = combinedText + "?t=" + timestamp;
+    
+//     hasFileSelected = false;
+    
+//     imgElem.addEventListener('load', function() {
+//       hasImageLoaded = true;
+//     });
+
+//     imgElem.addEventListener('error', function() {
+//       hasImageLoaded = false;
+//     });
+//   }
+// }
+
+// // Overrides the File Upload Widget if it has the custom ID to handle image uploading workflow
+// function overrideFileUploadWidget() {
+//   // Get the file upload input
+//   var fileUpload = document.getElementById(customImageUploadElementId);
+//   if (fileUpload) {
+//     // call function to intercept button events to submit form
+//     overrideEnterButtonClick();
+    
+//     // add an event listener for when the user selects a file
+//     fileUpload.addEventListener('change', function() {
+//       // get file name and path
+//       var combinedText = getFileNameAndPath();
+    
+//       // parse out the image name (everything after the last '/')
+//       var lastSlashIndex = combinedText.lastIndexOf('/');
+//       var imageName = combinedText.substring(lastSlashIndex + 1); // Extract the image name
+//       var imagePath = combinedText.substring(0, lastSlashIndex);
+      
+//       applyProperty(customImageUploadElementId, "target directory", imagePath);
+//       applyProperty(customImageUploadElementId, "rename to", imageName);
+      
+//       // add listener after every change since it gets wiped
+//       var fileInput = document.querySelector(`#${customImageUploadElementId} input[type="file"]`);
+//       fileInput.removeEventListener('change', handleFileChange);
+//       fileInput.addEventListener('change', handleFileChange);
+      
+//       // add listener for the remove button
+//       var removeButton = document.querySelector(`#${customImageUploadElementId} a.remove`); // Target the remove button
+//       if (removeButton) {
+//         removeButton.removeEventListener('click', resetImageSource);
+//         removeButton.addEventListener('click', resetImageSource);
+//       }
+    
+//       // hide the upload button
+//       var uploadButton = document.querySelector(`#${customImageUploadElementId} a.upload`); // Target the upload button
+//       if (uploadButton)
+//         uploadButton.style.display = 'none';
+//     });
+    
+//     // add initial listener for file upload
+//     var fileInput = document.querySelector(`#${customImageUploadElementId} input[type="file"]`);
+//     fileInput.removeEventListener('change', handleFileChange);
+//     fileInput.addEventListener('change', handleFileChange);
+    
+//     // add listener for the clear button
+//     var clearButton = document.querySelector(`#${customImageUploadElementId} a.clear`); // Target the clear button
+//     clearButton.removeEventListener('click', resetImageSource);
+//     clearButton.addEventListener('click', resetImageSource);
+//   }
+//   else {
+//     restoreEnterButtonClick();
+//   }
+// }
+
+// // Listener to capture when the enter key is pressed
+// document.addEventListener('keydown', function(event) {
+//   if (event.key === 'Enter') {
+//     var fileUpload = document.getElementById(customImageUploadElementId);
+    
+//     if (fileUpload)
+//       handleFileUpload(customImageUploadElementId);
+//   }
+// });
+
+// // Function to swap the click event on the specific page
+// function overrideEnterButtonClick() {
+//   var enterButton = document.querySelector('.tablet-button#enterBtn');
+  
+//   // Store the original click handler if it's not already stored
+//   if (!originalEnterButtonOnClick && enterButton) {
+//     originalEnterButtonOnClick = enterButton.onclick;
+
+//     // Override the click handler
+//     enterButton.onclick = function(event) {
+//       handleFileUpload(customImageUploadElementId);
+//     };
+//   }
+// }
+
+// // Restores the Enter button click if not on a page with image uploading
+// function restoreEnterButtonClick() {
+//   var enterButton = document.querySelector('.tablet-button#enterBtn');
+
+//   // Restore the original event handler
+//   if (originalEnterButtonOnClick) {
+//     enterButton.onclick = originalEnterButtonOnClick;
+//     originalEnterButtonOnClick = null; // Clear the reference
+//   }
+// }
+
+// // File upload handling logic
+// function handleFileUpload(elementId, callback) {
+//   var fileInput = document.querySelector(`#${elementId} input[type="file"]`);
+
+//   if (fileInput && !hasImageLoaded) {
+//     alert("Please select an image to upload");
+//     return;
+//   }
+
+//   var uploadButton = document.querySelector(`#${elementId} a.upload`);
+//   if (uploadButton && hasFileSelected) {
+//     // Set up to intercept the next request, so we can submit the form after the image uploads
+//     interceptNextHttpRequest().then((xhr) => {
+//       Tab.pressKey('Enter', event); // Continue with the ProfoundUI Enter action
+//     });
+    
+//     // Upload the image
+//     uploadButton.click();
+//   }
+//   else
+//     Tab.pressKey('Enter', event); // Continue with the ProfoundUI Enter action
+// }
+
+// // Updates the Image source if a file is selected or removed
+// function handleFileChange() {
+//   // update the image widget
+//   var imageWidget = document.getElementById(customImageSourceElementId);
+//   var fileInput = this;
+//   if (imageWidget) {
+//     if (fileInput.files && fileInput.files.length > 0) {
+//       var selectedFile = fileInput.files[0]; // Get the selected file
+//       var imageURL = URL.createObjectURL(selectedFile);
+      
+//       // Set the src attribute of the image widget to the new file URL
+//       imageWidget.src = imageURL;
+      
+//       // Set has file selected flag to false
+//       hasFileSelected = true;
+
+//       // Revoke the object URL after the image has loaded to free up memory
+//       imageWidget.onload = function() {
+//         URL.revokeObjectURL(imageURL); // Clean up once the image is loaded
+//       };
+
+//       // Clear the file input's value to allow re-selection of the same file
+//       fileInput.value = '';
+//     }
+//     else {
+//       resetImageSource();
+//     }
+//   }
+// }
+
+// // Intercepts an HTTP request
+// function interceptNextHttpRequest() {
+//   return new Promise((resolve) => {
+//     const originalOpen = XMLHttpRequest.prototype.open;
+//     const originalSend = XMLHttpRequest.prototype.send;
+
+//     // Override open and send methods
+//     XMLHttpRequest.prototype.open = function(method, url, async, user, password) {
+//       this._url = url; // Save the URL for later
+//       originalOpen.apply(this, arguments);
+//     };
+
+//     XMLHttpRequest.prototype.send = function(body) {
+//       // Intercept the 'load' event to detect when the request finishes
+//       this.addEventListener('load', function() {
+//         // Restore the original XMLHttpRequest methods
+//         XMLHttpRequest.prototype.open = originalOpen;
+//         XMLHttpRequest.prototype.send = originalSend;
+
+//         // Resolve the promise after the request is finished
+//         resolve(this);
+//       });
+
+//       originalSend.apply(this, arguments);
+//     };
+//   });
+// }
 ////////////////////////////////////////////////////////////////////////////////////////
 /*  END OF IMAGE UPLOAD CODE */
 ////////////////////////////////////////////////////////////////////////////////////////

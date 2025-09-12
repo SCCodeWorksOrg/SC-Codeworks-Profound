@@ -412,7 +412,13 @@ DIV.Spaced {
   z-index: 30;
   
 }
-
+/*DIV.Default {*/
+/*  display: flex;*/
+/*  justify-content: center; */
+/*  align-items: center;    */
+/*  min-height: 100vh;     */
+/*   height: calc(100vh - var(--header-height));*/
+/*}*/
 /* default window border */
 DIV.Default {
   border-color: #336699;
@@ -759,7 +765,8 @@ INPUT.A36 /*Yellow Underscore*/
   color:#1f7d09;
   font-weight:bold;
 }
-#D_7_10, #D_8_10, #D_9_10, #D_6_10, #D_10_10 {
+/*#D_9_10,*/
+#D_7_10, #D_8_10,  #D_6_10, #D_10_10 {
   color:#1E487A;
   background-color:#d6e0f5;
   font-weight:bold;

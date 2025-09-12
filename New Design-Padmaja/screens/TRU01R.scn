@@ -8,7 +8,7 @@
     { "id": "D_6_2", "field_type": "output field", "value": "script: value", "parent_window": "TRU01R", "visibility": "hidden" }, 
     { "id": "D_6_80", "field_type": "output field", "value": "script: value", "parent_window": "TRU01R", "visibility": "hidden" }, 
     { "id": "D_7_2", "field_type": "output field", "value": "script: value", "parent_window": "TRU01R", "visibility": "hidden" }, 
-    { "id": "D_7_10", "field_type": "output field", "value": "script: value", "top": "145px", "left": "90px", "parent_window": "TRU01R", "text_align": "right" }, 
+    { "id": "D_7_10", "field_type": "output field", "value": "script: value", "top": "145px", "left": "90px", "parent_window": "TRU01R", "text_align": "right", "background_color": "#f0f5fb" }, 
     { "id": "D_7_80", "field_type": "output field", "value": "script: value", "parent_window": "TRU01R", "visibility": "hidden" }, 
     { "id": "D_8_2", "field_type": "output field", "value": "script: value", "parent_window": "TRU01R", "visibility": "hidden" }, 
     { "id": "D_8_6", "field_type": "output field", "value": "script: value", "top": "169px", "left": "50px", "parent_window": "TRU01R", "text_align": "right" }, 
@@ -37,7 +37,6 @@
     { "id": "D_19_2", "field_type": "output field", "value": "script: value", "parent_window": "TRU01R", "visibility": "hidden" }, 
     { "id": "D_19_80", "field_type": "output field", "value": "script: value", "parent_window": "TRU01R", "visibility": "hidden" }, 
     { "id": "D_20_2", "field_type": "output field", "value": ":....................................................................................................:", "parent_window": "TRU01R", "visibility": "hidden" }, 
-    { "id": "Panel1", "field_type": "css panel", "parent_window": "TRU01R", "left": "55px", "top": "84px", "width": "687px", "height": "347px", "z_index": "8", "header_theme": "B - Blue", "body_theme": "D - Light Gray", "value": "script: value", "newitem": "true" }, 
     { "id": "I_7_24", "field_type": "textbox", "value": "script: value", "parent_window": "TRU01R" }, 
     { "id": "I_8_24", "field_type": "textbox", "value": "script: value", "parent_window": "TRU01R" }, 
     { "id": "I_9_24", "field_type": "textbox", "value": "script: value", "parent_window": "TRU01R", "width": "413px" }, 
@@ -51,6 +50,7 @@
     { "id": "D_18_4_CF12", "field_type": "button", "value": "script: value", "parent_window": "TRU01R" }, 
     { "id": "D_18_4_CF05", "field_type": "button", "value": "script: value", "parent_window": "TRU01R" }, 
     { "id": "D_18_4", "field_type": "button", "value": "script: value", "parent_window": "TRU01R" }, 
+    { "id": "Panel1", "field_type": "field set panel", "parent_window": "TRU01R", "left": "55px", "top": "84px", "width": "687px", "height": "347px", "z_index": "8", "value": "script: value", "newitem": "true", "border_top_color": "#000066", "border_right_color": "#000066", "border_left_color": "#000066", "border_bottom_color": "#000066" }, 
     { "id": "D_4_2", "field_type": "output field", "value": ".....................................................................................................", "top": "73px", "left": "10px", "text_align": "right", "parent_window": "TRU01R" }, 
     { "id": "D_10_2", "field_type": "output field", "value": "script: value", "top": "219px", "left": "21px", "parent_window": "TRU01R" }
   ]

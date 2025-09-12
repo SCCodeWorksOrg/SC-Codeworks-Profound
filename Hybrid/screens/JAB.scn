@@ -1,0 +1,6 @@
+{
+  "screen": { "overtype_mode": "true", "highlight_on_focus": "true", "adjust_window_borders": "true", "screen_name": "JAB", "alert_errors": "true", "detect_menus": "true", "detect_date_fields": "true", "default_date_format": "MM/DD/YY", "enlarge_headings": "true", "function_key_buttons": "true", "use_fixed_font": "false" },
+  "items": [
+    { "id": "D_1_16", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "identifier_value": "          Problem Tracking Application" }
+  ]
+}

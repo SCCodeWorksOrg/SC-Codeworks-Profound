@@ -616,9 +616,10 @@
     },
     {
       "screen": "IHW943S",
-      "modified": "1755021230925",
+      "modified": "1755088688686",
       "identifiers": [
-        { "id": "D_1_11", "value": "IHW943S" }
+        { "id": "D_1_11", "value": "IHW943S" },
+        { "id": "D_10_8", "value": "  Tally" }
       ]
     },
     {
@@ -668,6 +669,13 @@
       "modified": "1755020680810",
       "identifiers": [
         { "id": "D_1_12", "value": "CTW10S" }
+      ]
+    },
+    {
+      "screen": "option",
+      "modified": "1755088500318",
+      "identifiers": [
+        { "id": "D_8_10", "value": "AS=Assign         AW=Putaway Task   BO=Back Out NoChg BT=Blind Tally" }
       ]
     }
   ],
@@ -801,7 +809,7 @@
     },
     {
       "screen": "TRU01R",
-      "modified": "1755014830058",
+      "modified": "1755089035617",
       "identifiers": [
         { "id": "D_5_4", "value": "TRU01R" }
       ]

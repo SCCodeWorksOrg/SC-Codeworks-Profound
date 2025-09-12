@@ -214,8 +214,8 @@ hideElement('D_25_2');
         if (getObj("I_9_1")) getObj("I_9_1").style.visibility = 'hidden';
       }
       
-      
-      ['D_7_10', 'D_8_10', 'D_9_10', 'D_6_10', 'D_10_10'].forEach(id => {
+      // 'D_9_10'
+      ['D_7_10', 'D_8_10','D_9_10', 'D_6_10', 'D_10_10'].forEach(id => {
   var el = document.getElementById(id);
   if (el) {
     if (!el.textContent.trim()) {  // if empty or whitespace only
@@ -321,27 +321,217 @@ hybridSkin.fixLinks = function() {
     if (height < 450) height = 450;
     panel.style.height = height + "px";
   }
-}
+  }
+    // hybridSkin.resizeArea = function () {
+    //   if (pui.genie.middleDiv != null) {
+    //     var div5250 = getObj("5250");
+    //     var middleDiv = pui.genie.middleDiv;
+    
+    //     // --- Position 5250 if exists ---
+    //     if (div5250 != null && div5250.style.width != "100%") {
+    //       var windowWidth = pui.getWindowSize().width;
+    //       if (pui.genie.displaySize == 132) {
+    //         middleDiv.style.height = "640px";
+    //         div5250.style.position = "absolute";
+    //         var position = (windowWidth - 950) / 2;
+    //         if (position < 180) position = 180;
+    //         div5250.style.left = position + "px";
+    //       } else {
+    //         middleDiv.style.height = "560px";
+    //         div5250.style.position = "absolute";
+    //         var position = (windowWidth - 620) / 2;
+    //         if (position < 180) position = 180;
+    //         div5250.style.left = position + "px";
+    //       }
+    //     }
+    
+    //     // --- Chat Button (inside middleDiv) ---
+    //     var chatButton = middleDiv.querySelector('.bottom-chat-btn');
+    //     if (!chatButton) {
+    //       chatButton = document.createElement('button');
+    //       chatButton.className = 'bottom-chat-btn';
+    //       chatButton.style.position = 'absolute';
+    //       chatButton.style.right = '10px';
+    //       chatButton.style.bottom = '10px';
+    //       chatButton.style.backgroundColor = '#00a9df';
+    //       chatButton.style.border = 'none';
+    //       chatButton.style.borderRadius = '50%';
+    //       chatButton.style.cursor = 'pointer';
+    //       chatButton.style.zIndex = '1000';
+    //       chatButton.style.width = '60px';
+    //       chatButton.style.height = '60px';
+    //       chatButton.style.display = 'flex';
+    //       chatButton.style.alignItems = 'center';
+    //       chatButton.style.justifyContent = 'center';
+    
+    //       var iconImg = document.createElement('img');
+    //       iconImg.src = '/profoundui/userdata/images/chat.png';
+    //       iconImg.alt = 'Chat Icon';
+    //       iconImg.style.width = '40px';
+    //       iconImg.style.height = '40px';
+    //       chatButton.appendChild(iconImg);
+    
+    //       middleDiv.appendChild(chatButton);
+    //     }
+       
+    //     // --- Chat iframe (outside div5250 to prevent double frames) ---
+    //     var chatBox = document.querySelector('#codiChatBox');
+    //     if (!chatBox) {
+    //       chatBox = document.createElement('iframe');
+    //       chatBox.id = 'codiChatBox';
+    //       chatBox.src = 'https://codi.sccodeworks.com/';
+    //       chatBox.style.position = 'fixed';
+    //       chatBox.style.bottom = '80px';
+    //       chatBox.style.right = '10px';
+    //       chatBox.style.width = '400px';
+    //       chatBox.style.height = '500px';
+    //       chatBox.style.border = 'none';
+    //       chatBox.style.overflow = 'hidden !important';
+    //       chatBox.style.display = 'none';
+    //       chatBox.style.zIndex = '9999';
+    //         chatBox.style.overflow = 'scroll'; // allow scrollin
+    //       // chatBox.setAttribute('scrolling', 'no'); // prevent scrollbars in older browsers
+    //       document.body.appendChild(chatBox);
+    //     }
+    
+    //     // Hide scrollbars via JS (WebKit and Firefox)
+    //     var style = document.createElement('style');
+    //     style.innerHTML = `
+    //       #codiChatBox::-webkit-scrollbar { display: none; }
+    //       #codiChatBox { scrollbar-width: none; }
+    //     `;
+    //     document.head.appendChild(style);
+    //     // --- Toggle iframe ---
+    //     chatButton.onclick = function () {
+    //       chatBox.style.display = (chatBox.style.display === 'none') ? 'block' : 'none';
+    //     };
+    
+    //     // --- Hide on signon ---
+    //     var isSignon = document.body.classList.contains('hybrid-signon');
+    //     chatButton.style.display = isSignon ? 'none' : 'flex';
+    //     if (isSignon) chatBox.style.display = 'none';
+    //   }
+    // };
+    
+    
+    
+//   hybridSkin.resizeArea = function () {
+//   if (pui.genie.middleDiv != null) {
+//     var div5250 = getObj("5250");
+//     var middleDiv = pui.genie.middleDiv;
 
+//     // --- Position 5250 if exists ---
+//     if (div5250 != null && div5250.style.width != "100%") {
+//       var windowWidth = pui.getWindowSize().width;
+//       if (pui.genie.displaySize == 132) {
+//         middleDiv.style.height = "640px";
+//         div5250.style.position = "absolute";
+//         var position = (windowWidth - 950) / 2;
+//         if (position < 180) position = 180;
+//         div5250.style.left = position + "px";
+//       } else {
+//         middleDiv.style.height = "560px";
+//         div5250.style.position = "absolute";
+//         var position = (windowWidth - 620) / 2;
+//         if (position < 180) position = 180;
+//         div5250.style.left = position + "px";
+//       }
+//     }
 
+//     // --- Chat Icon (image only) ---
+//     var chatIcon = middleDiv.querySelector('.bottom-chat-icon');
+//     if (!chatIcon) {
+//       chatIcon = document.createElement('img');
+//       chatIcon.className = 'bottom-chat-icon';
+//       chatIcon.src = '/profoundui/userdata/images/chat.png';
+//       chatIcon.alt = 'Chat Icon';
 
-hybridSkin.resizeArea = function() {
+//       chatIcon.style.position = 'fixed';
+//       chatIcon.style.right = '10px';
+//       chatIcon.style.bottom = '10px';
+//       chatIcon.style.width = '60px';
+//       chatIcon.style.height = '60px';
+//       chatIcon.style.cursor = 'pointer';
+//       chatIcon.style.zIndex = '1000';
+//       chatIcon.style.background = 'none';
+//       chatIcon.style.border = 'none';
+//       chatIcon.style.boxShadow = 'none';
+//       chatIcon.style.outline = 'none';
+
+//       middleDiv.appendChild(chatIcon);
+//     }
+
+//     // --- Chat container (NO iframe here) ---
+//     var chatBox = document.querySelector('#codiChatBox');
+//     if (!chatBox) {
+//       chatBox = document.createElement('div');
+//       chatBox.id = 'codiChatBox';
+//       chatBox.style.position = 'fixed';
+//       chatBox.style.bottom = '80px';
+//       chatBox.style.right = '10px';
+//       chatBox.style.width = '400px';
+//       chatBox.style.height = '500px';
+//       chatBox.style.display = 'none';
+//       chatBox.style.zIndex = '9999';
+//       chatBox.style.margin = '0';
+//       chatBox.style.padding = '0';
+//       chatBox.style.boxShadow = 'none';
+//       chatBox.style.background = 'transparent';
+
+//       document.body.appendChild(chatBox);
+
+//       // Mount your React chatbot widget
+//       if (window.CodiChatWidget && typeof window.CodiChatWidget.init === 'function') {
+//         window.CodiChatWidget.init({
+//           position: "bottom-right",
+//           width: "400px",
+//           height: "500px",
+//         });
+//       } else {
+//         console.warn("CodiChatWidget not loaded yet");
+//       }
+//     } // <-- closes if (!chatBox)
+
+//     // --- Toggle container ---
+//     chatIcon.onclick = function () {
+//       chatBox.style.display =
+//         (chatBox.style.display === 'none') ? 'block' : 'none';
+//     };
+
+//     // --- Hide on signon ---
+//     var isSignon = document.body.classList.contains('hybrid-signon');
+//     chatIcon.style.display = isSignon ? 'none' : 'block';
+//     if (isSignon) chatBox.style.display = 'none';
+//   }
+// }; // <-- closes hybridSkin.resizeArea
+//   function initWidget() {
+//     if (window.CodiChatWidget && typeof window.CodiChatWidget.init === 'function') {
+//       window.CodiChatWidget.init({
+//         position: "bottom-right",
+//         width: "400px",
+//         height: "500px"
+//       });
+//     } else {
+//       setTimeout(initWidget, 100);
+//     }
+//   }
+//   initWidget();
+
+hybridSkin.resizeArea = function () {
   if (pui.genie.middleDiv != null) {
     var div5250 = getObj("5250");
     var middleDiv = pui.genie.middleDiv;
 
-    // --- Existing positioning logic ---
+    // --- Position 5250 if exists ---
     if (div5250 != null && div5250.style.width != "100%") {
       var windowWidth = pui.getWindowSize().width;
-
       if (pui.genie.displaySize == 132) {
         middleDiv.style.height = "640px";
         div5250.style.position = "absolute";
         var position = (windowWidth - 950) / 2;
         if (position < 180) position = 180;
         div5250.style.left = position + "px";
-      }
-      else {
+      } else {
         middleDiv.style.height = "560px";
         div5250.style.position = "absolute";
         var position = (windowWidth - 620) / 2;
@@ -350,92 +540,105 @@ hybridSkin.resizeArea = function() {
       }
     }
 
-    // --- Create or get the chat icon ---
-    var chatIcon = middleDiv.querySelector('.bottom-icon');
+    // --- Chat Icon (image only) ---
+    var chatIcon = middleDiv.querySelector('.bottom-chat-icon');
     if (!chatIcon) {
       chatIcon = document.createElement('img');
+      chatIcon.className = 'bottom-chat-icon';
       chatIcon.src = '/profoundui/userdata/images/chat.png';
       chatIcon.alt = 'Chat Icon';
-      chatIcon.className = 'bottom-icon';
-      middleDiv.appendChild(chatIcon);
-    }
 
-    // Style chat icon
+      // Style the chat icon
       chatIcon.style.position = 'fixed';
       chatIcon.style.right = '10px';
       chatIcon.style.bottom = '10px';
-      chatIcon.style.width = '50px';
-      chatIcon.style.height = '50px';
-      
-      chatIcon.style.background = 'none';
-      chatIcon.style.borderRadius = '5px';
+      chatIcon.style.boxShadow = 'none';
+      chatIcon.style.outline = 'none';     
+      chatIcon.style.width = '60px';
+      chatIcon.style.height = '60px';
       chatIcon.style.cursor = 'pointer';
-      chatIcon.style.zIndex = '10000';
-      chatIcon.style.pointerEvents = 'auto'; // only icon catches clicks
+      chatIcon.style.zIndex = '1000';
+      chatIcon.style.background = 'none';
+      chatIcon.style.border = 'none';
+      chatIcon.style.boxShadow = 'none';
+
+      middleDiv.appendChild(chatIcon);
+    }
+
+    // --- Chat iframe (outside div5250 to prevent double frames) ---
+    // var chatBox = document.querySelector('#codiChatBox');
+    // if (!chatBox) {
+    //   chatBox = document.createElement('iframe');
+    //   chatBox.id = 'codiChatBox';
+    //   chatBox.src = 'https://codi.sccodeworks.com/';
+    //   chatBox.style.position = 'fixed';
+    //   chatBox.style.bottom = '80px';
+    //   chatBox.style.right = '10px';
+    //   chatBox.style.width = '400px';
+    //   chatBox.style.height = '500px';
       
-    // --- Create or get the chat box ---
-    var chatBox = middleDiv.querySelector('.chat-box');
+    //   chatBox.style.boxShadow = 'none';
+    //   chatBox.style.outline = 'none';   
+    //   chatBox.style.border = 'none';
+    //   chatBox.style.display = 'none';
+    //   chatBox.style.zIndex = '9999';
+    //   chatBox.style.overflow = 'scroll'; // allow scrolling
+    //   document.body.appendChild(chatBox);
+    // }
+   
+   
+    // --- Chat container (no extra iframe) ---
+    var chatBox = document.querySelector('#codiChatBox');
     if (!chatBox) {
       chatBox = document.createElement('div');
-      chatBox.className = 'chat-box';
-      chatBox.style.position = 'absolute';
-      chatBox.style.bottom = '70px'; // place above the icon (50px icon height + 20px margin)
+      chatBox.id = 'codiChatBox';
+    
+      // load your existing chat widget directly inside
+      chatBox.innerHTML = `
+        <iframe src="https://codi.sccodeworks.com/"
+                style="width:100%; height:100%; border:none; margin:0; padding:0;">
+        </iframe>
+      `;
+    
+      chatBox.style.position = 'fixed';
+      chatBox.style.bottom = '80px';
       chatBox.style.right = '10px';
-      chatBox.style.width = '300px';
-      chatBox.style.height = '250px';
-      chatBox.style.background = 'white';
-      chatBox.style.border = '1px solid #ccc';
-      chatBox.style.borderRadius = '8px';
-      chatBox.style.boxShadow = '0 2px 10px rgba(0,0,0,0.15)';
-      chatBox.style.padding = '10px';
-      chatBox.style.display = 'none'; // hidden initially
-      chatBox.style.zIndex = '1001';
-      chatBox.style.overflowY = 'auto';
-      chatBox.innerHTML = `<div style="font-weight:bold; margin-bottom:10px;">Chat With Us</div>
-                           <div id="chat-messages" style="height: 140px; overflow-y: auto;
-                           border: 1px solid #eee; padding: 5px; margin-bottom: 10px; font-size: 16px;"></div>
-                           <input id="chat-input" type="text" placeholder="Type a message..." 
-                           style="width: 100%; padding: 6px; box-sizing: border-box; font-size: 16px;">`;
-      middleDiv.appendChild(chatBox);
-
-      // Send message on Enter key
-      var chatInput = chatBox.querySelector('#chat-input');
-      var chatMessages = chatBox.querySelector('#chat-messages');
-      chatInput.addEventListener('keydown', function(e) {
-        if (e.key === 'Enter' && this.value.trim() !== '') {
-          var msg = document.createElement('div');
-          msg.textContent = this.value.trim();
-          msg.style.padding = '4px 6px';
-          msg.style.marginBottom = '4px';
-          msg.style.backgroundColor = '#e0f7fa';
-          msg.style.borderRadius = '4px';
-          chatMessages.appendChild(msg);
-          chatMessages.scrollTop = chatMessages.scrollHeight;
-          this.value = '';
-        }
-      });
-    }
-
-    // Toggle chat box on icon click
-    chatIcon.onclick = function() {
-      if (chatBox.style.display === 'none') {
-        chatBox.style.display = 'block';
-      } else {
-        chatBox.style.display = 'none';
-      }
-    }
-    
-    
-     var isSignon = document.body.classList.contains('hybrid-signon');
-    if (isSignon) {
-      chatIcon.style.display = 'none';
+      chatBox.style.width = '400px';
+      chatBox.style.height = '500px';
       chatBox.style.display = 'none';
-    } else {
-      chatIcon.style.display = 'block';
-      if (!chatBox.style.display) chatBox.style.display = 'none';
+      chatBox.style.zIndex = '9999';
+      chatBox.style.margin = '0';
+      chatBox.style.padding = '0';
+      chatBox.style.boxShadow = 'none';
+      chatBox.style.background = 'transparent';
+    
+      document.body.appendChild(chatBox);
     }
+
+    // Hide scrollbars via JS (WebKit + Firefox)
+    if (!document.getElementById('chatBoxScrollStyle')) {
+      var style = document.createElement('style');
+      style.id = 'chatBoxScrollStyle';
+      style.innerHTML = `
+        #codiChatBox::-webkit-scrollbar { display: none; }
+        #codiChatBox { scrollbar-width: none; }
+      `;
+      document.head.appendChild(style);
+    }
+
+    // --- Toggle iframe ---
+    chatIcon.onclick = function () {
+      chatBox.style.display = (chatBox.style.display === 'none') ? 'block' : 'none';
+    };
+
+    // --- Hide on signon ---
+    var isSignon = document.body.classList.contains('hybrid-signon');
+    chatIcon.style.display = isSignon ? 'none' : 'block';
+    if (isSignon) chatBox.style.display = 'none';
   }
-}
+};
+
+
 
 hybridSkin.displayLogo = function(dspf) {
   var logo = "logo.png";

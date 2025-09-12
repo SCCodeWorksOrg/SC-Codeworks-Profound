@@ -1,0 +1,7 @@
+{
+  "screen": { "screen_name": "option" },
+  "items": [
+    { "id": "D_8_10", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "background_color": "#d6e0f5", "identifier_value": "AS=Assign         AW=Putaway Task   BO=Back Out NoChg BT=Blind Tally" }, 
+    { "id": "D_9_10", "field_type": "output field", "value": "script: value", "color": "#1E487A", "font_weight": "bold", "background_color": "#d6e0f5" }
+  ]
+}

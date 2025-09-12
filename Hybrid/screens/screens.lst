@@ -1,0 +1,31 @@
+{
+  "screens": [
+    {
+      "screen": "login",
+      "identifiers": [
+        { "id": "quit_button", "value": "Exit" },
+        { "id": "login_button", "value": "Login" }
+      ]
+    },
+    {
+      "screen": "ITWO1S",
+      "identifiers": [
+        { "id": "D_10_2", "value": "Opt D Item Code/Description                       Lot Bld UPC          Tail" }
+      ]
+    },
+    {
+      "screen": "JAB",
+      "identifiers": [
+        { "id": "D_1_16", "value": "          Problem Tracking Application" }
+      ]
+    },
+    {
+      "screen": "WW Items",
+      "identifiers": [
+        { "id": "D_2_21", "value": "            Work With Items" }
+      ]
+    }
+  ],
+  "windows": [
+  ]
+}

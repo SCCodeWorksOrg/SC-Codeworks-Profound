@@ -1,0 +1,32 @@
+{
+  "screen": { "screen_name": "ITWO1S" },
+  "items": [
+    { "id": "D_9_6", "field_type": "output field", "value": "script: value", "top": "188px", "left": "5px" }, 
+    { "id": "D_10_2", "screen_identifier": "true", "field_type": "output field", "value": "script: value", "top": "202px", "left": "-23px", "identifier_value": "Opt D Item Code/Description                       Lot Bld UPC          Tail" }, 
+    { "id": "I_11_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "left": "-44px", "top": "226px" }, 
+    { "id": "I_12_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "left": "-45px", "top": "253px" }, 
+    { "id": "I_13_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "left": "-45px", "top": "276px" }, 
+    { "id": "I_14_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "left": "-45px", "top": "299px" }, 
+    { "id": "I_15_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "left": "-45px", "top": "322px" }, 
+    { "id": "I_16_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "left": "-45px", "top": "345px" }, 
+    { "id": "I_17_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "left": "-45px", "top": "368px" }, 
+    { "id": "I_18_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "left": "-45px", "top": "391px" }, 
+    { "id": "I_19_3", "field_type": "combo box", "choices": "X-Reference,Change,Copy,Delete,Stock Inquiry,Lot Status,Item Status,Chg UPC Code", "value": "script: value", "left": "-45px", "top": "414px" }, 
+    { "id": "HtmlContainer1", "field_type": "html container", "color": "#000000", "font_family": "Consolas, monospace", "font_size": "14px", "font_style": "normal", "font_variant": "normal", "letter_spacing": "normal", "text_decoration": "none solid rgb(0, 0, 0)", "text_transform": "none", "word_spacing": "0px", "top": "85px", "left": "724px", "z_index": "10", "html": "<h2>Test Upload (WIP)</h2>\n<form id=\"uploadForm\">\n  <input type=\"hidden\" id=\"itemIdField\" name= value=\"12345\">\n  <input type=\"file\" id=\"imageFile\" accept=\"image/*\">\n  <button type=\"button\" onclick=\"uploadImage()\">Upload Image</button>\n</form>\n\n<script>\nfunction uploadImage() {\n  var fileInput = document.getElementById('imageFile');\n  var file = fileInput.files[0];\n  \n  if (!file) {\n    alert('Please select an image file to upload.');\n    return;\n  }\n\n  // Retrieve the item ID\n  var itemId = getItemId();\n  \n  // Extract the file extension\n  var fileName = file.name;\n  var fileExtension = fileName.substring(fileName.lastIndexOf('.'));\n  \n  // Create a new File object with the item ID as the name and the same file extension\n  var renamedFile = new File([file], itemId + fileExtension, { type: file.type });\n  \n  // Create a FormData object and append the renamed file\n  var formData = new FormData();\n  formData.append('image', renamedFile);\n  \n  // Construct the API URL using the current host but with a different port\n  var currentHost = window.location.hostname;\n  var apiPort = 5200;\n  var apiUrl = `http://${currentHost}:${apiPort}/item/create5`;\n  \n  fetch(apiUrl, {\n    method: 'POST',\n    body: formData\n  })\n  .then(response => response.json())\n  .then(data => {\n    if (data.success) {\n      alert('Image uploaded successfully!');\n    } else {\n      alert('Failed to upload image.');\n    }\n  })\n  .catch(error => {\n    console.error('Error:', error);\n    alert('An error occurred while uploading the image.');\n  });\n}\n\nfunction getItemId() {\n  // Retrieve item ID from a form field or a variable\n  return document.getElementById('itemIdField').value;\n}\n</script>", "white_space": "normal", "width": "200px", "height": "100px", "value": "script: value", "newitem": "true" }, 
+    { "id": "side", "field_type": "output field", "value": "script: value", "top": "56px", "left": "-227px" }, 
+    { "id": "arrow0", "field_type": "output field", "value": "script: value", "top": "69px", "left": "-214px" }, 
+    { "id": "fkey0", "field_type": "output field", "value": "script: value", "top": "71px", "left": "-202px" }, 
+    { "id": "arrow1", "field_type": "output field", "value": "script: value", "top": "92px", "left": "-214px" }, 
+    { "id": "fkey1", "field_type": "output field", "value": "script: value", "top": "94px", "left": "-202px" }, 
+    { "id": "arrow2", "field_type": "output field", "value": "script: value", "top": "115px", "left": "-214px" }, 
+    { "id": "fkey2", "field_type": "output field", "value": "script: value", "top": "117px", "left": "-202px" }, 
+    { "id": "arrow3", "field_type": "output field", "value": "script: value", "top": "138px", "left": "-214px" }, 
+    { "id": "fkey3", "field_type": "output field", "value": "script: value", "top": "140px", "left": "-202px" }, 
+    { "id": "arrow4", "field_type": "output field", "value": "script: value", "top": "161px", "left": "-214px" }, 
+    { "id": "fkey4", "field_type": "output field", "value": "script: value", "top": "163px", "left": "-202px" }, 
+    { "id": "arrow5", "field_type": "output field", "value": "script: value", "top": "184px", "left": "-214px" }, 
+    { "id": "fkey5", "field_type": "output field", "value": "script: value", "top": "186px", "left": "-202px" }, 
+    { "id": "arrow6", "field_type": "output field", "value": "script: value", "top": "207px", "left": "-214px" }, 
+    { "id": "fkey6", "field_type": "output field", "value": "script: value", "top": "209px", "left": "-202px" }
+  ]
+}

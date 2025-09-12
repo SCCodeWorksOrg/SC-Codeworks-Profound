@@ -1,0 +1,18 @@
+{
+  "screen": { "screen_name": "login" },
+  "items": [
+    { "id": "D_6_17", "field_type": "output field", "value": "script: value", "top": "185px", "left": "143px", "text_align": "center" }, 
+    { "id": "D_7_17", "field_type": "output field", "value": "script: value", "top": "233px", "left": "129px" }, 
+    { "id": "D_8_17", "field_type": "output field", "value": "script: value", "top": "112px", "left": "141px" }, 
+    { "id": "D_9_17", "field_type": "output field", "value": "script: value", "top": "129px", "left": "155px" }, 
+    { "id": "D_10_17", "field_type": "output field", "value": "script: value", "top": "149px", "left": "151px" }, 
+    { "id": "I_6_53", "field_type": "textbox", "value": "script: value", "left": "321px", "width": "181px", "height": "24px" }, 
+    { "id": "I_7_53", "field_type": "password field", "value": "script: value", "top": "228px", "left": "321px", "width": "180px", "height": "27px" }, 
+    { "id": "I_8_53", "field_type": "textbox", "value": "script: value", "top": "117px", "left": "354px" }, 
+    { "id": "I_9_53", "field_type": "textbox", "value": "script: value", "top": "139px", "left": "352px" }, 
+    { "id": "I_10_53", "field_type": "textbox", "value": "script: value", "top": "162px", "left": "352px" }, 
+    { "id": "quit_button", "screen_identifier": "true", "field_type": "button", "value": "script: value", "top": "264px", "left": "358px", "onclick": "pressKey('quit')", "width": "75px", "height": "30px", "border_radius": "5px", "identifier_value": "Exit" }, 
+    { "id": "login_button", "screen_identifier": "true", "field_type": "button", "value": "script: value", "top": "263px", "left": "264px", "width": "84px", "height": "31px", "border_radius": "5px", "identifier_value": "Login" }, 
+    { "id": "backdrop_image", "field_type": "image", "value": "script: value", "top": "93px", "left": "111px" }
+  ]
+}
